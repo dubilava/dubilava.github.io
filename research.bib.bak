@@ -241,6 +241,15 @@
   timestamp = {2012.02.20},
 }
 
+@Misc{conflict_seasonal,
+  author    = {David Ubilava},
+  title     = {{Commodity Price Shocks and the Seasonality of Civil Unrest}},
+  year      = {in preparation},
+  keywords  = {inprogress},
+  owner     = {du32},
+  timestamp = {2012.02.20},
+}
+
 @Misc{multistep_forecasts,
   author    = {David Ubilava},
   title     = {{Direct and Iterated Multi-Step Smooth Transition Autoregressive Methods for Commodity Price Forecasting}},
