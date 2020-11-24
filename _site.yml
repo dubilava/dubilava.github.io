@@ -7,6 +7,9 @@ output:
 navbar:
   title: "David Ubilava"
   left:
+    - icon: fa-twitter
+      href: https://twitter.com/DavidUbilava 
+  right:
     - text: "About"
       href: index.html
     - text: "Vita"
