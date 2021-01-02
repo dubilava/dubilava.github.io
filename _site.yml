@@ -4,6 +4,8 @@ output:
   html_document:  
     self_contained: no  
     theme: simplex
+    includes:
+      in_header: sc.html
 navbar:
   title: "David Ubilava"
   left:
