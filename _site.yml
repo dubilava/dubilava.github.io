@@ -3,7 +3,7 @@ output_dir: "."
 output:  
   html_document:  
     self_contained: no  
-    theme: simplex
+    theme: yeti
     includes:
       in_header: sc.html
 navbar:
