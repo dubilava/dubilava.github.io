@@ -39,6 +39,15 @@ src="https://c.statcounter.com/12454675/0/dab50914/1/"
 alt="Web Analytics"></a></div></noscript>
 <!-- End of Statcounter Code -->
 
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
   pre:not([class]) {
@@ -83,6 +92,7 @@ h6 {
   text-align: left;
 }
 </style>
+
 
 
 
@@ -331,7 +341,7 @@ $(document).ready(function () {
 </div>
 
 
-<p>I am a Senior Lecturer of Economics at the University of Sydney. My primary research interests revolve around commodity markets and price analysis. Specifically, I study the role of climatic factors on commodity price dynamics, and I examine the relationship between conflict and prices. In so doing, I apply econometric time series analysis techniques, including regime–dependent nonlinear models. My research has been published in leading field and interdisciplinary journals such as <em>American Journal of Agricultural Economics</em>, <em>World Development</em>, <em>Global Environmental Change</em>, among others. I currently serve as a co-editor of <em>Food Policy</em> and an associate editor of <em>Australian Journal of Agricultural and Resource Economics</em>.</p>
+<p>I am a Senior Lecturer of Economics at the University of Sydney. My primary research interests revolve around commodity markets and price analysis. Specifically, I study the role of climatic factors on commodity price dynamics, and I examine the relationship between conflict and prices. In so doing, I apply econometric time series and panel data analysis techniques, including regime–dependent nonlinear models. My research has been published in leading field and interdisciplinary journals such as <em>American Journal of Agricultural Economics</em>, <em>World Development</em>, <em>Global Environmental Change</em>, among others. I currently serve as a co-editor of <em>Food Policy</em> and an associate editor of <em>Australian Journal of Agricultural and Resource Economics</em>.</p>
 
 
 
@@ -342,7 +352,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
