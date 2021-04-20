@@ -39,6 +39,15 @@ src="https://c.statcounter.com/12454675/0/dab50914/1/"
 alt="Web Analytics"></a></div></noscript>
 <!-- End of Statcounter Code -->
 
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
   pre:not([class]) {
@@ -83,6 +92,7 @@ h6 {
   text-align: left;
 }
 </style>
+
 
 
 
@@ -335,8 +345,8 @@ $(document).ready(function () {
 <h2>Working Papers</h2>
 <p><a href="https://www.iza.org/publications/dp/13742/lives-saved-during-economic-downturns-evidence-from-australia" target="_blank">Lives Saved During Economic Downturns: Evidence from Australia</a> (with Kadir Atalay, Rebecca Edwards, and Stefanie Schurer). Media coverage: <a href="https://voxeu.org/article/lives-saved-during-economic-downturns" target="_blank">Vox EU</a>, <a href="https://theconversation.com/so-you-think-economic-downturns-cost-lives-our-findings-show-they-dont-149711" target="_blank">The Conversation</a></p>
 <p><a href="https://dx.doi.org/10.2139/ssrn.3697906" target="_blank">Geographic Diversity in Economic Publishing</a> (with Simon Angus, Kadir Atalay, and Jonathan Newton). <a href="https://github.com/specialistgeneralist/geodiverse" target="_blank">GitHub Repository for Data and Replication</a>. <a href="https://twitter.com/geo_diverse" target="_blank">Dedicated Twitter Account</a></p>
-<p>Price Transmission in Conflict–Affected States: Evidence from Cereal Markets of Somalia (with Justin Hastings, Sarah Phillips, and Andrey Vasnev). <a href="https://github.com/dubilava/somalia" target="_blank">GitHub Repository for Data and Replication</a>.</p>
-<p>Commodity Price Shocks and the Seasonality of Conflict (working paper available upon request)</p>
+<p><a href="https://ideas.repec.org/p/syd/wpaper/2020-16.html" target="_blank">Price Transmission in Conflict–Affected States: Evidence from Cereal Markets of Somalia</a> (with Justin Hastings, Sarah Phillips, and Andrey Vasnev). <a href="https://github.com/dubilava/somalia" target="_blank">GitHub Repository for Data and Replication</a>.</p>
+<p><a href="https://ideas.repec.org/p/syd/wpaper/2021-03.html" target="_blank">Commodity Price Shocks and the Seasonality of Conflict</a> (with Kadir Atalay).</p>
 </div>
 <div id="publications" class="section level2">
 <h2>Publications</h2>
@@ -407,7 +417,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
