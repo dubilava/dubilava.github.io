@@ -19,7 +19,7 @@
 \usepackage{etoolbox}
 \usepackage{marginnote}
 
-\usepackage[pdftitle={David Ubilava -- Curriculum Vitae},pdfauthor={David Ubilava}, 
+\usepackage[pdftitle={David Ubilava - Curriculum Vitae},pdfauthor={David Ubilava}, 
 pdfkeywords={climate econometrics,commodity price analysis,nonlinear econometric modeling and forecasting},pdfdisplaydoctitle=true,colorlinks=true,linkcolor=black,citecolor=black,filecolor=black,urlcolor=black,pdfpagemode=UseNone,pdfstartview=FitH]{hyperref}
 
 \usepackage{cleveref}
@@ -46,11 +46,11 @@ pdfkeywords={climate econometrics,commodity price analysis,nonlinear econometric
 % HEADINGS
 \usepackage[compact]{titlesec}
 \titlespacing*{\section}
-{-72pt}{12pt plus 4pt minus 2pt}{4pt plus 2pt minus 1pt}
+{-66pt}{14pt plus 6pt minus 2pt}{8pt plus 6pt minus 2pt}
 \titlespacing*{\subsection}
-{-72pt}{6pt plus 2pt minus 2pt}{4pt plus 2pt minus 1pt}
+{-66pt}{10pt plus 6pt minus 2pt}{8pt plus 6pt minus 2pt}
 
-\sectionfont{\bfseries\large}
+\sectionfont{\sc\large}
 \subsectionfont{\itshape\normalsize}
 
 % MISC TWEAKS AND TWISTS
@@ -59,7 +59,7 @@ pdfkeywords={climate econometrics,commodity price analysis,nonlinear econometric
 
 \renewenvironment{itemize}{
 	\begin{list}{}{
-			\setlength{\leftmargin}{28pt}
+			\setlength{\leftmargin}{0pt}
 			\setlength{\itemsep}{0pt}
 			\setlength{\parskip}{0pt}
 			\setlength{\parsep}{6pt}
@@ -105,8 +105,9 @@ pdfkeywords={climate econometrics,commodity price analysis,nonlinear econometric
 % Defining bibliography categories
 \def\makebibcategory#1#2{\DeclareBibliographyCategory{#1}\defbibheading{#1}{\subsection*{#2}}}
 
-\makebibcategory{papers}{Journal Articles}
-\makebibcategory{inprogress}{Working Papers}
+\makebibcategory{articles}{Journal Articles}
+\makebibcategory{papers}{Working Papers}
+\makebibcategory{progress}{Work in Progress}
 
 \setlength{\bibitemsep}{4pt}
 \setlength{\bibhang}{0pt}

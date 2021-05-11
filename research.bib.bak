@@ -2,9 +2,9 @@
 
 @Misc{hastings_korea,
   author    = {Hastings, Justin V. and Ubilava, David and Wang, Yaohui},
-  title     = {{The Economic Effects of Sanctions: Evidence from North Korean Markets}},
+  title     = {{Market Intergation in North Korea}},
   year      = {in preparation},
-  keywords  = {inprogress},
+  keywords  = {progress},
   owner     = {du32},
   timestamp = {2012.02.20},
 }
@@ -226,37 +226,55 @@
 @Misc{signal_noise,
   author    = {David Ubilava and Aaron D. Smith},
   title     = {{The Signal and the Noise of Short--term Climate Forecasts: Evidence from Grain Futures Markets}},
-  year      = {revision requested},
-  keywords  = {inprogress},
+  year      = {in preparation},
+  keywords  = {progress},
   owner     = {du32},
   timestamp = {2012.02.20},
 }
 
-@Misc{somalia_integration,
-  author    = {Justin V. Hastings and Sarah Phillips and David Ubilava and Andrey Vasnev},
-  title     = {{Price Transmission in Failed States: Evidence from Cereal Markets of Somalia}},
-  year      = {in submission},
-  keywords  = {inprogress},
+@Article{hastings2021,
+  author    = {Justin V. Hastings and Sarah G. Phillips and David Ubilava and Andrey Vasnev},
+  journal   = {Journal of African Economies},
+  title     = {{Price Transmission in Conflict--Affected States: Evidence from Cereal Markets of Somalia}},
+  year      = {2021},
+  number    = {accepted},
+  keywords  = {paper},
   owner     = {du32},
   timestamp = {2012.02.20},
+  url       = {[GitHub Repository for Data and Replication](https://github.com/dubilava/somalia)},
 }
 
 @Misc{conflict_seasonal,
-  author    = {David Ubilava},
-  title     = {{Commodity Price Shocks and the Seasonality of Civil Unrest}},
+  author    = {David Ubilava and Kadir Atalay and Justin V. Hastings},
+  title     = {{Commodity Price Shocks and the Seasonality of Conflict}},
   year      = {in preparation},
-  keywords  = {inprogress},
+  keywords  = {paper},
   owner     = {du32},
   timestamp = {2012.02.20},
 }
 
 @Misc{multistep_forecasts,
   author    = {David Ubilava},
-  title     = {{Direct and Iterated Multi-Step Smooth Transition Autoregressive Methods for Commodity Price Forecasting}},
-  year      = {in submission},
-  keywords  = {inprogress},
+  title     = {{A Comparison of Direct and Iterated Multistep Smooth Transition Autoregressive Methods for Forecasting Commodity Prices}},
+  year      = {in preparation},
+  keywords  = {progress},
   owner     = {du32},
   timestamp = {2012.02.20},
+}
+
+@Misc{atalay_2020,
+  author   = {Kadir Atalay and Rebecca Edwards and Stefanie Schurer and David Ubilava},
+  note     = {(IZA Discussion Paper No. 13742)},
+  title    = {{Lives Saved During Economic Downturns: Evidence from Australia}},
+  year     = {revision resubmitted},
+  keywords = {paper},
+}
+
+@Misc{angus_2020,
+  author   = {Simon D. Angus and Kadir Atalay and Jonathan Newton and David Ubilava},
+  title    = {{Geographic Diversity in Economic Publishing}},
+  year     = {in submission},
+  keywords = {paper},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
