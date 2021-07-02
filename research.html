@@ -39,6 +39,15 @@ src="https://c.statcounter.com/12454675/0/dab50914/1/"
 alt="Web Analytics"></a></div></noscript>
 <!-- End of Statcounter Code -->
 
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
   pre:not([class]) {
@@ -83,6 +92,7 @@ h6 {
   text-align: left;
 }
 </style>
+
 
 
 
@@ -333,7 +343,7 @@ $(document).ready(function () {
 
 <div id="working-papers" class="section level2">
 <h2>Working Papers</h2>
-<p><a href="https://www.iza.org/publications/dp/13742/lives-saved-during-economic-downturns-evidence-from-australia" target="_blank">Lives Saved During Economic Downturns: Evidence from Australia</a> (with Kadir Atalay, Rebecca Edwards, and Stefanie Schurer). Media coverage: <a href="https://voxeu.org/article/lives-saved-during-economic-downturns" target="_blank">Vox EU</a>, <a href="https://theconversation.com/so-you-think-economic-downturns-cost-lives-our-findings-show-they-dont-149711" target="_blank">The Conversation</a></p>
+<!-- [Lives Saved During Economic Downturns: Evidence from Australia](https://www.iza.org/publications/dp/13742/lives-saved-during-economic-downturns-evidence-from-australia){target="_blank"} (with Kadir Atalay, Rebecca Edwards, and Stefanie Schurer). Media coverage: [Vox EU](https://voxeu.org/article/lives-saved-during-economic-downturns){target="_blank"}, [The Conversation](https://theconversation.com/so-you-think-economic-downturns-cost-lives-our-findings-show-they-dont-149711){target="_blank"} -->
 <p><a href="https://dx.doi.org/10.2139/ssrn.3697906" target="_blank">Geographic Diversity in Economic Publishing</a> (with Simon Angus, Kadir Atalay, and Jonathan Newton). <a href="https://github.com/specialistgeneralist/geodiverse" target="_blank">GitHub Repository for Data and Replication</a>. <a href="https://twitter.com/geo_diverse" target="_blank">Dedicated Twitter Account</a></p>
 <!-- [Price Transmission in Conflict--Affected States: Evidence from Cereal Markets of Somalia](https://ideas.repec.org/p/syd/wpaper/2020-16.html){target="_blank"} (with Justin Hastings, Sarah Phillips, and Andrey Vasnev). [GitHub Repository for Data and Replication](https://github.com/dubilava/somalia){target="_blank"}. -->
 <p><a href="https://ideas.repec.org/p/syd/wpaper/2021-03.html" target="_blank">Commodity Price Shocks and the Seasonality of Conflict</a> (with Kadir Atalay and Justin Hastings).</p>
@@ -344,6 +354,9 @@ $(document).ready(function () {
 <!-- The Signal and the Noise of Short--term Climate Forecasts: Evidence from Grain Futures Markets (with Aaron Smith) -->
 <!-- A Comparison of Direct and Iterated Multistep Smooth Transition Autoregressive Methods for Forecasting Commodity Prices -->
 <div id="refs" class="references">
+<div id="ref-atalay2021">
+<p>Atalay, Kadir, Edwards, Rebecca, Schurer, Stefanie and Ubilava, David (2021) ‘Lives Saved During Economic Downturns: Evidence from Australia’. <em>Health Economics</em>, (accepted).</p>
+</div>
 <div id="ref-hastings2021">
 <p>Hastings, Justin V., Phillips, Sarah G., Ubilava, David and Vasnev, Andrey (2021) ‘Price Transmission in Conflict–Affected States: Evidence from Cereal Markets of Somalia’. <em>Journal of African Economies</em>, (in press). Available from: <a href="https://doi.org/10.1093/jae/ejab012">https://doi.org/10.1093/jae/ejab012</a></p>
 </div>
@@ -410,7 +423,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
