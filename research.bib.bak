@@ -237,11 +237,11 @@
   journal   = {Journal of African Economies},
   title     = {{Price Transmission in Conflict--Affected States: Evidence from Cereal Markets of Somalia}},
   year      = {2021},
-  number    = {accepted},
+  number    = {in press},
   keywords  = {paper},
   owner     = {du32},
   timestamp = {2012.02.20},
-  url       = {[GitHub Repository for Data and Replication](https://github.com/dubilava/somalia)},
+  url       = {https://doi.org/10.1093/jae/ejab012},
 }
 
 @Misc{conflict_seasonal,
@@ -262,12 +262,14 @@
   timestamp = {2012.02.20},
 }
 
-@Misc{atalay_2020,
+@Article{atalay2021,
   author   = {Kadir Atalay and Rebecca Edwards and Stefanie Schurer and David Ubilava},
-  note     = {(IZA Discussion Paper No. 13742)},
+  journal  = {Health Economics},
   title    = {{Lives Saved During Economic Downturns: Evidence from Australia}},
-  year     = {revision resubmitted},
-  keywords = {paper},
+  year     = {2021},
+  number   = {in press},
+  keywords = {article},
+  url      = {https://doi.org/10.1002/hec.4394},
 }
 
 @Misc{angus_2020,

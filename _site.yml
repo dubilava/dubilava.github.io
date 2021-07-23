@@ -19,7 +19,7 @@ navbar:
       menu:
         - text: "Agricultural Markets"
           href: agmarkets.html
-        - text: "Environmental Economics"
-          href: envecon.html
+        # - text: "Environmental Economics"
+        #   href: envecon.html
         - text: "Forecasting for Economics and Business"
           href: forecasting.html
