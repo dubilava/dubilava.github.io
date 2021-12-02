@@ -23,3 +23,7 @@ navbar:
         #   href: envecon.html
         - text: "Forecasting for Economics and Business"
           href: forecasting.html
+  right:
+    - text: "Follow Me"
+      icon: fa-twitter
+      href: https://twitter.com/DavidUbilava
