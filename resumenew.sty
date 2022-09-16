@@ -14,7 +14,7 @@
 \usepackage{csquotes}% Recommended
 \usepackage{lastpage}
 \usepackage{geometry} 
-\geometry{letterpaper,margin=1.75in,right=1.0in,top=1.0in,bottom=1.0in}
+\geometry{letterpaper,margin=1.5in,right=0.75in,top=0.75in,bottom=0.75in}
 \setlength\parindent{0in}
 \usepackage{etoolbox}
 \usepackage{marginnote}
@@ -43,7 +43,7 @@ pdfkeywords={climate econometrics,commodity price analysis,nonlinear econometric
 % YEARS
 \newcommand{\years}[1]{\marginnote{\small{#1}}}
 \renewcommand*{\raggedleftmarginnote}{}
-\setlength{\marginparsep}{6pt}
+\setlength{\marginparsep}{-2pt}
 \reversemarginpar
 
 % HEADINGS
@@ -51,10 +51,10 @@ pdfkeywords={climate econometrics,commodity price analysis,nonlinear econometric
 \titlespacing*{\section}
 {-66pt}{14pt plus 6pt minus 2pt}{8pt plus 6pt minus 2pt}
 \titlespacing*{\subsection}
-{-66pt}{10pt plus 6pt minus 2pt}{8pt plus 6pt minus 2pt}
+{-28pt}{10pt plus 6pt minus 2pt}{8pt plus 6pt minus 2pt}
 
-\sectionfont{\sc\large}
-\subsectionfont{\itshape\normalsize}
+\sectionfont{\sc\Large}
+\subsectionfont{\bfseries\large}
 
 % MISC TWEAKS AND TWISTS
 \usepackage{ragged2e}
@@ -68,7 +68,6 @@ pdfkeywords={climate econometrics,commodity price analysis,nonlinear econometric
 			\setlength{\parsep}{6pt}
 		}
 	}{\end{list}}
-
 
 \DeclareFieldFormat[article]{pages}{{#1}}
 \DeclareFieldFormat[article]{volume}{{#1}}
@@ -88,7 +87,7 @@ pdfkeywords={climate econometrics,commodity price analysis,nonlinear econometric
 			\printfield{labelprefix}%
 			\printfield{labelnumber}}}
 	{\setlength{\labelwidth}{\labelnumberwidth}%
-		\setlength{\leftmargin}{\labelwidth}%
+		\setlength{\leftmargin}{-12pt}%
 		\setlength{\labelsep}{\biblabelsep}%
 		\addtolength{\leftmargin}{\labelsep}%
 		\setlength{\itemsep}{\bibitemsep}%
