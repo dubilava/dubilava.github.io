@@ -13,7 +13,7 @@
 
 <title>Research</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.17/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
@@ -160,11 +160,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -193,8 +197,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -202,16 +206,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -312,35 +309,40 @@ target="_blank">Vox EU</a></p>
 <p><img src="Papers/conflict.png" /></p>
 </div>
 <div class="col-md-8">
-<p><em>When prices of cereal grains rise, conflict and violence become
-more likely. The predation motives of perpetrators can explain the
-positive relationship between prices and conflict. Predation happens at
-places and in periods where and when spoils to be appropriated are
-available. In predominantly agrarian societies, such opportune times
-align with the harvest season. Does the seasonality of agricultural
-income lead to the seasonality of conflict? We address this critical
-question by analyzing over 55 thousand unique incidents involving
-violence against civilians staged by paramilitary groups across Africa
-during the 1997–2020 period. We investigate the intra–crop year pattern
-of violence in response to agricultural income shocks via changes in
-international cereal prices. We find that a year-on-year 25 percent
-increase in the price of the major cereal grain grown in the area,
-defined by a one-degree grid cell, results in a four percent monthly
-increase in violence by militias during the early postharvest season. By
-further investigating the mechanisms, we show that the violence is
-amplified after plausibly rich harvest seasons when the value of spoils
-to be appropriated is higher. By focusing on harvest-time incidents and
-conflict actors more likely to be involved in violence against
-civilians, we contribute to the growing but hardly unequivocal
-literature on the economic causes of conflict in predominantly agrarian
-societies.</em></p>
+<p><em>When the prices of cereal grains rise, social unrest and conflict
+become likely. In rural areas, the predation motives of perpetrators can
+explain the positive relationship between prices and conflict. Predation
+happens at places and in periods where and when spoils to be
+appropriated are available. In predominantly agrarian societies, such
+opportune times align with the harvest season. Does the seasonality of
+agricultural income lead to the seasonality of conflict? We address this
+question by analyzing over 55 thousand incidents involving violence
+against civilians staged by paramilitary groups across Africa during the
+1997–2020 period. We investigate the crop year pattern of violence in
+response to agricultural income shocks via changes in international
+cereal prices. We find that a year-on-year one standard deviation annual
+growth of the price of the major cereal grain results in a harvest-time
+spike in violence by militias in a one-degree cell where this cereal
+grain is grown. This translates to a nearly ten percent increase in
+violence during the early postharvest season. We observe no such change
+in violence by state forces or rebel groups—the other two notable
+actors. By further investigating the mechanisms, we show that the
+violence by militias is amplified after plausibly rich harvest seasons
+when the value of spoils to be appropriated is higher. By focusing on
+harvest-related seasonality of conflict, as well as actors more likely
+to be involved in violence against civilians, we contribute to the
+growing literature on the economic causes of conflict in predominantly
+agrarian societies.</em></p>
 </div>
 </div>
 </div>
 <div id="publications" class="section level2">
 <h2>Publications</h2>
-<p>[21] Ubilava, D. (2022). <a
-href="https://onlinelibrary.wiley.com/doi/full/10.1111/agec.12707"
+<p>[22] Ferguson, S., and D. Ubilava (2022). <a
+href="https://doi.org/10.1111/1467-8489.12497" target="_blank">Global
+Commodity Market Disruption and the Fallout</a>. <em>Australian Journal
+of Agricultural and Resource Economics (in press)</em>.</p>
+<p>[21] Ubilava, D. (2022). <a href="https://doi.org/10.1111/agec.12707"
 target="_blank">A Comparison of Multistep Commodity Price Forecasts
 Using Direct and Iterated Smooth Transition Autoregressive Methods</a>.
 <em>Agricultural Economics 53(5)</em>, 687-701.</p>
