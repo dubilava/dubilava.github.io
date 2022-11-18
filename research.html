@@ -13,7 +13,7 @@
 
 <title>Research</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.17/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
@@ -160,11 +160,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -193,8 +197,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -202,16 +206,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -299,12 +296,14 @@ $(document).ready(function () {
 </div>
 
 
-<div id="working-papers" class="section level2">
-<h2>Working Papers</h2>
-<p><a href="https://arxiv.org/abs/2202.07863"
-target="_blank">Agricultural Windfalls and the Seasonality of Political
-Violence in Africa</a> (with Justin Hastings and Kadir Atalay). Media
-coverage: <a
+<div id="publications" class="section level2">
+<h2>Publications</h2>
+<p>[23] Ubilava, D., Hastings, J.V., and K. Atalay (2022). Agricultural
+Windfalls and the Seasonality of Political Violence in Africa.
+<em>American Journal of Agricultural Economics (accepted)</em>. <a
+href="https://arxiv.org/abs/2202.07863" target="_blank">Working
+Paper</a>. <a href="https://github.com/dubilava/conflict"
+target="_blank">Data and Replication Material</a>. Media coverage: <a
 href="https://voxeu.org/article/rising-cereal-prices-and-political-violence-croplands-africa"
 target="_blank">Vox EU</a></p>
 <div class="row">
@@ -325,22 +324,19 @@ against civilians staged by paramilitary groups across Africa during the
 response to agricultural income shocks via changes in international
 cereal prices. We find that a year-on-year one standard deviation annual
 growth of the price of the major cereal grain results in a harvest-time
-spike in violence by militias in a one-degree cell where this cereal
-grain is grown. This translates to a nearly ten percent increase in
-violence during the early postharvest season. We observe no such change
-in violence by state forces or rebel groups—the other two notable
-actors. By further investigating the mechanisms, we show that the
-violence by militias is amplified after plausibly rich harvest seasons
-when the value of spoils to be appropriated is higher. By focusing on
-harvest-related seasonality of conflict, as well as actors more likely
-to be involved in violence against civilians, we contribute to the
-growing literature on the economic causes of conflict in predominantly
-agrarian societies.</em></p>
+spike in violence by militias in areas where this cereal grain is grown.
+This translates to a nearly ten percent increase in violence during the
+early postharvest season. We observe no such change in violence by state
+forces or rebel groups—the other two notable actors. By further
+investigating the mechanisms, we show that the violence by militias is
+amplified after plausibly rich harvest seasons when the value of spoils
+to be appropriated is higher. By focusing on harvest-related seasonality
+of conflict, as well as actors more likely to be involved in violence
+against civilians, we contribute to the growing literature on the
+economic causes of conflict in predominantly agrarian
+societies.</em></p>
 </div>
 </div>
-</div>
-<div id="publications" class="section level2">
-<h2>Publications</h2>
 <p>[22] Ferguson, S., and D. Ubilava (2022). <a
 href="https://doi.org/10.1111/1467-8489.12497" target="_blank">Global
 Commodity Market Disruption and the Fallout</a>. <em>Australian Journal
