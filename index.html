@@ -13,7 +13,7 @@
 
 <title>About Me</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.19/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
@@ -160,11 +160,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -193,8 +197,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -202,16 +206,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -302,42 +299,43 @@ $(document).ready(function () {
 <div class="row">
 <div class="col-md-5">
 <p><img src="davidubilava.jpg" /></p>
+<p>Associate Professor of <a
+href="https://www.sydney.edu.au/arts/schools/school-of-economics.html"
+target="_blank">Economics</a>, <a href="https://www.sydney.edu.au/"
+target="_blank">University of Sydney</a></p>
 <p>E-Mail: <a
 href="mailto:david.ubilava@sydney.edu.au">david.ubilava@sydney.edu.au</a></p>
 <p>Twitter: <a
 href="https://twitter.com/DavidUbilava">@DavidUbilava</a></p>
 <p>Mastodon:
 <a rel="me" href="https://econtwitter.net/@DavidUbilava">@DavidUbilava@econtwitter.net</a></p>
+<p>Substack: <a
+href="https://theguessproject.substack.com">TheGuessProject</a></p>
 </div>
 <div class="col-md-7">
-<p>I am a Senior Lecturer in the <a
-href="https://www.sydney.edu.au/arts/schools/school-of-economics.html"
-target="_blank">School of Economics</a> at the <a
-href="https://www.sydney.edu.au/" target="_blank">University of
-Sydney</a>.</p>
-<p>I currently serve as an associate editor of the <em>American Journal
-of Agricultural Economics</em> (from 2022), and as a co-editor of
-<em>Food Policy</em> (from 2018). Previously, I served as an associate
-editor of the <em>Australian Journal of Agricultural and Resource
-Economics</em> (from 2020 to 2021).</p>
 <p>My primary research area is agricultural economics with interests in
 commodity markets and price analysis. I have established an
 international reputation for my research that applies granular data to
 study fundamental societal issues that cause or are consequences of
-global commodity price movements. Specifically, I study the role of
-climate shocks on commodity price dynamics, and I examine the
+global commodity price movements. Specifically, I have studied the role
+of climate shocks on commodity price dynamics, and I have examined the
 relationship between commodity prices and political violence in
 conflict-prone economies.</p>
 <p>My research has been published in leading field and interdisciplinary
 journals such as <em>American Journal of Agricultural Economics</em>,
 <em>Journal of Economic Behavior and Organization</em>, <em>Health
 Economics</em>,<em>World Development</em>, and <em>Global Environmental
-Change</em>, among others. As of 16 December 2022, my research has
-received 828 citations as per <a
+Change</em>, among others. As of 01 January 2023, my research has
+received 832 citations as per <a
 href="https://scholar.google.com/citations?user=VbNOr6wAAAAJ"
 target="_blank">Google Scholar</a>.</p>
 <p>For my teaching, I have won the <em>Faculty of Arts and Social
 Sciences Teaching Excellence Award</em> in 2017.</p>
+<p>I currently serve as an associate editor of the <em>American Journal
+of Agricultural Economics</em> (from 2022), and as a co-editor of
+<em>Food Policy</em> (from 2018). Previously, I served as an associate
+editor of the <em>Australian Journal of Agricultural and Resource
+Economics</em> (from 2020 to 2021).</p>
 <p><strong>Popular writing:</strong></p>
 <ul>
 <li><a
