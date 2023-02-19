@@ -1,0 +1,33 @@
+---
+title: "Teaching"
+---
+
+## Teaching Material
+
+[Agricultural Markets](https://davidubilava.com/agmarkets){target="_blank"}
+
+[Forecasting for Economics and Business](https://davidubilava.com/forecasting){target="_blank"}
+
+
+## Recent Student Commendations
+
+> David is a very thorough lecturer and has taught really challenging content very effectively. He has organised content sequentially and the unit is continuously challenging but doable if students put in effort. David is very organised and his notes, lecture slides and tutorials are invaluable resources.
+>
+> The exams and assignments truly test knowledge and skill in a positive way; they allow you to think about concepts deeply whilst still being incredibly practical. Most notably, David has an incredible ability to teach coding; whilst I had learnt R in another course it did not make sense until I learnt it in ECMT3130. One of the best lecturers and units I've done so far.
+>
+`r tufte::quote_footer('ECMT3130: Forecasting for Economics and Business, Semester 2 2021')`
+
+> Genuinely cares about the students
+>
+> Puts a lot of effort into the material he is teaching as well as the assignments/tests he gives the students. He always makes sure it's fair and rewards hard work without being overly challenging (in a subject that can be made extremely challenging)
+>
+> Great sense of humour. Although I've been unable to attend any of his lectures, I really enjoy watching the lectures over and going through Ed sometimes just for his jokes
+>
+`r tufte::quote_footer('ECMT3130: Forecasting for Economics and Business, Semester 2 2021')`
+
+> I really enjoyed how he engaged with the class and how involved and prompt he was in handling issues. I know it has been a difficult semester but this was the unit of study that I felt the most involved in. He has managed to make the heavy content easy and flow effortlessly from one week to another. The course structure flowed very easily. Moreover, I really enjoyed the zoom lectures that were held every week. Instead of pre-recording the entire lecture, leaving half of it to be delivered live really helped us talk to the lecturer as a class instead of alone during office hours (I have faced this issue with many other classes where we had no class engagement with the lecturer him/herself and only our tutors)
+>
+> Additionally, learning not only from a textbook but also academic published research papers has been extremely interesting and something that I found a lot of fun
+>
+`r tufte::quote_footer('ECOS3013: Environmental Economics, Semester 2 2020')`
+

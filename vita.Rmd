@@ -1,0 +1,68 @@
+---
+title: "Curriculum Vitae"
+---
+
+```{r include=FALSE}
+
+library(data.table)
+
+library(scholar)
+
+google_id <- "VbNOr6wAAAAJ"
+
+google_citations <- get_citation_history(google_id)
+
+google_cites <- get_profile(google_id)$total_cites
+google_index <- get_profile(google_id)$h_index
+
+# library(rscopus)
+# 
+# scopus_api_key <- "e80184e9663a40189661cca2eb2a74d3"
+# set_api_key(scopus_api_key)
+# 
+# scopus_id <- "26421832000"
+# 
+# scopus_papers <- author_df(au_id=scopus_id)
+# 
+# scopus_citations <- data.table(cites=as.numeric(scopus_papers[,"citedby-count"]))
+# scopus_citations <- scopus_citations[order(-cites)]
+# scopus_citations$sums <- 1:nrow(scopus_citations)
+# 
+# scopus_cites <- sum(scopus_citations$cites)
+# 
+# scopus_index <- length(which(scopus_citations$sums<=scopus_citations$cites))
+
+```
+
+[Resume (pdf)](https://dubilava.github.io/Ubilava-CV.pdf){target="_blank"}
+
+## Research Areas
+
+- Commodity Markets and Prices 
+- Conflict and Political Violence 
+
+## Research Impact
+
+- [Google Scholar](https://scholar.google.com/citations?user=VbNOr6wAAAAJ){target="_blank"} *citations: `r google_cites`, h-index: `r google_index`* 
+
+## Current Appointments
+
+- Senior Lecturer -- [School of Economics, University of Sydney](https://www.sydney.edu.au/arts/schools/school-of-economics.html) (2017--)
+- Co-Editor -- [Food Policy](https://www.journals.elsevier.com/food-policy) (2018--)
+- Associate Editor -- [American Journal of Agricultural Economics](https://onlinelibrary.wiley.com/journal/14678276) (2022--)
+
+
+## Previous Appointments
+
+- Associate Editor -- [Australian Journal of Agricultural and Resource Economics](https://onlinelibrary.wiley.com/journal/14678489) (2020--2021)
+- Lecturer -- School of Economics, University of Sydney (2014--2016)
+- Lecturer -- Department of Agricultural and Resource Economics, University of Sydney (2012--2013)
+- Post Doctoral Researcher -- Department of Agricultural Economics, Mississippi State University (2010--2012)
+- Graduate Research Assistant -- Department of Agricultural Economics, Purdue University (2005--2010)
+
+## Education
+
+- Ph.D. (Agricultural Economics) -- Purdue University (2010)
+- M.S. (Agricultural Economics) -- Purdue University (2006)
+- B.S. (Economics) -- Georgia State Agrarian University (2003)
+

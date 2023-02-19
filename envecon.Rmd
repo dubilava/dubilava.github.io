@@ -1,0 +1,29 @@
+---
+title: "Environmental Economics"
+---
+
+[Lecture Notes](https://dubilava.github.io/envecon/){target="_blank"}
+
+## Lecture Slides
+
+[Introduction](https://dubilava.github.io/envecon_slides/01-Intro.html){target="_blank"}
+
+[Environmental Valuation](https://dubilava.github.io/envecon_slides/02-Valuation.html){target="_blank"}
+
+[Choice and Efficiency](https://dubilava.github.io/envecon_slides/03-Efficiency.html){target="_blank"}
+
+[Market Failure](https://dubilava.github.io/envecon_slides/04-Failure.html){target="_blank"}
+
+[Property Rights](https://dubilava.github.io/envecon_slides/05-Rights.html){target="_blank"}
+
+[Environmental Regulation](https://dubilava.github.io/envecon_slides/06-Incentives.html){target="_blank"}
+
+[Regulation with Information Asymmetry](https://dubilava.github.io/envecon_slides/07-Asymmetry.html){target="_blank"}
+
+[Regulation Across Space](https://dubilava.github.io/envecon_slides/08-Space.html){target="_blank"}
+
+[Regulation Over Time](https://dubilava.github.io/envecon_slides/09-Time.html){target="_blank"}
+
+[Climate Change](https://dubilava.github.io/envecon_slides/10-Climate.html){target="_blank"}
+
+

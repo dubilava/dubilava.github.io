@@ -1,0 +1,80 @@
+---
+title: "About Me"
+---
+
+```{r include=FALSE}
+
+library(data.table)
+
+library(scholar)
+
+google_id <- "VbNOr6wAAAAJ"
+
+google_citations <- get_citation_history(google_id)
+
+google_cites <- get_profile(google_id)$total_cites
+google_index <- get_profile(google_id)$h_index
+
+# library(rscopus)
+# 
+# scopus_api_key <- "e80184e9663a40189661cca2eb2a74d3"
+# set_api_key(scopus_api_key)
+# 
+# scopus_id <- "26421832000"
+# 
+# scopus_papers <- author_df(au_id=scopus_id)
+# 
+# scopus_citations <- data.table(cites=as.numeric(scopus_papers[,"citedby-count"]))
+# scopus_citations <- scopus_citations[order(-cites)]
+# scopus_citations$sums <- 1:nrow(scopus_citations)
+# 
+# scopus_cites <- sum(scopus_citations$cites)
+# 
+# scopus_index <- length(which(scopus_citations$sums<=scopus_citations$cites))
+
+```
+
+<div class = "row">
+  
+<div class = "col-md-5">
+![](davidubilava.jpg)
+
+Associate Professor of [Economics](https://www.sydney.edu.au/arts/schools/school-of-economics.html){target="_blank"}, [University of Sydney](https://www.sydney.edu.au/){target="_blank"}
+
+E-Mail: [david.ubilava&#64;sydney.edu.au](mailto:david.ubilava@sydney.edu.au)
+
+Twitter: [&#64;DavidUbilava](https://twitter.com/DavidUbilava)
+
+Mastodon: <a rel="me" href="https://econtwitter.net/@DavidUbilava">&#64;DavidUbilava&#64;econtwitter.net</a>
+
+Substack: [TheGuessProject](https://theguessproject.substack.com)
+
+</div>
+  
+<div class = "col-md-7">
+
+My primary research area is agricultural economics with interests in commodity markets and price analysis. I have established an international reputation for my research that applies granular data to study fundamental societal issues that cause or are consequences of global commodity price movements. Specifically, I have studied the role of climate shocks on commodity price dynamics, and I have examined the relationship between commodity prices and political violence in conflict-prone economies. 
+
+My research has been published in leading field and interdisciplinary journals such as *American Journal of Agricultural Economics*, *Journal of Economic Behavior and Organization*, *Health Economics*,*World Development*, and *Global Environmental Change*, among others. As of `r format(Sys.Date(),'%d %B %Y')`, my research has received `r google_cites` citations as per [Google Scholar](https://scholar.google.com/citations?user=VbNOr6wAAAAJ){target="_blank"}.
+
+For my teaching, I have won the *Faculty of Arts and Social Sciences Teaching Excellence Award* in 2017.
+
+I currently serve as an associate editor of the *American Journal of Agricultural Economics* (from 2022), and as a co-editor of *Food Policy* (from 2018). Previously, I served as an associate editor of the *Australian Journal of Agricultural and Resource Economics* (from 2020 to 2021).
+
+**Popular writing:**
+
+- [Russia’s war on Ukraine is driving up wheat prices and threatens global supplies of bread, meat and eggs](https://theconversation.com/russias-war-on-ukraine-is-driving-up-wheat-prices-and-threatens-global-supplies-of-bread-meat-and-eggs-178879){target="_blank"}
+- [So you think economic downturns cost lives? Our findings show they don’t](https://theconversation.com/so-you-think-economic-downturns-cost-lives-our-findings-show-they-dont-149711){target="_blank"}
+
+**Recent presentations:**
+
+- [War in Ukraine and Disrupted Markets](https://dubilava.github.io/ukraine/02-presentation.html){target="_blank"}
+- [Agricultural Windfalls and the Seasonality of Political Violence in Africa](https://dubilava.github.io/conflict/presentation.html){target="_blank"}
+- [Academic Presenting: How to Get It Right and Make It Work](https://dubilava.github.io/misc/paper-presentation.html){target="_blank"}
+</div>
+
+</div>
+
+
+
+
