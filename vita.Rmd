@@ -47,7 +47,7 @@ google_index <- get_profile(google_id)$h_index
 
 ## Current Appointments
 
-- Senior Lecturer -- [School of Economics, University of Sydney](https://www.sydney.edu.au/arts/schools/school-of-economics.html) (2017--)
+- Associate Professor -- [School of Economics, University of Sydney](https://www.sydney.edu.au/arts/schools/school-of-economics.html) (2023--)
 - Co-Editor -- [Food Policy](https://www.journals.elsevier.com/food-policy) (2018--)
 - Associate Editor -- [American Journal of Agricultural Economics](https://onlinelibrary.wiley.com/journal/14678276) (2022--)
 
@@ -55,6 +55,7 @@ google_index <- get_profile(google_id)$h_index
 ## Previous Appointments
 
 - Associate Editor -- [Australian Journal of Agricultural and Resource Economics](https://onlinelibrary.wiley.com/journal/14678489) (2020--2021)
+- Senior Lecturer -- School of Economics, University of Sydney (2017--2022)
 - Lecturer -- School of Economics, University of Sydney (2014--2016)
 - Lecturer -- Department of Agricultural and Resource Economics, University of Sydney (2012--2013)
 - Post Doctoral Researcher -- Department of Agricultural Economics, Mississippi State University (2010--2012)
