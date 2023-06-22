@@ -17,3 +17,35 @@ a:hover {
 a:active {
   color: coral;
 }
+
+
+/*----------------NAVBAR ---------------*/
+.navbar-default {
+    background-color: dimgray;
+}
+
+.navbar-default .navbar-nav>.open>a, 
+.navbar-default .navbar-nav>.active>a, 
+a.dropdown-toggle:hover {
+  background-color: darkgray !important;
+}
+
+/* Dropdown menu color */
+.navbar-default .dropdown-menu {
+  background-color: dimgray;
+}
+
+/* Dropdown menu hover color */
+  .navbar-default .dropdown-menu>li>a:hover {
+    background-color: darkgray;
+  }
+
+/* Navbar Links when hovered*/
+.navbar-default .dropdown-menu>.active>a
+.navbar-default .navbar-nav>.active>a:hover, 
+.navbar-default .navbar-nav:hover, 
+.navbar-default .navbar-nav>li>a:hover, 
+a.navbar-brand:hover {
+  color: lightgray !important;
+  background-color: dimgray;
+}

@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.4.20)  4 MAY 2023 09:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.5.31)  22 JUN 2023 21:40
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
 **./Ubilava-CV.tex
 (Ubilava-CV.tex
 LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2023-03-30>
+L3 programming layer <2023-05-15>
 (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
 (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
@@ -308,16 +308,16 @@ Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Document encoding is UTF8 ....
 
 (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2023-03-30 L3 programming layer (loader) 
+Package: expl3 2023-05-15 L3 programming layer (loader) 
 
 (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-
 pdftex.def
-File: l3backend-pdftex.def 2023-03-30 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count386
 \l__pdf_internal_box=\box51
 ))
 Package biblatex Info: ... and expl3
-(biblatex)             2023-03-30 L3 programming layer (loader) 
+(biblatex)             2023-05-15 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
 
@@ -619,7 +619,7 @@ Package color Info: Driver file: pdftex.def on input line 149.
 (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.l
 tx))
 (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2023/03/28 3.87 The Babel package
+Package: babel 2023/05/11 v3.89 The Babel package
 \babel@savecnt=\count421
 \U@D=\dimen175
 \l@unhyphenated=\language80
@@ -715,7 +715,7 @@ Package: marginnote 2018/08/09 v1.4b non floating margin notes for LaTeX
 )
 (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.st
 y
-Package: hyperref 2023-02-07 v7.00v Hypertext links for LaTeX
+Package: hyperref 2023-04-22 v7.00x Hypertext links for LaTeX
 
 (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdef
 inekeys.sty
@@ -753,7 +753,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 \Hy@pagecounter=\count435
 
 (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
-File: pd1enc.def 2023-02-07 v7.00v Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2023-04-22 v7.00x Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
@@ -761,29 +761,25 @@ Now handling font encoding PD1 ...
 y
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-(C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.
-sty
-Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
-)
 \Hy@SavedSpaceFactor=\count436
 
 (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
-File: puenc.def 2023-02-07 v7.00v Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2023-04-22 v7.00x Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
 Package hyperref Info: Option `pdfdisplaydoctitle' set `true' on input line 406
-0.
-Package hyperref Info: Option `colorlinks' set `true' on input line 4060.
-Package hyperref Info: Hyper figures OFF on input line 4177.
-Package hyperref Info: Link nesting OFF on input line 4182.
-Package hyperref Info: Hyper index ON on input line 4185.
-Package hyperref Info: Plain pages OFF on input line 4192.
-Package hyperref Info: Backreferencing OFF on input line 4197.
+5.
+Package hyperref Info: Option `colorlinks' set `true' on input line 4065.
+Package hyperref Info: Hyper figures OFF on input line 4182.
+Package hyperref Info: Link nesting OFF on input line 4187.
+Package hyperref Info: Hyper index ON on input line 4190.
+Package hyperref Info: Plain pages OFF on input line 4197.
+Package hyperref Info: Backreferencing OFF on input line 4202.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4425.
+Package hyperref Info: Bookmarks ON on input line 4449.
 \c@Hy@tempcnt=\count437
-LaTeX Info: Redefining \url on input line 4763.
+LaTeX Info: Redefining \url on input line 4787.
 \XeTeXLinkMargin=\dimen185
 
 (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
@@ -797,13 +793,13 @@ Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 \Fld@menulength=\count438
 \Field@Width=\dimen186
 \Fld@charsize=\dimen187
-Package hyperref Info: Hyper figures OFF on input line 6042.
-Package hyperref Info: Link nesting OFF on input line 6047.
-Package hyperref Info: Hyper index ON on input line 6050.
-Package hyperref Info: backreferencing OFF on input line 6057.
-Package hyperref Info: Link coloring ON on input line 6060.
-Package hyperref Info: Link coloring with OCG OFF on input line 6067.
-Package hyperref Info: PDF/A mode OFF on input line 6072.
+Package hyperref Info: Hyper figures OFF on input line 6066.
+Package hyperref Info: Link nesting OFF on input line 6071.
+Package hyperref Info: Hyper index ON on input line 6074.
+Package hyperref Info: backreferencing OFF on input line 6081.
+Package hyperref Info: Link coloring ON on input line 6084.
+Package hyperref Info: Link coloring with OCG OFF on input line 6091.
+Package hyperref Info: PDF/A mode OFF on input line 6096.
 
 (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.st
 y
@@ -817,7 +813,7 @@ package with kernel methods
 Package hyperref Info: Driver (autodetected): hpdftex.
 
 (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
-File: hpdftex.def 2023-02-07 v7.00v Hyperref driver for pdfTeX
+File: hpdftex.def 2023-04-22 v7.00x Hyperref driver for pdfTeX
 
 (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.s
 ty
@@ -1290,6 +1286,12 @@ Package marginnote Info: Margin note 3.5 is on absolute page 3 on input line 11
 Package marginnote Info: right page because not two side mode on input line 115
 .
 Package marginnote Info: xpos seems to be 108.405pt on input line 115.
+
+Overfull \hbox (2.49925pt too wide) in paragraph at lines 115--116
+[]|[]\OT1/lmr/m/n/10 (-20) IAMO 2023 Fo-rum (*Haale Ger); Aus-tralian De-vel-op
+-ment Eco-nomics Work-shop (Syd-ney Aus); Cana-dian 
+ []
+
 Package marginnote Info: Margin note 3.6 is on absolute page 3 on input line 11
 6.
 Package marginnote Info: right page because not two side mode on input line 116
@@ -1305,59 +1307,59 @@ Package marginnote Info: Margin note 3.8 is on absolute page 4 on input line 11
 Package marginnote Info: right page because not two side mode on input line 118
 .
 Package marginnote Info: xpos seems to be 108.405pt on input line 118.
-Package marginnote Info: Margin note 3.9 is on absolute page 4 on input line 11
+[3{C:/Users/dubi7233/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.en
+c}]
+Package marginnote Info: Margin note 4.1 is on absolute page 4 on input line 11
 9.
 Package marginnote Info: right page because not two side mode on input line 119
 .
 Package marginnote Info: xpos seems to be 108.405pt on input line 119.
-[3{C:/Users/dubi7233/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.en
-c}]
-Package marginnote Info: Margin note 4.1 is on absolute page 4 on input line 12
+Package marginnote Info: Margin note 4.2 is on absolute page 4 on input line 12
 0.
 Package marginnote Info: right page because not two side mode on input line 120
 .
 Package marginnote Info: xpos seems to be 108.405pt on input line 120.
-Package marginnote Info: Margin note 4.2 is on absolute page 4 on input line 12
+Package marginnote Info: Margin note 4.3 is on absolute page 4 on input line 12
 1.
 Package marginnote Info: right page because not two side mode on input line 121
 .
 Package marginnote Info: xpos seems to be 108.405pt on input line 121.
-Package marginnote Info: Margin note 4.3 is on absolute page 4 on input line 12
+Package marginnote Info: Margin note 4.4 is on absolute page 4 on input line 12
 2.
 Package marginnote Info: right page because not two side mode on input line 122
 .
 Package marginnote Info: xpos seems to be 108.405pt on input line 122.
-Package marginnote Info: Margin note 4.4 is on absolute page 4 on input line 12
+Package marginnote Info: Margin note 4.5 is on absolute page 4 on input line 12
 3.
 Package marginnote Info: right page because not two side mode on input line 123
 .
 Package marginnote Info: xpos seems to be 108.405pt on input line 123.
-Package marginnote Info: Margin note 4.5 is on absolute page 4 on input line 12
+Package marginnote Info: Margin note 4.6 is on absolute page 4 on input line 12
 4.
 Package marginnote Info: right page because not two side mode on input line 124
 .
 Package marginnote Info: xpos seems to be 108.405pt on input line 124.
-Package marginnote Info: Margin note 4.6 is on absolute page 4 on input line 12
+Package marginnote Info: Margin note 4.7 is on absolute page 4 on input line 12
 5.
 Package marginnote Info: right page because not two side mode on input line 125
 .
 Package marginnote Info: xpos seems to be 108.405pt on input line 125.
-Package marginnote Info: Margin note 4.7 is on absolute page 4 on input line 12
+Package marginnote Info: Margin note 4.8 is on absolute page 4 on input line 12
 6.
 Package marginnote Info: right page because not two side mode on input line 126
 .
 Package marginnote Info: xpos seems to be 108.405pt on input line 126.
-Package marginnote Info: Margin note 4.8 is on absolute page 4 on input line 13
+Package marginnote Info: Margin note 4.9 is on absolute page 4 on input line 13
 5.
 Package marginnote Info: right page because not two side mode on input line 135
 .
 Package marginnote Info: xpos seems to be 108.405pt on input line 135.
-Package marginnote Info: Margin note 4.9 is on absolute page 4 on input line 13
-9.
+Package marginnote Info: Margin note 4.10 is on absolute page 4 on input line 1
+39.
 Package marginnote Info: right page because not two side mode on input line 139
 .
 Package marginnote Info: xpos seems to be 108.405pt on input line 139.
-Package marginnote Info: Margin note 4.10 is on absolute page 4 on input line 1
+Package marginnote Info: Margin note 4.11 is on absolute page 4 on input line 1
 40.
 Package marginnote Info: right page because not two side mode on input line 140
 .
@@ -1368,42 +1370,42 @@ Overfull \hbox (0.17549pt too wide) in paragraph at lines 144--145
 rice Analysis (2015-2017); Econometric 
  []
 
-Package marginnote Info: Margin note 4.11 is on absolute page 4 on input line 1
+Package marginnote Info: Margin note 4.12 is on absolute page 4 on input line 1
 48.
 Package marginnote Info: right page because not two side mode on input line 148
 .
 Package marginnote Info: xpos seems to be 108.405pt on input line 148.
-Package marginnote Info: Margin note 4.12 is on absolute page 4 on input line 1
+Package marginnote Info: Margin note 4.13 is on absolute page 4 on input line 1
 49.
 Package marginnote Info: right page because not two side mode on input line 149
 .
 Package marginnote Info: xpos seems to be 108.405pt on input line 149.
-Package marginnote Info: Margin note 4.13 is on absolute page 4 on input line 1
+Package marginnote Info: Margin note 4.14 is on absolute page 4 on input line 1
 50.
 Package marginnote Info: right page because not two side mode on input line 150
 .
 Package marginnote Info: xpos seems to be 108.405pt on input line 150.
-Package marginnote Info: Margin note 4.14 is on absolute page 4 on input line 1
+Package marginnote Info: Margin note 4.15 is on absolute page 4 on input line 1
 55.
 Package marginnote Info: right page because not two side mode on input line 155
 .
 Package marginnote Info: xpos seems to be 108.405pt on input line 155.
-Package marginnote Info: Margin note 4.15 is on absolute page 4 on input line 1
+Package marginnote Info: Margin note 4.16 is on absolute page 4 on input line 1
 56.
 Package marginnote Info: right page because not two side mode on input line 156
 .
 Package marginnote Info: xpos seems to be 108.405pt on input line 156.
-Package marginnote Info: Margin note 4.16 is on absolute page 4 on input line 1
+Package marginnote Info: Margin note 4.17 is on absolute page 4 on input line 1
 57.
 Package marginnote Info: right page because not two side mode on input line 157
 .
 Package marginnote Info: xpos seems to be 108.405pt on input line 157.
-Package marginnote Info: Margin note 4.17 is on absolute page 5 on input line 1
+Package marginnote Info: Margin note 4.18 is on absolute page 5 on input line 1
 58.
 Package marginnote Info: right page because not two side mode on input line 158
 .
 Package marginnote Info: xpos seems to be 108.405pt on input line 158.
-Package marginnote Info: Margin note 4.18 is on absolute page 5 on input line 1
+Package marginnote Info: Margin note 4.19 is on absolute page 5 on input line 1
 59.
 Package marginnote Info: right page because not two side mode on input line 159
 .
@@ -1480,13 +1482,13 @@ Package logreq Info: Writing requests to 'Ubilava-CV.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 28802 strings out of 476331
- 573538 string characters out of 5786349
- 1874660 words of memory out of 5000000
- 48717 multiletter control sequences out of 15000+600000
- 562197 words of font info for 115 fonts, out of 8000000 for 9000
+ 28923 strings out of 476410
+ 576493 string characters out of 5787697
+ 1875845 words of memory out of 5000000
+ 48765 multiletter control sequences out of 15000+600000
+ 562114 words of font info for 114 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 87i,11n,90p,1185b,2102s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 87i,11n,90p,1185b,2112s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/dubi7233/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10
 .pfb><C:/Users/dubi7233/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmb
 x12.pfb><C:/Users/dubi7233/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/
@@ -1497,7 +1499,7 @@ lic/lm/lmri10.pfb><C:/Users/dubi7233/AppData/Local/Programs/MiKTeX/fonts/type1/
 public/lm/lmri9.pfb><C:/Users/dubi7233/AppData/Local/Programs/MiKTeX/fonts/type
 1/public/lm/lmro10.pfb><C:/Users/dubi7233/AppData/Local/Programs/MiKTeX/fonts/t
 ype1/public/lm/lmtt9.pfb>
-Output written on Ubilava-CV.pdf (5 pages, 298018 bytes).
+Output written on Ubilava-CV.pdf (5 pages, 298086 bytes).
 PDF statistics:
  165 PDF objects out of 1000 (max. 8388607)
  31 named destinations out of 1000 (max. 500000)
