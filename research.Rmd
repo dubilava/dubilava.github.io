@@ -6,7 +6,7 @@ title: "Research"
 
 ## Publications
 
-[23]\ Ubilava, D., Hastings, J.V., and K. Atalay (2022). [Agricultural Windfalls and the Seasonality of Political Violence in Africa](https://onlinelibrary.wiley.com/doi/full/10.1111/ajae.12364){target="_blank"}. *American Journal of Agricultural Economics (in press)*. [Working Paper](https://arxiv.org/abs/2202.07863){target="_blank"}. [Data and Replication Material](https://github.com/dubilava/conflict){target="_blank"}. Media coverage: [Vox EU](https://voxeu.org/article/rising-cereal-prices-and-political-violence-croplands-africa){target="_blank"}
+[23]\ Ubilava, D., Hastings, J.V., and K. Atalay (2022). [Agricultural Windfalls and the Seasonality of Political Violence in Africa](https://onlinelibrary.wiley.com/doi/full/10.1111/ajae.12364){target="_blank"}. *American Journal of Agricultural Economics 105(5)*, 1307-1570. [Working Paper](https://arxiv.org/abs/2202.07863){target="_blank"}. [Data and Replication Material](https://github.com/dubilava/conflict){target="_blank"}. Media coverage: [Vox EU](https://voxeu.org/article/rising-cereal-prices-and-political-violence-croplands-africa){target="_blank"}
 
 <div class = "row">
 <div class = "col-md-4">
@@ -71,11 +71,11 @@ title: "Research"
 
 [5]\ Ubilava, D. (2012). [Modeling Nonlinearities in the U.S. Soybean-to-Corn Price Ratio: A Smooth Transition Autoregression Approach](https://doi.org/10.1002/agr.20292){target="_blank"}. *Agribusiness: an International Journal 28(1)*, 29-41.
 
-[4]\ Ubilava, D., B.J. Barnett, K.H. Coble, and A. Harri (2011). [The SURE Program and Its Interaction with Other Federal Farm Programs](https://jareonline.org/articles/the-sure-program-and-its-interaction-with-other-federal-farm-programs){target="_blank"}. *Journal of Agricultural and Resource Economics 36(3)*, 630–648.
+[4]\ Ubilava, D., B.J. Barnett, K.H. Coble, and A. Harri (2011). [The SURE Program and Its Interaction with Other Federal Farm Programs](https://jareonline.org/articles/the-sure-program-and-its-interaction-with-other-federal-farm-programs){target="_blank"}. *Journal of Agricultural and Resource Economics 36(3)*, 630-648.
 
 [3]\ Ubilava, D., K.A. Foster, J.L. Lusk, and T. Nilsson (2011). [Differences in Consumer Preferences when Facing Branded versus Non-branded Choices](https://doi.org/10.1002/cb.349){target="_blank"}. *Journal of Consumer Behaviour 10(2)*, 61-70.
 
-[2]\ Ubilava, D., K.A. Foster, J.L. Lusk, and T. Nilsson (2010). [Effects of Income and Social Awareness on Consumer WTP for Social Product Attributes](https://doi.org/10.1016/j.techfore.2009.02.002){target="_blank"}. *Technological Forecasting and Social Change 77(4)*, 587–593. .
+[2]\ Ubilava, D., K.A. Foster, J.L. Lusk, and T. Nilsson (2010). [Effects of Income and Social Awareness on Consumer WTP for Social Product Attributes](https://doi.org/10.1016/j.techfore.2009.02.002){target="_blank"}. *Technological Forecasting and Social Change 77(4)*, 587-593. .
 
 [1]\ Ubilava, D. and K.A. Foster (2009). [Quality Certification vs. Product Traceability: Consumer Preferences for Informational Attributes of Pork in Georgia](https://doi.org/10.1016/j.foodpol.2009.02.002){target="_blank"}. *Food Policy 34(3)*, 305-310.
 

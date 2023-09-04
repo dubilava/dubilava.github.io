@@ -901,7 +901,7 @@
       \endverb
       \keyw{paper}
     \endentry
-    \entry{ubilava2022ajae}{article}{}
+    \entry{ubilava2023ajae}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
            family={Ubilava},
@@ -935,10 +935,13 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{American Journal of Agricultural Economics}
-      \field{number}{in press}
+      \field{number}{5}
       \field{title}{{Agricultural Windfalls and the Seasonality of Political Violence in Africa}}
+      \field{volume}{105}
       \field{year}{2022}
       \true{nocite}
+      \field{pages}{1307\bibrangedash 1570}
+      \range{pages}{264}
       \verb{urlraw}
       \verb https://doi.org/10.1111/ajae.12364
       \endverb
@@ -1216,7 +1219,7 @@
 
 \refsection{1}
   \datalist[entry]{none/global//global/global}
-    \entry{ubilava2022ajae}{article}{}
+    \entry{ubilava2023ajae}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
            family={Ubilava},
@@ -1250,10 +1253,13 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{American Journal of Agricultural Economics}
-      \field{number}{in press}
+      \field{number}{5}
       \field{title}{{Agricultural Windfalls and the Seasonality of Political Violence in Africa}}
+      \field{volume}{105}
       \field{year}{2022}
       \true{nocite}
+      \field{pages}{1307\bibrangedash 1570}
+      \range{pages}{264}
       \verb{urlraw}
       \verb https://doi.org/10.1111/ajae.12364
       \endverb
