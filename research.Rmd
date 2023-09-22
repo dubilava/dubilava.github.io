@@ -3,10 +3,13 @@ title: "Research"
 # csl: the-open-university-numeric.csl
 # bibliography: research.bib
 ---
+## Working Papers
+
+[Agricultural Shocks and Social Conflict in Southeast Asia](https://arxiv.org/abs/2304.10027){target="_blank"} *(with Justin Hastings)*.
 
 ## Publications
 
-[23]\ Ubilava, D., Hastings, J.V., and K. Atalay (2022). [Agricultural Windfalls and the Seasonality of Political Violence in Africa](https://onlinelibrary.wiley.com/doi/full/10.1111/ajae.12364){target="_blank"}. *American Journal of Agricultural Economics 105(5)*, 1307-1570. [Working Paper](https://arxiv.org/abs/2202.07863){target="_blank"}. [Data and Replication Material](https://github.com/dubilava/conflict){target="_blank"}. Media coverage: [Vox EU](https://voxeu.org/article/rising-cereal-prices-and-political-violence-croplands-africa){target="_blank"}
+[23]\ Ubilava, D., Hastings, J.V., and K. Atalay (2022). [Agricultural Windfalls and the Seasonality of Political Violence in Africa](https://onlinelibrary.wiley.com/doi/full/10.1111/ajae.12364){target="_blank"}. *American Journal of Agricultural Economics 105(5)*, 1309-1332. [Working Paper](https://arxiv.org/abs/2202.07863){target="_blank"}. [Data and Replication Material](https://github.com/dubilava/conflict){target="_blank"}. Media coverage: [Vox EU](https://voxeu.org/article/rising-cereal-prices-and-political-violence-croplands-africa){target="_blank"}
 
 <div class = "row">
 <div class = "col-md-4">
