@@ -3,8 +3,11 @@
 \usepackage{resumenew}
 \usepackage[sorting=none,bibstyle=authoryear,giveninits=true,defernumbers=true,uniquename=init,natbib=true,dashed=false,backend=biber]{biblatex}
 
+\usepackage{fontawesome}
+\usepackage{simpleicons}
+
 \bibliography{research}
-\addbibresource[label=papers]{research.bib}
+\addbibresource{research.bib}
 
 \pagestyle{fancy}
 \hyphenpenalty=10000
@@ -16,24 +19,24 @@
 	
 	% THE HEADER
 	
-	\hspace{0.00in}\Large{\bfseries{David Ubilava, Ph.D.}}
+	\hspace{0.00in}\Large{\bfseries{David Ubilava \faGraduationCap}}
 	\normalsize
 	
 	\medskip
 	
-	{E-Mail: david.ubilava@sydney.edu.au}
+	{\faEnvelope: david.ubilava@sydney.edu.au}
 	
 	\smallskip
 	
-	{Twitter: \href{https://twitter.com/DavidUbilava}{@DavidUbilava}}
+	{\faTwitter: \href{https://twitter.com/DavidUbilava}{@DavidUbilava}}
 	
 	\smallskip
 	
-	{Web: \href{https://davidubilava.com}{davidubilava.com}}
+	{\faGlobe: \href{https://davidubilava.com}{davidubilava.com}}
 	
 	\smallskip
 	
-	{Substack: \href{https://theguessproject.substack.com}{TheGuessProject}}
+	{\simpleicon{substack}: \href{https://theguessproject.substack.com}{TheGuessProject}}
 
 	\medskip
 
@@ -41,7 +44,7 @@
 	
 	\section*{Research and Teaching Interests}
 	\begin{itemize}
-		\item Agricultural Markets, Commodity Prices, Conflict, Forecasting
+		\item Agricultural Economics, Commodity Markets, Conflict, Forecasting
 	\end{itemize}
 	
 	\section*{Academic Positions}
@@ -68,32 +71,50 @@
 		\item \years{2003} \textbf{B.S. in Economics} -- Georgia State Agrarian University (Georgia)
 	\end{itemize}
 	
-	\section*{Research}
+	\section*{Research Impact}
+	\begin{itemize}
+		\item \href{https://scholar.google.com/citations?user=VbNOr6wAAAAJ&hl=en}{Google Scholar citations}: \textbf{952}, h-index: \textbf{15}.
+		\item \href{https://www.scopus.com/authid/detail.uri?authorId=26421832000}{Scopus citations}: \textbf{456}, h-index: \textbf{13}.	
+	\end{itemize}
 	
-	\subsection*{Impact}
-	\href{https://scholar.google.com/citations?user=VbNOr6wAAAAJ&hl=en}{Google Scholar citations}: \textbf{937}, h-index: \textbf{15}.\\	
-	\href{https://www.scopus.com/authid/detail.uri?authorId=26421832000}{Scopus citations}: \textbf{449}, h-index: \textbf{13}.	
+	\section*{Teaching Excellence}
+	\begin{itemize}
+		\item \years{2017} Teaching Excellence Award (Faculty of Arts and Social Sciences, University of Sydney)
+	\end{itemize}
 	
-	\begin{refsection}[papers]
-		\nocite{ubilava2023ajae,ferguson2022,ubilava2022agec,hastings2022,angus2021,atalay2021,ubilava2019el,ubilava2019erl,ubilava2019md,ubilava2018ajae,smith2017gec,ubilava2017wd,tack2015agec,ubilava2014erae,tack2013cc,ubilava2013ems,ubilava2013ajare,ubilava2012agec,ubilava2012agri,ubilava2011jare,ubilava2011jcb,ubilava2010tfsc,ubilava2009fp}
-		\printbibliography[heading={articles}]
+	
+	\section*{Publications}
+	
+	
+	\begin{refsection}
+		\nocite{ubilavabook}
+		\printbibliography[heading={book}]
 	\end{refsection}
-	\begin{refsection}[papers]
-		\nocite{rice_enso,conflict_seasia}
-		\printbibliography[heading={papers}]
+	
+	\begin{refsection}
+		\nocite{ubilava2023ajae,ferguson2022,ubilava2022agec,hastings2022,angus2021,atalay2021,ubilava2019el,ubilava2019erl,ubilava2019md,ubilava2018ajae,smith2017gec,ubilava2017wd,tack2015agec,ubilava2014erae,tack2013cc,ubilava2013ems,ubilava2013ajare,ubilava2012agec,ubilava2012agri,ubilava2011jare,ubilava2011jcb,ubilava2010tfsc,ubilava2009fp}
+		\printbibliography[heading={article}]
+	\end{refsection}
+	
+	\section*{Research Projects}
+	\begin{refsection}
+		\nocite{conflict_seasia}
+		\printbibliography[heading={working}]
 	\end{refsection}
 	%	\begin{refsection}[papers]
 		%		\nocite{signal_noise}
 		%		\printbibliography[heading={progress}]
 		%	\end{refsection}
 	
-	\subsection*{Research Grants}
+	\section*{Research Grants}
 	\begin{itemize}
 		\item \years{2022} Sydney Southeast Asia Centre Collaborative Research Grant (\$AU 18,094; Co-PI)
 		\item \years{2017-2018} FASS Collaborative Research Scheme (\$AU 39,963; Co-PI)
 		\item \years{2015} FASS Research Support Scheme (\$AU 7,818)
 		\item \years{2014} FASS Research Incubator (\$AU 4,984)
 	\end{itemize}
+	
+	\section*{Research Engagement}
 	
 	\subsection*{Media Appearance}
 	\begin{itemize}
@@ -114,17 +135,17 @@
 	
 	\subsection*{Invited Seminars and Conference Presentations (*=virtual)}
 	\begin{itemize}
-		\item \years{2023} Econometric Society Australasian Meeting 2023 (Sydney Aus); IAMO 2023 Forum (*Haale Ger); Australian Development Economics Workshop (Sydney Aus); Canadian Agri-Food Policy Conference (*Ottawa Can).
-		\item \years{2022} *Virginia Tech.
-		\item \years{2021} AAEA 2021 Annual Meeting (*Austin USA); Econometric Society Australasian Meeting 2021 (*Melbourne Aus).
-		\item \years{2020} Strengthening Understanding of the Economic Impacts of Climate Change (*LSE UK); *Australian National University; International Symposium on Forecasting (*Rio de Janeiro Brazil); ANZESG 2020 Annual Meeting (Melbourne Aus).
-		\item \years{2019} 2019 Workshop on Energy Economics (Seoul, Korea); AAEA 2019 Annual Meeting (Atlanta USA); AARES 2019 Annual Meeting (Melbourne Aus).
-		\item \years{2018} AAEA 2018 Annual Meeting (Washington DC); ANZESG 2018 Annual Meeting (Brisbane Aus); AARES 2018 Annual Meeting (Adelaide Aus).
-		\item \years{2017} Kansas State University; UC Davis; UC Berkeley; Climate Econometrics 2017 Annual Meeting (Oxford UK).
-		\item \years{2016} Oklahoma State University; University of Illinois; University of Minnesota; AAEA 2016 Annual Meeting (Boston USA); Econometric Society Australasian Meeting 2016 (Sydney Aus).
-		\item \years{2015} University of Adelaide; University of Pretoria; Tbilisi State University; ANZESG 2015 Annual Meeting (Brisbane Aus).
-		\item \years{2014} Aarhus University; University of New South Wales; USDA/ERS; AAEA 2014 Annual Meeting; IAMO 2014 Forum (Haale Germany); IIF 2014 International Symposium (Rotterdam Netherlands).
-		\item \years{2013} AAEA 2013 Annual Meeting (Washington DC); AARES 2013 Annual Meeting (Sydney Aus).
+		\item \years{2023} Monash Environmental Economics Workshop (Melbourne AUS); Econometric Society Australasian Meeting 2023 (Sydney AUS); IAMO 2023 Forum (*Haale GER); Australian Development Economics Workshop (Sydney AUS); Canadian Agri-Food Policy Conference (*Ottawa CAN).
+		\item \years{2022} *Virginia Tech (USA).
+		\item \years{2021} AAEA 2021 Annual Meeting (*Austin USA); Econometric Society Australasian Meeting 2021 (*Melbourne AUS).
+		\item \years{2020} Strengthening Understanding of the Economic Impacts of Climate Change (*LSE UK); *Australian National University; International Symposium on Forecasting (*Rio de Janeiro BRA); ANZESG 2020 Annual Meeting (Melbourne AUS).
+		\item \years{2019} 2019 Workshop on Energy Economics (Seoul, Korea); AAEA 2019 Annual Meeting (Atlanta USA); AARES 2019 Annual Meeting (Melbourne AUS).
+		\item \years{2018} AAEA 2018 Annual Meeting (Washington DC); ANZESG 2018 Annual Meeting (Brisbane AUS); AARES 2018 Annual Meeting (Adelaide AUS).
+		\item \years{2017} Kansas State University (USA); UC Davis (USA); UC Berkeley (USA); Climate Econometrics 2017 Annual Meeting (Oxford UK).
+		\item \years{2016} Oklahoma State University (USA); University of Illinois (USA); University of Minnesota (USA); AAEA 2016 Annual Meeting (Boston USA); Econometric Society Australasian Meeting 2016 (Sydney AUS).
+		\item \years{2015} University of Adelaide (AUS); University of Pretoria (ZAF); Tbilisi State University (GEO); ANZESG 2015 Annual Meeting (Brisbane AUS).
+		\item \years{2014} Aarhus University (DEN); University of New South Wales (AUS); USDA/ERS (Washington DC); AAEA 2014 Annual Meeting (Minneapolis USA); IAMO 2014 Forum (Haale GER); IIF 2014 International Symposium (Rotterdam NLD).
+		\item \years{2013} AAEA 2013 Annual Meeting (Washington DC); AARES 2013 Annual Meeting (Sydney AUS).
 		\item \years{2012} SCC-76 2012 Annual Meeting (Pensacola USA); SAEA 2012 Annual Meeting (Birmingham USA).
 	\end{itemize}
 	
@@ -132,10 +153,6 @@
 	
 	\section*{Teaching}
 	
-	\subsection*{Recognition}
-	\begin{itemize}
-		\item \years{2017} Faculty of Arts and Social Sciences \textbf{Teaching Excellence Award}
-	\end{itemize}
 	\subsection*{Current Courses}
 	\begin{itemize}
 		\item \years{2018--} Agricultural Markets
@@ -182,6 +199,7 @@
 	
 	\subsection*{Organized Conferences, Conference Sessions, and Workshops}
 	\begin{itemize}
+		\item \years{2023} \textbf{Workshop Co-organizer}, \textsl{School of Economics, University of Sydney}: ``Semi-Periodic Agricultural \& Development Economics Research Symposium (SPADERS)''
 		\item \years{2021} \textbf{Local Organizing Committee, Chair of Papers Sub-Committee}, \textsl{Australian Agricultural \& Resource Economics Society 2021 Annual Meeting}
 		\item \years{2020} \textbf{Session Organizer}, \textsl{Agricultural \& Applied Economics Association 2020 Annual Meeting}: ``Causal vs. Structural'' and ``Forecasting Techniques''
 		\item \years{2019} \textbf{Workshop Co-organizer}, \textsl{Faculty of Arts and Social Sciences, University of Sydney}: ``Market Integration in Failed States''

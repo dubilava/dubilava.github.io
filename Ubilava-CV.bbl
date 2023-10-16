@@ -899,7 +899,7 @@
       \verb{url}
       \verb https://doi.org/10.1093/jae/ejab012
       \endverb
-      \keyw{paper}
+      \keyw{article}
     \endentry
     \entry{ubilava2023ajae}{article}{}
       \name{author}{3}{}{%
@@ -940,15 +940,15 @@
       \field{volume}{105}
       \field{year}{2022}
       \true{nocite}
-      \field{pages}{1307\bibrangedash 1570}
-      \range{pages}{264}
+      \field{pages}{1309\bibrangedash 1332}
+      \range{pages}{24}
       \verb{urlraw}
       \verb https://doi.org/10.1111/ajae.12364
       \endverb
       \verb{url}
       \verb https://doi.org/10.1111/ajae.12364
       \endverb
-      \keyw{paper}
+      \keyw{article}
     \endentry
     \entry{ubilava2022agec}{article}{}
       \name{author}{1}{}{%
@@ -986,7 +986,7 @@
       \verb{url}
       \verb https://doi.org/10.1111/agec.12707
       \endverb
-      \keyw{paper}
+      \keyw{article}
     \endentry
     \entry{atalay2021}{article}{}
       \name{author}{4}{}{%
@@ -1041,7 +1041,7 @@
       \verb{url}
       \verb https://doi.org/10.1002/hec.4394
       \endverb
-      \keyw{paper}
+      \keyw{article}
     \endentry
     \entry{angus2021}{article}{}
       \name{author}{4}{}{%
@@ -1095,7 +1095,7 @@
       \verb{url}
       \verb https://doi.org/10.1016/j.jebo.2021.08.005
       \endverb
-      \keyw{paper}
+      \keyw{article}
     \endentry
     \entry{rice_enso}{misc}{}
       \name{author}{4}{}{%
@@ -1140,6 +1140,7 @@
       \field{title}{{The Rice Market Reaction to El Niño Southern Oscillation Shocks}}
       \field{year}{in preparation}
       \true{nocite}
+      \keyw{progress}
     \endentry
     \entry{ferguson2022}{article}{}
       \name{author}{2}{}{%
@@ -1182,6 +1183,7 @@
       \verb{url}
       \verb https://doi.org/10.1111/1467-8489.12497
       \endverb
+      \keyw{article}
     \endentry
     \entry{conflict_seasia}{misc}{}
       \name{author}{2}{}{%
@@ -1211,13 +1213,84 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Agricultural Shocks and Social Conflict in Southeast Asia}}
-      \field{year}{revision requested}
+      \field{year}{under review}
       \true{nocite}
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2304.10027
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2304.10027
+      \endverb
+      \keyw{working}
+    \endentry
+    \entry{ubilavabook}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
+           family={Ubilava},
+           familyi={U\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {under contract with Routledge}%
+      }
+      \strng{namehash}{b19d1273e682e827d6f100294d4ab9c8}
+      \strng{fullhash}{b19d1273e682e827d6f100294d4ab9c8}
+      \strng{bibnamehash}{b19d1273e682e827d6f100294d4ab9c8}
+      \strng{authorbibnamehash}{b19d1273e682e827d6f100294d4ab9c8}
+      \strng{authornamehash}{b19d1273e682e827d6f100294d4ab9c8}
+      \strng{authorfullhash}{b19d1273e682e827d6f100294d4ab9c8}
+      \field{extraname}{8}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Forecasting Time Seried Data: An Intuitive Introduction to Methods and Models}
+      \field{year}{2025}
+      \true{nocite}
+      \keyw{book}
     \endentry
   \enddatalist
 \endrefsection
 
 \refsection{1}
+  \datalist[entry]{none/global//global/global}
+    \entry{ubilavabook}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
+           family={Ubilava},
+           familyi={U\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {under contract with Routledge}%
+      }
+      \strng{namehash}{b19d1273e682e827d6f100294d4ab9c8}
+      \strng{fullhash}{b19d1273e682e827d6f100294d4ab9c8}
+      \strng{bibnamehash}{b19d1273e682e827d6f100294d4ab9c8}
+      \strng{authorbibnamehash}{b19d1273e682e827d6f100294d4ab9c8}
+      \strng{authornamehash}{b19d1273e682e827d6f100294d4ab9c8}
+      \strng{authorfullhash}{b19d1273e682e827d6f100294d4ab9c8}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Forecasting Time Seried Data: An Intuitive Introduction to Methods and Models}
+      \field{year}{2025}
+      \true{nocite}
+      \keyw{book}
+    \endentry
+  \enddatalist
+\endrefsection
+
+\refsection{2}
   \datalist[entry]{none/global//global/global}
     \entry{ubilava2023ajae}{article}{}
       \name{author}{3}{}{%
@@ -1258,15 +1331,15 @@
       \field{volume}{105}
       \field{year}{2022}
       \true{nocite}
-      \field{pages}{1307\bibrangedash 1570}
-      \range{pages}{264}
+      \field{pages}{1309\bibrangedash 1332}
+      \range{pages}{24}
       \verb{urlraw}
       \verb https://doi.org/10.1111/ajae.12364
       \endverb
       \verb{url}
       \verb https://doi.org/10.1111/ajae.12364
       \endverb
-      \keyw{paper}
+      \keyw{article}
     \endentry
     \entry{ferguson2022}{article}{}
       \name{author}{2}{}{%
@@ -1309,6 +1382,7 @@
       \verb{url}
       \verb https://doi.org/10.1111/1467-8489.12497
       \endverb
+      \keyw{article}
     \endentry
     \entry{ubilava2022agec}{article}{}
       \name{author}{1}{}{%
@@ -1346,7 +1420,7 @@
       \verb{url}
       \verb https://doi.org/10.1111/agec.12707
       \endverb
-      \keyw{paper}
+      \keyw{article}
     \endentry
     \entry{hastings2022}{article}{}
       \name{author}{4}{}{%
@@ -1401,7 +1475,7 @@
       \verb{url}
       \verb https://doi.org/10.1093/jae/ejab012
       \endverb
-      \keyw{paper}
+      \keyw{article}
     \endentry
     \entry{angus2021}{article}{}
       \name{author}{4}{}{%
@@ -1455,7 +1529,7 @@
       \verb{url}
       \verb https://doi.org/10.1016/j.jebo.2021.08.005
       \endverb
-      \keyw{paper}
+      \keyw{article}
     \endentry
     \entry{atalay2021}{article}{}
       \name{author}{4}{}{%
@@ -1510,7 +1584,7 @@
       \verb{url}
       \verb https://doi.org/10.1002/hec.4394
       \endverb
-      \keyw{paper}
+      \keyw{article}
     \endentry
     \entry{ubilava2019el}{article}{}
       \name{author}{3}{}{%
@@ -2272,51 +2346,8 @@
   \enddatalist
 \endrefsection
 
-\refsection{2}
+\refsection{3}
   \datalist[entry]{none/global//global/global}
-    \entry{rice_enso}{misc}{}
-      \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
-           family={Ubilava},
-           familyi={U\bibinitperiod},
-           given={David},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=c5927becd1b2665c97768b39f09a1288}{%
-           family={Ahmed},
-           familyi={A\bibinitperiod},
-           given={Lesley},
-           giveni={L\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=c2dc6117c944537d5a073cc90d9355c1}{%
-           family={Valera},
-           familyi={V\bibinitperiod},
-           given={Harold\bibnamedelima G.},
-           giveni={H\bibinitperiod\bibinitdelim G\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=6298a99237f8ac3fef4b054468fcd37d}{%
-           family={Pede},
-           familyi={P\bibinitperiod},
-           given={Valerien\bibnamedelima O.},
-           giveni={V\bibinitperiod\bibinitdelim O\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{c47a26e60eabaf94cab35095f5229f01}
-      \strng{fullhash}{c22e3e1d04c07d355eaad4caa8afbff6}
-      \strng{bibnamehash}{c22e3e1d04c07d355eaad4caa8afbff6}
-      \strng{authorbibnamehash}{c22e3e1d04c07d355eaad4caa8afbff6}
-      \strng{authornamehash}{c47a26e60eabaf94cab35095f5229f01}
-      \strng{authorfullhash}{c22e3e1d04c07d355eaad4caa8afbff6}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{{The Rice Market Reaction to El Niño Southern Oscillation Shocks}}
-      \field{year}{in preparation}
-      \true{nocite}
-    \endentry
     \entry{conflict_seasia}{misc}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=c6700df8d63c7a11787de4c35d06cd2f}{%
@@ -2338,15 +2369,22 @@
       \strng{authorbibnamehash}{13fa265178215fb3fa09639a3fb22a0d}
       \strng{authornamehash}{13fa265178215fb3fa09639a3fb22a0d}
       \strng{authorfullhash}{13fa265178215fb3fa09639a3fb22a0d}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Agricultural Shocks and Social Conflict in Southeast Asia}}
-      \field{year}{revision requested}
+      \field{year}{under review}
       \true{nocite}
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2304.10027
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2304.10027
+      \endverb
+      \keyw{working}
     \endentry
   \enddatalist
 \endrefsection
