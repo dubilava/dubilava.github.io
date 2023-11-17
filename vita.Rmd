@@ -15,22 +15,22 @@ google_citations <- get_citation_history(google_id)
 google_cites <- get_profile(google_id)$total_cites
 google_index <- get_profile(google_id)$h_index
 
-# library(rscopus)
-# 
-# scopus_api_key <- "e80184e9663a40189661cca2eb2a74d3"
-# set_api_key(scopus_api_key)
-# 
-# scopus_id <- "26421832000"
-# 
-# scopus_papers <- author_df(au_id=scopus_id)
-# 
-# scopus_citations <- data.table(cites=as.numeric(scopus_papers[,"citedby-count"]))
-# scopus_citations <- scopus_citations[order(-cites)]
-# scopus_citations$sums <- 1:nrow(scopus_citations)
-# 
-# scopus_cites <- sum(scopus_citations$cites)
-# 
-# scopus_index <- length(which(scopus_citations$sums<=scopus_citations$cites))
+library(rscopus)
+
+scopus_api_key <- "e80184e9663a40189661cca2eb2a74d3"
+set_api_key(scopus_api_key)
+
+scopus_id <- "26421832000"
+
+scopus_papers <- author_df(au_id=scopus_id)
+
+scopus_citations <- data.table(cites=as.numeric(scopus_papers[,"citedby-count"]))
+scopus_citations <- scopus_citations[order(-cites)]
+scopus_citations$sums <- 1:nrow(scopus_citations)
+
+scopus_cites <- sum(scopus_citations$cites)
+
+scopus_index <- length(which(scopus_citations$sums<=scopus_citations$cites))
 
 ```
 
@@ -40,10 +40,12 @@ google_index <- get_profile(google_id)$h_index
 
 - Commodity Markets and Prices 
 - Conflict and Political Violence 
+- El Nino Southern Oscillation
 
 ## Research Impact
 
 - [Google Scholar](https://scholar.google.com/citations?user=VbNOr6wAAAAJ){target="_blank"} *citations: `r google_cites`, h-index: `r google_index`* 
+- [Scopus](https://www.scopus.com/authid/detail.uri?authorId=26421832000){target="_blank"} *citations: `r scopus_cites`, h-index: `r scopus_index`* 
 
 ## Current Appointments
 

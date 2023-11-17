@@ -17,11 +17,6 @@ navbar:
       href: research.html
     - text: "Teaching"
       href: teaching.html
-      # menu:
-      #   - text: "Agricultural Markets"
-      #     href: agmarkets.html
-      #   - text: "Forecasting for Economics and Business"
-      #     href: forecasting.html
   right:
     - text: "Follow Me"
       icon: fa-twitter
