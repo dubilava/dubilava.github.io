@@ -1233,7 +1233,7 @@
            givenun=0}}%
       }
       \list{publisher}{1}{%
-        {under contract with Routledge}%
+        {Routledge}%
       }
       \strng{namehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{fullhash}{b19d1273e682e827d6f100294d4ab9c8}
@@ -1253,6 +1253,33 @@
       \true{nocite}
       \keyw{book}
     \endentry
+    \entry{elnino_conflict}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
+           family={Ubilava},
+           familyi={U\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b19d1273e682e827d6f100294d4ab9c8}
+      \strng{fullhash}{b19d1273e682e827d6f100294d4ab9c8}
+      \strng{bibnamehash}{b19d1273e682e827d6f100294d4ab9c8}
+      \strng{authorbibnamehash}{b19d1273e682e827d6f100294d4ab9c8}
+      \strng{authornamehash}{b19d1273e682e827d6f100294d4ab9c8}
+      \strng{authorfullhash}{b19d1273e682e827d6f100294d4ab9c8}
+      \field{extraname}{9}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Climate, Crops, and Postharvest Conflict}}
+      \field{year}{in preparation}
+      \true{nocite}
+      \keyw{working}
+    \endentry
   \enddatalist
 \endrefsection
 
@@ -1268,7 +1295,7 @@
            givenun=0}}%
       }
       \list{publisher}{1}{%
-        {under contract with Routledge}%
+        {Routledge}%
       }
       \strng{namehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{fullhash}{b19d1273e682e827d6f100294d4ab9c8}
@@ -2384,6 +2411,32 @@
       \verb{url}
       \verb https://arxiv.org/abs/2304.10027
       \endverb
+      \keyw{working}
+    \endentry
+    \entry{elnino_conflict}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
+           family={Ubilava},
+           familyi={U\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b19d1273e682e827d6f100294d4ab9c8}
+      \strng{fullhash}{b19d1273e682e827d6f100294d4ab9c8}
+      \strng{bibnamehash}{b19d1273e682e827d6f100294d4ab9c8}
+      \strng{authorbibnamehash}{b19d1273e682e827d6f100294d4ab9c8}
+      \strng{authornamehash}{b19d1273e682e827d6f100294d4ab9c8}
+      \strng{authorfullhash}{b19d1273e682e827d6f100294d4ab9c8}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Climate, Crops, and Postharvest Conflict}}
+      \field{year}{in preparation}
+      \true{nocite}
       \keyw{working}
     \endentry
   \enddatalist

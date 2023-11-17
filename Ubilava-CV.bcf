@@ -2416,6 +2416,7 @@
   </bcf:bibdata>
   <bcf:section number="3">
     <bcf:citekey order="1" intorder="2" nocite="1">conflict_seasia</bcf:citekey>
+    <bcf:citekey order="2" intorder="3" nocite="1">elnino_conflict</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
