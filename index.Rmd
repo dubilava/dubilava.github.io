@@ -68,7 +68,7 @@ I currently serve as an associate editor of the *American Journal of Agricultura
 
 **Recent presentations:**
 
-- [Climate, Crops, and Postharvest Conflict](https://dubilava.github.io/misc/ensoconflict.html){target="_blank"}
+- [Climate, Crops, and Postharvest Conflict](https://dubilava.github.io/misc/ensoconflict/ensoconflict.html){target="_blank"}
 - [Agricultural Shocks and Social Conflict in Southeast Asia](https://dubilava.github.io/misc/seasia-presentation.html){target="_blank"}
 - [War in Ukraine and Disrupted Markets](https://dubilava.github.io/ukraine/02-presentation.html){target="_blank"}
 - [Agricultural Windfalls and the Seasonality of Political Violence in Africa](https://dubilava.github.io/conflict/presentation.html){target="_blank"}
