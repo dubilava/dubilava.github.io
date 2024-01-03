@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.6.19)  17 NOV 2023 10:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.6.19)  3 JAN 2024 10:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1159,13 +1159,6 @@ nput line 31.
 somethree.fd
 File: ufontawesomethree.fd 2016/05/22 Font definitions for U/fontawesomethree.
 )
-LaTeX Font Info:    Trying to load font information for U+simpleiconsnine on in
-put line 39.
-
-(C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/latex/simpleicons\usimplei
-consnine.fd
-File: usimpleiconsnine.fd 2023/10/22 Font definitions for U/simpleiconsnine.
-)
 Package marginnote Info: Margin note 1.1 is on absolute page 1 on input line 52
 .
 Package marginnote Info: right page because not two side mode on input line 52.
@@ -1235,8 +1228,13 @@ Package marginnote Info: xpos seems to be 108.405pt on input line 86.
 \blx@sectionciteorder@1=\count479
 Package biblatex Info: Reference section=1 on input line 92.
 Package biblatex Info: Setting label 'refsection:1' on input line 92.
+Package biblatex Info: Reference section=0 on input line 95.
+\blx@maxsegment@2=\count480
+\blx@sectionciteorder@2=\count481
+Package biblatex Info: Reference section=2 on input line 97.
+Package biblatex Info: Setting label 'refsection:2' on input line 97.
 LaTeX Font Info:    Trying to load font information for OT1+lmtt on input line 
-94.
+99.
 
 (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmtt.fd
 File: ot1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
@@ -1245,23 +1243,6 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmtt' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-
-[1
-
-{C:/Users/dubi7233/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/d
-ubi7233/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/du
-bi7233/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome/fontawesomeone
-.enc}{C:/Users/dubi7233/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontaweso
-me/fontawesometwo.enc}{C:/Users/dubi7233/AppData/Local/Programs/MiKTeX/fonts/en
-c/dvips/fontawesome/fontawesomethree.enc}{C:/Users/dubi7233/AppData/Local/Progr
-ams/MiKTeX/fonts/enc/dvips/simpleicons/simpleiconsnine.enc}{C:/Users/dubi7233/A
-ppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rmsc.enc}{C:/Users/dubi7233/
-AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rmtt.enc}]
-Package biblatex Info: Reference section=0 on input line 95.
-\blx@maxsegment@2=\count480
-\blx@sectionciteorder@2=\count481
-Package biblatex Info: Reference section=2 on input line 97.
-Package biblatex Info: Setting label 'refsection:2' on input line 97.
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 9
 9.
 
@@ -1293,7 +1274,16 @@ f Agricultural Economics \OT1/lmr/m/n/9 (+2) 105(5), 1309{1332. [][]$\OT1/lmtt/
 m/n/9 https : / / doi . org / 10 . 1111 / 
  []
 
+[1
 
+{C:/Users/dubi7233/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/d
+ubi7233/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/du
+bi7233/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome/fontawesomeone
+.enc}{C:/Users/dubi7233/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontaweso
+me/fontawesometwo.enc}{C:/Users/dubi7233/AppData/Local/Programs/MiKTeX/fonts/en
+c/dvips/fontawesome/fontawesomethree.enc}{C:/Users/dubi7233/AppData/Local/Progr
+ams/MiKTeX/fonts/enc/dvips/lm/lm-rmsc.enc}{C:/Users/dubi7233/AppData/Local/Prog
+rams/MiKTeX/fonts/enc/dvips/lm/lm-rmtt.enc}]
 Overfull \hbox (0.19978pt too wide) in paragraph at lines 99--99
 [][]\OT1/lmr/m/n/9 (+5) Tack, J. B. and D. Ubilava (2015). Climate and Agricult
 ural Risk: Measuring the Effect of ENSO on U.S. Crop 
@@ -1590,28 +1580,27 @@ Package logreq Info: Writing requests to 'Ubilava-CV.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33420 strings out of 476331
- 659233 string characters out of 5786349
+ 33404 strings out of 476331
+ 658719 string characters out of 5786349
  1873660 words of memory out of 5000000
- 53290 multiletter control sequences out of 15000+600000
- 563256 words of font info for 118 fonts, out of 8000000 for 9000
+ 53280 multiletter control sequences out of 15000+600000
+ 562971 words of font info for 117 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  87i,11n,90p,1185b,2118s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/dubi7233/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontaweso
 me/FontAwesome.pfb><C:/Users/dubi7233/AppData/Local/Programs/MiKTeX/fonts/type1
-/public/simpleicons/SimpleIcons.pfb><C:/Users/dubi7233/AppData/Local/Programs/M
-iKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/dubi7233/AppData/Local/Program
-s/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/dubi7233/AppData/Local/Prog
-rams/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/dubi7233/AppData/Local/
-Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/dubi7233/AppData/Loca
-l/Programs/MiKTeX/fonts/type1/public/lm/lmr9.pfb><C:/Users/dubi7233/AppData/Loc
-al/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/dubi7233/AppData/
-Local/Programs/MiKTeX/fonts/type1/public/lm/lmri9.pfb><C:/Users/dubi7233/AppDat
-a/Local/Programs/MiKTeX/fonts/type1/public/lm/lmro10.pfb><C:/Users/dubi7233/App
-Data/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt9.pfb>
-Output written on Ubilava-CV.pdf (6 pages, 323497 bytes).
+/public/lm/lmbx10.pfb><C:/Users/dubi7233/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/lm/lmbx12.pfb><C:/Users/dubi7233/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/lm/lmcsc10.pfb><C:/Users/dubi7233/AppData/Local/Programs/MiKTeX/f
+onts/type1/public/lm/lmr10.pfb><C:/Users/dubi7233/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/lm/lmr9.pfb><C:/Users/dubi7233/AppData/Local/Programs/MiKTe
+X/fonts/type1/public/lm/lmri10.pfb><C:/Users/dubi7233/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/lm/lmri9.pfb><C:/Users/dubi7233/AppData/Local/Programs/
+MiKTeX/fonts/type1/public/lm/lmro10.pfb><C:/Users/dubi7233/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/public/lm/lmtt9.pfb>
+Output written on Ubilava-CV.pdf (6 pages, 316131 bytes).
 PDF statistics:
- 196 PDF objects out of 1000 (max. 8388607)
+ 189 PDF objects out of 1000 (max. 8388607)
  33 named destinations out of 1000 (max. 500000)
  29185 words of extra memory for PDF output out of 29859 (max. 10000000)
 
