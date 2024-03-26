@@ -1276,8 +1276,14 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Climate, Crops, and Postharvest Conflict}}
-      \field{year}{in preparation}
+      \field{year}{under review}
       \true{nocite}
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2311.16370
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2311.16370
+      \endverb
       \keyw{working}
     \endentry
   \enddatalist
@@ -2435,8 +2441,14 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Climate, Crops, and Postharvest Conflict}}
-      \field{year}{in preparation}
+      \field{year}{under review}
       \true{nocite}
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2311.16370
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2311.16370
+      \endverb
       \keyw{working}
     \endentry
   \enddatalist
