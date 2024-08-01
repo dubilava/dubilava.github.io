@@ -2371,17 +2371,6 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">research.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="1">
-    <bcf:citekey order="1" intorder="2" nocite="1">ubilavabook</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 2 -->
-  <bcf:bibdata section="2">
-    <bcf:datasource type="file" datatype="bibtex" glob="false">research.bib</bcf:datasource>
-    <bcf:datasource type="file" datatype="bibtex" glob="false">research.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="2">
     <bcf:citekey order="1" intorder="2" nocite="1">ubilava2023ajae</bcf:citekey>
     <bcf:citekey order="2" intorder="3" nocite="1">ferguson2022</bcf:citekey>
     <bcf:citekey order="3" intorder="4" nocite="1">ubilava2022agec</bcf:citekey>
@@ -2409,12 +2398,12 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 3 -->
-  <bcf:bibdata section="3">
+  <!-- SECTION 2 -->
+  <bcf:bibdata section="2">
     <bcf:datasource type="file" datatype="bibtex" glob="false">research.bib</bcf:datasource>
     <bcf:datasource type="file" datatype="bibtex" glob="false">research.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="3">
+  <bcf:section number="2">
     <bcf:citekey order="1" intorder="2" nocite="1">conflict_seasia</bcf:citekey>
     <bcf:citekey order="2" intorder="3" nocite="1">elnino_conflict</bcf:citekey>
   </bcf:section>
@@ -2441,15 +2430,6 @@
                 labelalphanametemplatename="global">
   </bcf:datalist>
   <bcf:datalist section="2"
-                name="none/global//global/global"
-                type="entry"
-                sortingtemplatename="none"
-                sortingnamekeytemplatename="global"
-                labelprefix=""
-                uniquenametemplatename="global"
-                labelalphanametemplatename="global">
-  </bcf:datalist>
-  <bcf:datalist section="3"
                 name="none/global//global/global"
                 type="entry"
                 sortingtemplatename="none"
