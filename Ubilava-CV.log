@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.5.31)  26 MAR 2024 21:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.5.31)  29 APR 2024 19:47
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1529,6 +1529,24 @@ Overfull \hbox (0.3186pt too wide) in paragraph at lines 211--212
 y; Aus-tralian Jour-nal of Agri-cul-tural and Re-source 
  []
 
+
+Overfull \hbox (0.12825pt too wide) in paragraph at lines 211--212
+\OT1/lmr/m/n/10 (-14) Eco-nomics; En-vi-ron-men-tal Man-age-ment; En-vi-ron-men
+-tal Mod-elling & Soft-ware; En-vi-ron-men-tal Re-search 
+ []
+
+
+Overfull \hbox (0.6799pt too wide) in paragraph at lines 211--212
+\OT1/lmr/m/n/10 (-20) Change; In-ter-na-tional Food and Agribusi-ness Man-age-m
+ent Re-view; In-ter-na-tional Jour-nal of Cli-ma-tol-ogy; 
+ []
+
+
+Overfull \hbox (0.20596pt too wide) in paragraph at lines 211--212
+\OT1/lmr/m/n/10 (+2) As-so-ci-a-tion; Jour-nal of Agri-cul-tural and Re-source 
+Eco-nomics; Jour-nal of Com-mod-ity Mar-kets; Jour-nal 
+ []
+
 [5]
 Package marginnote Info: Margin note 6.1 is on absolute page 6 on input line 21
 6.
@@ -1583,11 +1601,11 @@ Package logreq Info: Writing requests to 'Ubilava-CV.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33248 strings out of 476410
- 653339 string characters out of 5787697
+ 33254 strings out of 476410
+ 653407 string characters out of 5787697
  1874845 words of memory out of 5000000
  53043 multiletter control sequences out of 15000+600000
- 563266 words of font info for 120 fonts, out of 8000000 for 9000
+ 563559 words of font info for 123 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  87i,11n,90p,1185b,2112s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/dubi7233/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontaweso
@@ -1601,7 +1619,7 @@ X/fonts/type1/public/lm/lmri10.pfb><C:/Users/dubi7233/AppData/Local/Programs/Mi
 KTeX/fonts/type1/public/lm/lmri9.pfb><C:/Users/dubi7233/AppData/Local/Programs/
 MiKTeX/fonts/type1/public/lm/lmro10.pfb><C:/Users/dubi7233/AppData/Local/Progra
 ms/MiKTeX/fonts/type1/public/lm/lmtt9.pfb>
-Output written on Ubilava-CV.pdf (6 pages, 317000 bytes).
+Output written on Ubilava-CV.pdf (6 pages, 318175 bytes).
 PDF statistics:
  190 PDF objects out of 1000 (max. 8388607)
  33 named destinations out of 1000 (max. 500000)
