@@ -11,12 +11,10 @@ navbar:
   left:
     - text: "About"
       href: index.html
-    - text: "Vita"
-      href: vita.html
     - text: "Research"
       href: research.html
-    - text: "Teaching"
-      href: teaching.html
+    - text: "Vita"
+      href: vita.html
   right:
     - text: "Follow Me"
       icon: fa-twitter

@@ -1213,7 +1213,11 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Agricultural Shocks and Social Conflict in Southeast Asia}}
+<<<<<<< HEAD
       \field{year}{revisions requested}
+=======
+      \field{year}{revision requested}
+>>>>>>> b48e37476c97264189314a3fb0c71b22ea113990
       \true{nocite}
       \verb{urlraw}
       \verb https://arxiv.org/abs/2304.10027
@@ -1276,7 +1280,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Climate, Crops, and Postharvest Conflict}}
-      \field{year}{under review}
+      \field{year}{revision requested}
       \true{nocite}
       \verb{urlraw}
       \verb https://arxiv.org/abs/2311.16370
@@ -1290,40 +1294,6 @@
 \endrefsection
 
 \refsection{1}
-  \datalist[entry]{none/global//global/global}
-    \entry{ubilavabook}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
-           family={Ubilava},
-           familyi={U\bibinitperiod},
-           given={David},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Routledge}%
-      }
-      \strng{namehash}{b19d1273e682e827d6f100294d4ab9c8}
-      \strng{fullhash}{b19d1273e682e827d6f100294d4ab9c8}
-      \strng{bibnamehash}{b19d1273e682e827d6f100294d4ab9c8}
-      \strng{authorbibnamehash}{b19d1273e682e827d6f100294d4ab9c8}
-      \strng{authornamehash}{b19d1273e682e827d6f100294d4ab9c8}
-      \strng{authorfullhash}{b19d1273e682e827d6f100294d4ab9c8}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Forecasting Time Seried Data: An Intuitive Introduction to Methods and Models}
-      \field{year}{2025}
-      \true{nocite}
-      \keyw{book}
-    \endentry
-  \enddatalist
-\endrefsection
-
-\refsection{2}
   \datalist[entry]{none/global//global/global}
     \entry{ubilava2023ajae}{article}{}
       \name{author}{3}{}{%
@@ -2379,7 +2349,7 @@
   \enddatalist
 \endrefsection
 
-\refsection{3}
+\refsection{2}
   \datalist[entry]{none/global//global/global}
     \entry{conflict_seasia}{misc}{}
       \name{author}{2}{}{%
@@ -2409,7 +2379,11 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Agricultural Shocks and Social Conflict in Southeast Asia}}
+<<<<<<< HEAD
       \field{year}{revisions requested}
+=======
+      \field{year}{revision requested}
+>>>>>>> b48e37476c97264189314a3fb0c71b22ea113990
       \true{nocite}
       \verb{urlraw}
       \verb https://arxiv.org/abs/2304.10027
@@ -2441,7 +2415,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Climate, Crops, and Postharvest Conflict}}
-      \field{year}{under review}
+      \field{year}{revision requested}
       \true{nocite}
       \verb{urlraw}
       \verb https://arxiv.org/abs/2311.16370

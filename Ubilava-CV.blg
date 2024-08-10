@@ -1,5 +1,6 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'Ubilava-CV.blg'
+<<<<<<< HEAD
 [266] biber-MSWIN64:340> INFO - === 
 [351] Biber.pm:419> INFO - Reading 'Ubilava-CV.bcf'
 [501] Biber.pm:976> INFO - Using all citekeys in bib section 0
@@ -45,3 +46,42 @@
 [1366] Biber.pm:131> WARN - legacy year field 'revisions requested' in entry 'conflict_seasia' is not an integer - this will probably not sort properly.
 [1366] Biber.pm:131> WARN - legacy year field 'under review' in entry 'elnino_conflict' is not an integer - this will probably not sort properly.
 [1366] Biber.pm:133> INFO - WARNINGS: 7
+=======
+[77] biber-MSWIN64:340> INFO - === 
+[110] Biber.pm:419> INFO - Reading 'Ubilava-CV.bcf'
+[181] Biber.pm:976> INFO - Using all citekeys in bib section 0
+[182] Biber.pm:979> INFO - Found 23 citekeys in bib section 1
+[182] Biber.pm:976> INFO - Using all citekeys in bib section 0
+[182] Biber.pm:979> INFO - Found 2 citekeys in bib section 2
+[182] Biber.pm:976> INFO - Using all citekeys in bib section 0
+[196] Biber.pm:4419> INFO - Processing section 0
+[204] Biber.pm:4610> INFO - Looking for bibtex file 'research.bib' for section 0
+[263] bibtex.pm:1713> INFO - LaTeX decoding ...
+[317] bibtex.pm:1519> INFO - Found BibTeX data source 'research.bib'
+[419] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[419] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[419] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[419] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[433] Biber.pm:4419> INFO - Processing section 1
+[433] Biber.pm:4610> INFO - Looking for bibtex file 'research.bib' for section 1
+[515] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[515] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[515] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[515] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[524] Biber.pm:4419> INFO - Processing section 2
+[524] Biber.pm:4610> INFO - Looking for bibtex file 'research.bib' for section 2
+[559] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[559] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[559] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[559] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[560] bbl.pm:660> INFO - Writing 'Ubilava-CV.bbl' with encoding 'UTF-8'
+[580] bbl.pm:763> INFO - Output to Ubilava-CV.bbl
+[581] Biber.pm:131> WARN - legacy year field 'in preparation' in entry 'signal_noise' is not an integer - this will probably not sort properly.
+[581] Biber.pm:131> WARN - legacy year field 'in preparation' in entry 'hastings_korea' is not an integer - this will probably not sort properly.
+[581] Biber.pm:131> WARN - legacy year field 'revision requested' in entry 'conflict_seasia' is not an integer - this will probably not sort properly.
+[581] Biber.pm:131> WARN - legacy year field 'revision requested' in entry 'elnino_conflict' is not an integer - this will probably not sort properly.
+[581] Biber.pm:131> WARN - legacy year field 'in preparation' in entry 'rice_enso' is not an integer - this will probably not sort properly.
+[581] Biber.pm:131> WARN - legacy year field 'revision requested' in entry 'conflict_seasia' is not an integer - this will probably not sort properly.
+[581] Biber.pm:131> WARN - legacy year field 'revision requested' in entry 'elnino_conflict' is not an integer - this will probably not sort properly.
+[581] Biber.pm:133> INFO - WARNINGS: 7
+>>>>>>> b48e37476c97264189314a3fb0c71b22ea113990
