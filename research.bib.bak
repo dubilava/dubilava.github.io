@@ -315,10 +315,14 @@
   url      = {https://doi.org/10.1111/1467-8489.12497},
 }
 
-@Misc{conflict_seasia,
+{conflict_seasia,
   author   = {Justin V. Hastings and David Ubilava},
   title    = {{Agricultural Shocks and Social Conflict in Southeast Asia}},
-  year     = {under review},
+<<<<<<< HEAD
+  year     = {revisions requested},
+=======
+  year     = {revision requested},
+>>>>>>> b48e37476c97264189314a3fb0c71b22ea113990
   keywords = {working},
   url      = {https://arxiv.org/abs/2304.10027},
 }
@@ -337,6 +341,9 @@
   year     = {under review},
   keywords = {working},
   url      = {https://arxiv.org/abs/2311.16370},
+}
+
+@Article{,
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}

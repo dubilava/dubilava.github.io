@@ -1185,48 +1185,6 @@
       \endverb
       \keyw{article}
     \endentry
-    \entry{conflict_seasia}{misc}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=c6700df8d63c7a11787de4c35d06cd2f}{%
-           family={Hastings},
-           familyi={H\bibinitperiod},
-           given={Justin\bibnamedelima V.},
-           giveni={J\bibinitperiod\bibinitdelim V\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
-           family={Ubilava},
-           familyi={U\bibinitperiod},
-           given={David},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{13fa265178215fb3fa09639a3fb22a0d}
-      \strng{fullhash}{13fa265178215fb3fa09639a3fb22a0d}
-      \strng{bibnamehash}{13fa265178215fb3fa09639a3fb22a0d}
-      \strng{authorbibnamehash}{13fa265178215fb3fa09639a3fb22a0d}
-      \strng{authornamehash}{13fa265178215fb3fa09639a3fb22a0d}
-      \strng{authorfullhash}{13fa265178215fb3fa09639a3fb22a0d}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{{Agricultural Shocks and Social Conflict in Southeast Asia}}
-<<<<<<< HEAD
-      \field{year}{revisions requested}
-=======
-      \field{year}{revision requested}
->>>>>>> b48e37476c97264189314a3fb0c71b22ea113990
-      \true{nocite}
-      \verb{urlraw}
-      \verb https://arxiv.org/abs/2304.10027
-      \endverb
-      \verb{url}
-      \verb https://arxiv.org/abs/2304.10027
-      \endverb
-      \keyw{working}
-    \endentry
     \entry{ubilavabook}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
@@ -1273,20 +1231,58 @@
       \strng{authornamehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{authorfullhash}{b19d1273e682e827d6f100294d4ab9c8}
       \field{extraname}{9}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Climate, Crops, and Postharvest Conflict}}
-      \field{year}{revision requested}
+      \field{year}{under review}
       \true{nocite}
       \verb{urlraw}
       \verb https://arxiv.org/abs/2311.16370
       \endverb
       \verb{url}
       \verb https://arxiv.org/abs/2311.16370
+      \endverb
+      \keyw{working}
+    \endentry
+    \entry{conflict_seasia}{misc}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c6700df8d63c7a11787de4c35d06cd2f}{%
+           family={Hastings},
+           familyi={H\bibinitperiod},
+           given={Justin\bibnamedelima V.},
+           giveni={J\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
+           family={Ubilava},
+           familyi={U\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{13fa265178215fb3fa09639a3fb22a0d}
+      \strng{fullhash}{13fa265178215fb3fa09639a3fb22a0d}
+      \strng{bibnamehash}{13fa265178215fb3fa09639a3fb22a0d}
+      \strng{authorbibnamehash}{13fa265178215fb3fa09639a3fb22a0d}
+      \strng{authornamehash}{13fa265178215fb3fa09639a3fb22a0d}
+      \strng{authorfullhash}{13fa265178215fb3fa09639a3fb22a0d}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Agricultural Roots of Social Conflict in Southeast Asia}}
+      \field{year}{under review}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2304.10027
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2304.10027
       \endverb
       \keyw{working}
     \endentry
@@ -2378,12 +2374,8 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{{Agricultural Shocks and Social Conflict in Southeast Asia}}
-<<<<<<< HEAD
-      \field{year}{revisions requested}
-=======
-      \field{year}{revision requested}
->>>>>>> b48e37476c97264189314a3fb0c71b22ea113990
+      \field{title}{{Agricultural Roots of Social Conflict in Southeast Asia}}
+      \field{year}{under review}
       \true{nocite}
       \verb{urlraw}
       \verb https://arxiv.org/abs/2304.10027
@@ -2415,7 +2407,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Climate, Crops, and Postharvest Conflict}}
-      \field{year}{revision requested}
+      \field{year}{under review}
       \true{nocite}
       \verb{urlraw}
       \verb https://arxiv.org/abs/2311.16370
