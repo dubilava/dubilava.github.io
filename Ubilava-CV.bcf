@@ -2371,29 +2371,30 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">research.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="1">
-    <bcf:citekey order="1" intorder="2" nocite="1">ubilava2023ajae</bcf:citekey>
-    <bcf:citekey order="2" intorder="3" nocite="1">ferguson2022</bcf:citekey>
-    <bcf:citekey order="3" intorder="4" nocite="1">ubilava2022agec</bcf:citekey>
-    <bcf:citekey order="4" intorder="5" nocite="1">hastings2022</bcf:citekey>
-    <bcf:citekey order="5" intorder="6" nocite="1">angus2021</bcf:citekey>
-    <bcf:citekey order="6" intorder="7" nocite="1">atalay2021</bcf:citekey>
-    <bcf:citekey order="7" intorder="8" nocite="1">ubilava2019el</bcf:citekey>
-    <bcf:citekey order="8" intorder="9" nocite="1">ubilava2019erl</bcf:citekey>
-    <bcf:citekey order="9" intorder="10" nocite="1">ubilava2019md</bcf:citekey>
-    <bcf:citekey order="10" intorder="11" nocite="1">ubilava2018ajae</bcf:citekey>
-    <bcf:citekey order="11" intorder="12" nocite="1">smith2017gec</bcf:citekey>
-    <bcf:citekey order="12" intorder="13" nocite="1">ubilava2017wd</bcf:citekey>
-    <bcf:citekey order="13" intorder="14" nocite="1">tack2015agec</bcf:citekey>
-    <bcf:citekey order="14" intorder="15" nocite="1">ubilava2014erae</bcf:citekey>
-    <bcf:citekey order="15" intorder="16" nocite="1">tack2013cc</bcf:citekey>
-    <bcf:citekey order="16" intorder="17" nocite="1">ubilava2013ems</bcf:citekey>
-    <bcf:citekey order="17" intorder="18" nocite="1">ubilava2013ajare</bcf:citekey>
-    <bcf:citekey order="18" intorder="19" nocite="1">ubilava2012agec</bcf:citekey>
-    <bcf:citekey order="19" intorder="20" nocite="1">ubilava2012agri</bcf:citekey>
-    <bcf:citekey order="20" intorder="21" nocite="1">ubilava2011jare</bcf:citekey>
-    <bcf:citekey order="21" intorder="22" nocite="1">ubilava2011jcb</bcf:citekey>
-    <bcf:citekey order="22" intorder="23" nocite="1">ubilava2010tfsc</bcf:citekey>
-    <bcf:citekey order="23" intorder="24" nocite="1">ubilava2009fp</bcf:citekey>
+    <bcf:citekey order="1" intorder="2" nocite="1">elnino_conflict</bcf:citekey>
+    <bcf:citekey order="2" intorder="3" nocite="1">ubilava2023ajae</bcf:citekey>
+    <bcf:citekey order="3" intorder="4" nocite="1">ferguson2022</bcf:citekey>
+    <bcf:citekey order="4" intorder="5" nocite="1">ubilava2022agec</bcf:citekey>
+    <bcf:citekey order="5" intorder="6" nocite="1">hastings2022</bcf:citekey>
+    <bcf:citekey order="6" intorder="7" nocite="1">angus2021</bcf:citekey>
+    <bcf:citekey order="7" intorder="8" nocite="1">atalay2021</bcf:citekey>
+    <bcf:citekey order="8" intorder="9" nocite="1">ubilava2019el</bcf:citekey>
+    <bcf:citekey order="9" intorder="10" nocite="1">ubilava2019erl</bcf:citekey>
+    <bcf:citekey order="10" intorder="11" nocite="1">ubilava2019md</bcf:citekey>
+    <bcf:citekey order="11" intorder="12" nocite="1">ubilava2018ajae</bcf:citekey>
+    <bcf:citekey order="12" intorder="13" nocite="1">smith2017gec</bcf:citekey>
+    <bcf:citekey order="13" intorder="14" nocite="1">ubilava2017wd</bcf:citekey>
+    <bcf:citekey order="14" intorder="15" nocite="1">tack2015agec</bcf:citekey>
+    <bcf:citekey order="15" intorder="16" nocite="1">ubilava2014erae</bcf:citekey>
+    <bcf:citekey order="16" intorder="17" nocite="1">tack2013cc</bcf:citekey>
+    <bcf:citekey order="17" intorder="18" nocite="1">ubilava2013ems</bcf:citekey>
+    <bcf:citekey order="18" intorder="19" nocite="1">ubilava2013ajare</bcf:citekey>
+    <bcf:citekey order="19" intorder="20" nocite="1">ubilava2012agec</bcf:citekey>
+    <bcf:citekey order="20" intorder="21" nocite="1">ubilava2012agri</bcf:citekey>
+    <bcf:citekey order="21" intorder="22" nocite="1">ubilava2011jare</bcf:citekey>
+    <bcf:citekey order="22" intorder="23" nocite="1">ubilava2011jcb</bcf:citekey>
+    <bcf:citekey order="23" intorder="24" nocite="1">ubilava2010tfsc</bcf:citekey>
+    <bcf:citekey order="24" intorder="25" nocite="1">ubilava2009fp</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -2405,7 +2406,6 @@
   </bcf:bibdata>
   <bcf:section number="2">
     <bcf:citekey order="1" intorder="2" nocite="1">conflict_seasia</bcf:citekey>
-    <bcf:citekey order="2" intorder="3" nocite="1">elnino_conflict</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
