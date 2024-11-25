@@ -3,19 +3,21 @@
 \usepackage{resumenew}
 \usepackage[sorting=none,bibstyle=authoryear,giveninits=true,defernumbers=true,uniquename=init,natbib=true,dashed=false,backend=biber]{biblatex}
 
+\usepackage{fontawesome}
+\usepackage{simpleicons}
+
 \bibliography{research}
-\addbibresource[label=papers]{research.bib}
+\addbibresource{research.bib}
 
 \pagestyle{fancy}
 \hyphenpenalty=10000
 \hbadness=10000
 
-
 \begin{document}
 	
-	\begin{refsection}[papers]
-		\nocite{ubilava2022agec,hastings2022,angus2021,atalay2021,ubilava2019el,ubilava2019erl,ubilava2019md,ubilava2018ajae,smith2017gec,ubilava2017wd,tack2015agec,ubilava2014erae,tack2013cc,ubilava2013ems,ubilava2013ajare,ubilava2012agec,ubilava2012agri,ubilava2011jare,ubilava2011jcb,ubilava2010tfsc,ubilava2009fp}
-		\printbibliography[heading={articles}]
+	\begin{refsection}
+		\nocite{conflict_seasia,elnino_conflict,ubilava2023ajae,ferguson2022,ubilava2022agec,hastings2022,angus2021,atalay2021,ubilava2019el,ubilava2019erl,ubilava2019md,ubilava2018ajae,smith2017gec,ubilava2017wd,tack2015agec,ubilava2014erae,tack2013cc,ubilava2013ems,ubilava2013ajare,ubilava2012agec,ubilava2012agri,ubilava2011jare,ubilava2011jcb,ubilava2010tfsc,ubilava2009fp}
+		\printbibliography[heading={article}]
 	\end{refsection}
 	
 \end{document}
