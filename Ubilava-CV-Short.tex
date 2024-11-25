@@ -1,10 +1,13 @@
 \documentclass[10pt]{article}
 
-\usepackage{resumeshort}
+\usepackage{resumenew}
 \usepackage[sorting=none,bibstyle=authoryear,giveninits=true,defernumbers=true,uniquename=init,natbib=true,dashed=false,backend=biber]{biblatex}
 
+\usepackage{fontawesome}
+\usepackage{simpleicons}
+
 \bibliography{research}
-\addbibresource[label=papers]{research.bib}
+\addbibresource{research.bib}
 
 \pagestyle{fancy}
 \hyphenpenalty=10000
@@ -16,31 +19,27 @@
 	
 	% THE HEADER
 	
-	\hspace{0.00in}\Large{\bfseries{David Ubilava}}
+	\hspace{0.00in}\Large{\bfseries{David Ubilava \faGraduationCap}}
 	\normalsize
 	
 	\medskip
 	
-	{E-Mail: david.ubilava@sydney.edu.au}
+	{\faEnvelope: \href{mailto:david.ubilava@sydney.edu.au}{david.ubilava@sydney.edu.au}}
 	
 	\smallskip
 	
-	{Web: \href{https://davidubilava.com}{davidubilava.com}}
+	{\faTwitter: \href{https://twitter.com/DavidUbilava}{@DavidUbilava}}
 	
 	\smallskip
 	
-	{Substack: \href{https://theguessproject.substack.com}{TheGuessProject}}
+	{\faGlobe: \href{https://davidubilava.com}{davidubilava.com}}
 	
-	\smallskip
-	
-	{Twitter: \href{https://twitter.com/DavidUbilava}{@DavidUbilava}}
-	
-	\smallskip
-	
-	{Mastodon: \href{https://econtwitter.net/@DavidUbilava}{@DavidUbilava@econtwitter.net}}
+	%	\smallskip
+	%	
+	%	{\simpleicon{substack}: \href{https://theguessproject.substack.com}{TheGuessProject}}
 	
 	\medskip
-
+	
 	%-----
 	
 	\section*{Research and Teaching Interests}
@@ -63,11 +62,11 @@
 	
 	\section*{Research}
 	
-	\begin{refsection}[papers]
-		\nocite{ubilava2022ajae,ferguson2022,ubilava2022agec,hastings2022,angus2021,atalay2021,ubilava2019el,ubilava2019erl,ubilava2019md,ubilava2018ajae,smith2017gec,ubilava2017wd,tack2015agec,ubilava2014erae,tack2013cc,ubilava2013ems,ubilava2013ajare,ubilava2012agec,ubilava2012agri,ubilava2011jare,ubilava2011jcb,ubilava2010tfsc,ubilava2009fp}
-		\printbibliography[heading=none]
+	\begin{refsection}
+		\nocite{conflict_seasia,elnino_conflict,ubilava2023ajae,ferguson2022,ubilava2022agec,hastings2022,angus2021,atalay2021,ubilava2019el,ubilava2019erl,ubilava2019md,ubilava2018ajae,smith2017gec,ubilava2017wd,tack2015agec,ubilava2014erae,tack2013cc,ubilava2013ems,ubilava2013ajare,ubilava2012agec,ubilava2012agri,ubilava2011jare,ubilava2011jcb,ubilava2010tfsc,ubilava2009fp}
+		\printbibliography[heading={article}]
 	\end{refsection}
-
+	
 	\section*{Teaching}
 	
 	\subsection*{Recognition}

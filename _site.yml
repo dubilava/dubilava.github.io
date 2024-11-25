@@ -15,8 +15,6 @@ navbar:
       href: research.html
     - text: "Vita"
       href: vita.html
-    - text: "SCoPE"
-      href: scope.html
   right:
     - text: "Follow Me"
       icon: fa-twitter

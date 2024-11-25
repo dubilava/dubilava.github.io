@@ -59,12 +59,12 @@
     \endentry
     \entry{smith2017gec}{article}{}
       \name{author}{2}{}{%
-        {{un=1,uniquepart=given,hash=9fe9d34f0c120b7d3e79d8e66cc075ce}{%
+        {{un=0,uniquepart=base,hash=9fe9d34f0c120b7d3e79d8e66cc075ce}{%
            family={Smith},
            familyi={S\bibinitperiod},
            given={Sarah\bibnamedelima C.},
            giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod},
-           givenun=1}}%
+           givenun=0}}%
         {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
            family={Ubilava},
            familyi={U\bibinitperiod},
@@ -814,34 +814,40 @@
       \endverb
       \keyw{article}
     \endentry
-    \entry{signal_noise}{misc}{}
-      \name{author}{2}{}{%
+    \entry{meat_resilience}{misc}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=a7cb1bf33529c15027c2aac7b391c182}{%
+           family={Richards},
+           familyi={R\bibinitperiod},
+           given={Timothy\bibnamedelima J.},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c5073562427729f4a624a09d67eff2f7}{%
+           family={Polyviou},
+           familyi={P\bibinitperiod},
+           given={Mikaela},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
         {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
            family={Ubilava},
            familyi={U\bibinitperiod},
            given={David},
            giveni={D\bibinitperiod},
            givenun=0}}%
-        {{un=1,uniquepart=given,hash=6c80bc538a03dc515b30a4f5aa9ee35d}{%
-           family={Smith},
-           familyi={S\bibinitperiod},
-           given={Aaron\bibnamedelima D.},
-           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod},
-           givenun=1}}%
       }
-      \strng{namehash}{712bef1a6a1299fa2cbe365b1e195384}
-      \strng{fullhash}{712bef1a6a1299fa2cbe365b1e195384}
-      \strng{bibnamehash}{712bef1a6a1299fa2cbe365b1e195384}
-      \strng{authorbibnamehash}{712bef1a6a1299fa2cbe365b1e195384}
-      \strng{authornamehash}{712bef1a6a1299fa2cbe365b1e195384}
-      \strng{authorfullhash}{712bef1a6a1299fa2cbe365b1e195384}
+      \strng{namehash}{77bcbd0ff98ad5aa0d5cfc208746db21}
+      \strng{fullhash}{77bcbd0ff98ad5aa0d5cfc208746db21}
+      \strng{bibnamehash}{77bcbd0ff98ad5aa0d5cfc208746db21}
+      \strng{authorbibnamehash}{77bcbd0ff98ad5aa0d5cfc208746db21}
+      \strng{authornamehash}{77bcbd0ff98ad5aa0d5cfc208746db21}
+      \strng{authorfullhash}{77bcbd0ff98ad5aa0d5cfc208746db21}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{{The Signal and the Noise of Short--term Climate Forecasts: Evidence from Grain Futures Markets}}
+      \field{title}{{Market Concentration and Resilience in Agricultural Supply Chains}}
       \field{year}{in preparation}
       \true{nocite}
       \keyw{progress}
@@ -1097,47 +1103,40 @@
       \endverb
       \keyw{article}
     \endentry
-    \entry{rice_enso}{misc}{}
-      \name{author}{4}{}{%
+    \entry{roads_riots}{misc}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e5d4931432853be6ed7bed8f866e342e}{%
+           family={Amarasinghe},
+           familyi={A\bibinitperiod},
+           given={Ashani},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=094b0313201c1ed880ca35c47b8a2b6f}{%
+           family={Merfeld},
+           familyi={M\bibinitperiod},
+           given={Joshua\bibnamedelima D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
         {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
            family={Ubilava},
            familyi={U\bibinitperiod},
            given={David},
            giveni={D\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=c5927becd1b2665c97768b39f09a1288}{%
-           family={Ahmed},
-           familyi={A\bibinitperiod},
-           given={Lesley},
-           giveni={L\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=c2dc6117c944537d5a073cc90d9355c1}{%
-           family={Valera},
-           familyi={V\bibinitperiod},
-           given={Harold\bibnamedelima G.},
-           giveni={H\bibinitperiod\bibinitdelim G\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=6298a99237f8ac3fef4b054468fcd37d}{%
-           family={Pede},
-           familyi={P\bibinitperiod},
-           given={Valerien\bibnamedelima O.},
-           giveni={V\bibinitperiod\bibinitdelim O\bibinitperiod},
-           givenun=0}}%
       }
-      \strng{namehash}{c47a26e60eabaf94cab35095f5229f01}
-      \strng{fullhash}{c22e3e1d04c07d355eaad4caa8afbff6}
-      \strng{bibnamehash}{c22e3e1d04c07d355eaad4caa8afbff6}
-      \strng{authorbibnamehash}{c22e3e1d04c07d355eaad4caa8afbff6}
-      \strng{authornamehash}{c47a26e60eabaf94cab35095f5229f01}
-      \strng{authorfullhash}{c22e3e1d04c07d355eaad4caa8afbff6}
-      \field{extraname}{4}
+      \strng{namehash}{a989943c5a08c9da28dd0acfd868112a}
+      \strng{fullhash}{a989943c5a08c9da28dd0acfd868112a}
+      \strng{bibnamehash}{a989943c5a08c9da28dd0acfd868112a}
+      \strng{authorbibnamehash}{a989943c5a08c9da28dd0acfd868112a}
+      \strng{authornamehash}{a989943c5a08c9da28dd0acfd868112a}
+      \strng{authorfullhash}{a989943c5a08c9da28dd0acfd868112a}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{{The Rice Market Reaction to El Niño Southern Oscillation Shocks}}
+      \field{title}{{Roads and Riots}}
       \field{year}{in preparation}
       \true{nocite}
       \keyw{progress}
@@ -1249,7 +1248,7 @@
       \endverb
       \keyw{working}
     \endentry
-    \entry{conflict_seasia}{misc}{}
+    \entry{conflict_seasia}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=c6700df8d63c7a11787de4c35d06cd2f}{%
            family={Hastings},
@@ -1276,8 +1275,9 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Peace Research}
       \field{title}{{Agricultural Roots of Social Conflict in Southeast Asia}}
-      \field{year}{under review}
+      \field{year}{accepted}
       \true{nocite}
       \verb{urlraw}
       \verb https://arxiv.org/abs/2304.10027
@@ -1292,6 +1292,45 @@
 
 \refsection{1}
   \datalist[entry]{none/global//global/global}
+    \entry{conflict_seasia}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c6700df8d63c7a11787de4c35d06cd2f}{%
+           family={Hastings},
+           familyi={H\bibinitperiod},
+           given={Justin\bibnamedelima V.},
+           giveni={J\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
+           family={Ubilava},
+           familyi={U\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{13fa265178215fb3fa09639a3fb22a0d}
+      \strng{fullhash}{13fa265178215fb3fa09639a3fb22a0d}
+      \strng{bibnamehash}{13fa265178215fb3fa09639a3fb22a0d}
+      \strng{authorbibnamehash}{13fa265178215fb3fa09639a3fb22a0d}
+      \strng{authornamehash}{13fa265178215fb3fa09639a3fb22a0d}
+      \strng{authorfullhash}{13fa265178215fb3fa09639a3fb22a0d}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Peace Research}
+      \field{title}{{Agricultural Roots of Social Conflict in Southeast Asia}}
+      \field{year}{accepted}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2304.10027
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2304.10027
+      \endverb
+      \keyw{working}
+    \endentry
     \entry{elnino_conflict}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
@@ -1308,8 +1347,8 @@
       \strng{authornamehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{authorfullhash}{b19d1273e682e827d6f100294d4ab9c8}
       \field{extraname}{1}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -1353,8 +1392,8 @@
       \strng{authorbibnamehash}{96f3557d4a369649b30f42d1f0488739}
       \strng{authornamehash}{96f3557d4a369649b30f42d1f0488739}
       \strng{authorfullhash}{96f3557d4a369649b30f42d1f0488739}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -1396,8 +1435,8 @@
       \strng{authorbibnamehash}{21ae894f79fe587d1431297cf78f2953}
       \strng{authornamehash}{21ae894f79fe587d1431297cf78f2953}
       \strng{authorfullhash}{21ae894f79fe587d1431297cf78f2953}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -1434,8 +1473,8 @@
       \strng{authornamehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{authorfullhash}{b19d1273e682e827d6f100294d4ab9c8}
       \field{extraname}{2}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -1489,8 +1528,8 @@
       \strng{authorbibnamehash}{a7807cdaddfaf75f5305ebc7c31a249c}
       \strng{authornamehash}{a423569336a8057e37afbb67783002db}
       \strng{authorfullhash}{a7807cdaddfaf75f5305ebc7c31a249c}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -1544,8 +1583,8 @@
       \strng{authorbibnamehash}{a2cd95e40b9da28febc7735e3bd01975}
       \strng{authornamehash}{bbde136f27dddcd7147dee6935edf3d3}
       \strng{authorfullhash}{a2cd95e40b9da28febc7735e3bd01975}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -1598,8 +1637,8 @@
       \strng{authorbibnamehash}{3cfeb31d8ade64ec09b3ea9a59095e9e}
       \strng{authornamehash}{41f599b28d3e9a6d496877c69f7f2411}
       \strng{authorfullhash}{3cfeb31d8ade64ec09b3ea9a59095e9e}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -1647,8 +1686,8 @@
       \strng{authorbibnamehash}{85dc75e94ebcdcd4a6dceb22c6554106}
       \strng{authornamehash}{85dc75e94ebcdcd4a6dceb22c6554106}
       \strng{authorfullhash}{85dc75e94ebcdcd4a6dceb22c6554106}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -1689,8 +1728,8 @@
       \strng{authorbibnamehash}{2bdcf4c3046a0c1a9e730a146f9749c9}
       \strng{authornamehash}{2bdcf4c3046a0c1a9e730a146f9749c9}
       \strng{authorfullhash}{2bdcf4c3046a0c1a9e730a146f9749c9}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -2093,8 +2132,8 @@
       \strng{authornamehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{authorfullhash}{b19d1273e682e827d6f100294d4ab9c8}
       \field{extraname}{7}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
@@ -2382,13 +2421,19 @@
 
 \refsection{2}
   \datalist[entry]{none/global//global/global}
-    \entry{conflict_seasia}{misc}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=c6700df8d63c7a11787de4c35d06cd2f}{%
-           family={Hastings},
-           familyi={H\bibinitperiod},
-           given={Justin\bibnamedelima V.},
-           giveni={J\bibinitperiod\bibinitdelim V\bibinitperiod},
+    \entry{roads_riots}{misc}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e5d4931432853be6ed7bed8f866e342e}{%
+           family={Amarasinghe},
+           familyi={A\bibinitperiod},
+           given={Ashani},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=094b0313201c1ed880ca35c47b8a2b6f}{%
+           family={Merfeld},
+           familyi={M\bibinitperiod},
+           given={Joshua\bibnamedelima D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
            family={Ubilava},
@@ -2397,28 +2442,60 @@
            giveni={D\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{13fa265178215fb3fa09639a3fb22a0d}
-      \strng{fullhash}{13fa265178215fb3fa09639a3fb22a0d}
-      \strng{bibnamehash}{13fa265178215fb3fa09639a3fb22a0d}
-      \strng{authorbibnamehash}{13fa265178215fb3fa09639a3fb22a0d}
-      \strng{authornamehash}{13fa265178215fb3fa09639a3fb22a0d}
-      \strng{authorfullhash}{13fa265178215fb3fa09639a3fb22a0d}
+      \strng{namehash}{a989943c5a08c9da28dd0acfd868112a}
+      \strng{fullhash}{a989943c5a08c9da28dd0acfd868112a}
+      \strng{bibnamehash}{a989943c5a08c9da28dd0acfd868112a}
+      \strng{authorbibnamehash}{a989943c5a08c9da28dd0acfd868112a}
+      \strng{authornamehash}{a989943c5a08c9da28dd0acfd868112a}
+      \strng{authorfullhash}{a989943c5a08c9da28dd0acfd868112a}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{{Agricultural Roots of Social Conflict in Southeast Asia}}
-      \field{year}{under review}
+      \field{title}{{Roads and Riots}}
+      \field{year}{in preparation}
       \true{nocite}
-      \verb{urlraw}
-      \verb https://arxiv.org/abs/2304.10027
-      \endverb
-      \verb{url}
-      \verb https://arxiv.org/abs/2304.10027
-      \endverb
-      \keyw{working}
+      \keyw{progress}
+    \endentry
+    \entry{meat_resilience}{misc}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=a7cb1bf33529c15027c2aac7b391c182}{%
+           family={Richards},
+           familyi={R\bibinitperiod},
+           given={Timothy\bibnamedelima J.},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c5073562427729f4a624a09d67eff2f7}{%
+           family={Polyviou},
+           familyi={P\bibinitperiod},
+           given={Mikaela},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
+           family={Ubilava},
+           familyi={U\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{77bcbd0ff98ad5aa0d5cfc208746db21}
+      \strng{fullhash}{77bcbd0ff98ad5aa0d5cfc208746db21}
+      \strng{bibnamehash}{77bcbd0ff98ad5aa0d5cfc208746db21}
+      \strng{authorbibnamehash}{77bcbd0ff98ad5aa0d5cfc208746db21}
+      \strng{authornamehash}{77bcbd0ff98ad5aa0d5cfc208746db21}
+      \strng{authorfullhash}{77bcbd0ff98ad5aa0d5cfc208746db21}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Market Concentration and Resilience in Agricultural Supply Chains}}
+      \field{year}{in preparation}
+      \true{nocite}
+      \keyw{progress}
     \endentry
   \enddatalist
 \endrefsection

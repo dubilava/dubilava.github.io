@@ -3,15 +3,20 @@ title: "Research"
 # csl: the-open-university-numeric.csl
 # bibliography: research.bib
 ---
-## Working Papers
+## Work in progress
 
---\ [Agricultural Roots of Social Conflict in Southeast Asia](https://arxiv.org/abs/2304.10027){target="_blank"} *(with Justin Hastings)*.
+--\ Roads and Riots *(with Ashani Amarasinghe and Joshua Merfeld)*.
+
+--\ Market Concentration and Resilience in Agricultural Supply Chains *(with Timothy Richards and Mikaela Polyviou)*
 
 ## Publications
 
+[25]\ Hastings, J.V., and D. Ubilava (accepted). Agricultural Roots of Social Conflict in Southeast Asia. *Journal of Peace Research*. [Working Paper](https://arxiv.org/abs/2304.10027){target="_blank"}. [Data and Replication Material](https://github.com/dubilava/seasia){target="_blank"}.
+
+
 [24]\ Ubilava, D. (accepted). Climate, Crops, and Postharvest Conflict. *American Journal of Agricultural Economics*. [Working Paper](https://arxiv.org/abs/2311.16370){target="_blank"}. [Data and Replication Material](https://github.com/dubilava/elnino){target="_blank"}.
 
-[23]\ Ubilava, D., Hastings, J.V., and K. Atalay (2023). [Agricultural Windfalls and the Seasonality of Political Violence in Africa](https://onlinelibrary.wiley.com/doi/full/10.1111/ajae.12364){target="_blank"}. *American Journal of Agricultural Economics 105(5)*, 1309-1332. [Working Paper](https://arxiv.org/abs/2202.07863){target="_blank"}. [Data and Replication Material](https://github.com/dubilava/conflict){target="_blank"}. Media coverage: [Vox EU](https://voxeu.org/article/rising-cereal-prices-and-political-violence-croplands-africa){target="_blank"}
+[23]\ Ubilava, D., Hastings, J.V., and K. Atalay (2023). [Agricultural Windfalls and the Seasonality of Political Violence in Africa](https://onlinelibrary.wiley.com/doi/full/10.1111/ajae.12364){target="_blank"}. *American Journal of Agricultural Economics 105(5)*, 1309-1332. [Working Paper](https://arxiv.org/abs/2202.07863){target="_blank"}. [Data and Replication Material](https://github.com/dubilava/conflict){target="_blank"}. Media coverage: [Vox EU](https://voxeu.org/article/rising-cereal-prices-and-political-violence-croplands-africa){target="_blank"}.
 
 <div class = "row">
 <div class = "col-md-4">
