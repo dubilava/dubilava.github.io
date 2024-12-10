@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.6.19)  26 NOV 2024 10:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.5.31)  10 DEC 2024 11:16
 entering extended mode
- restricted \write18 enabled.
+ \write18 enabled.
  %&-line parsing enabled.
 **./Ubilava-CV.tex
 (Ubilava-CV.tex
 LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2023-03-30>
+L3 programming layer <2023-05-15>
 (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
 (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
@@ -308,16 +308,16 @@ Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Document encoding is UTF8 ....
 
 (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2023-03-30 L3 programming layer (loader) 
+Package: expl3 2023-05-15 L3 programming layer (loader) 
 
 (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-
 pdftex.def
-File: l3backend-pdftex.def 2023-03-30 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count386
 \l__pdf_internal_box=\box51
 ))
 Package biblatex Info: ... and expl3
-(biblatex)             2023-03-30 L3 programming layer (loader) 
+(biblatex)             2023-05-15 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
 
@@ -449,8 +449,17 @@ cfg
 File: microtype.cfg 2023/03/13 v3.1a microtype main configuration file (RS)
 ))
 (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/latex/siunitx\siunitx.sty
-Package: siunitx 2023-10-07 v3.3.7 A comprehensive (SI) units package
-\l__siunitx_number_uncert_offset_int=\count401
+Package: siunitx 2023-04-13 v3.2.5 A comprehensive (SI) units package
+\l__siunitx_angle_tmp_dim=\dimen153
+\l__siunitx_angle_marker_box=\box55
+\l__siunitx_angle_unit_box=\box56
+\l__siunitx_compound_count_int=\count401
+
+(C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/latex/translations\transla
+tions.sty
+Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages
+ (CN)
+)
 \l__siunitx_number_exponent_fixed_int=\count402
 \l__siunitx_number_min_decimal_int=\count403
 \l__siunitx_number_min_integer_int=\count404
@@ -460,16 +469,6 @@ Package: siunitx 2023-10-07 v3.3.7 A comprehensive (SI) units package
 \l__siunitx_number_group_first_int=\count408
 \l__siunitx_number_group_size_int=\count409
 \l__siunitx_number_group_minimum_int=\count410
-\l__siunitx_angle_tmp_dim=\dimen153
-\l__siunitx_angle_marker_box=\box55
-\l__siunitx_angle_unit_box=\box56
-\l__siunitx_compound_count_int=\count411
-
-(C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/latex/translations\transla
-tions.sty
-Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages
- (CN)
-)
 \l__siunitx_table_tmp_box=\box57
 \l__siunitx_table_tmp_dim=\dimen154
 \l__siunitx_table_column_width_dim=\dimen155
@@ -480,9 +479,9 @@ Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages
 \l__siunitx_table_after_box=\box62
 \l__siunitx_table_before_dim=\dimen156
 \l__siunitx_table_carry_dim=\dimen157
-\l__siunitx_unit_tmp_int=\count412
-\l__siunitx_unit_position_int=\count413
-\l__siunitx_unit_total_int=\count414
+\l__siunitx_unit_tmp_int=\count411
+\l__siunitx_unit_position_int=\count412
+\l__siunitx_unit_total_int=\count413
 
 (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
 Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
@@ -507,12 +506,12 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \cmidrulesep=\dimen167
 \cmidrulekern=\dimen168
 \defaultaddspace=\dimen169
-\@cmidla=\count415
-\@cmidlb=\count416
+\@cmidla=\count414
+\@cmidlb=\count415
 \@aboverulesep=\dimen170
 \@belowrulesep=\dimen171
-\@thisruleclass=\count417
-\@lastruleclass=\count418
+\@thisruleclass=\count416
+\@lastruleclass=\count417
 \@thisrulewidth=\dimen172
 )
 (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/latex/sectsty\sectsty.sty
@@ -543,7 +542,7 @@ Package: aecompl 1998/07/23 0.9 T1 Complements for AE fonts (D. Roegel)
 (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/latex/endnotes\endnotes.st
 y
 Package: endnotes 2020-01-02 endnotes package
-\c@endnote=\count419
+\c@endnote=\count418
 \endnotesep=\dimen173
 \@enotes=\write4
 ) (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/latex/lm\lmodern.sty
@@ -605,8 +604,8 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@outerparindent=\dimen174
 \enit@toks=\toks27
 \enit@inbox=\box65
-\enit@count@id=\count420
-\enitdp@description=\count421
+\enit@count@id=\count419
+\enitdp@description=\count420
 )
 (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
 Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
@@ -620,15 +619,15 @@ Package color Info: Driver file: pdftex.def on input line 149.
 (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.l
 tx))
 (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2023/03/28 3.87 The Babel package
-\babel@savecnt=\count422
+Package: babel 2023/05/11 v3.89 The Babel package
+\babel@savecnt=\count421
 \U@D=\dimen175
 \l@unhyphenated=\language80
 
 (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def
 )
 \bbl@readstream=\read3
-\bbl@dirlevel=\count423
+\bbl@dirlevel=\count422
 
 *************************************
 * Local config file bblopts.cfg used
@@ -655,12 +654,12 @@ Package babel Info: Importing font and identification data for english
 (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.st
 y
 Package: csquotes 2022-09-14 v5.2n context-sensitive quotations (JAW)
-\csq@reset=\count424
-\csq@gtype=\count425
-\csq@glevel=\count426
-\csq@qlevel=\count427
-\csq@maxlvl=\count428
-\csq@tshold=\count429
+\csq@reset=\count423
+\csq@gtype=\count424
+\csq@glevel=\count425
+\csq@qlevel=\count426
+\csq@maxlvl=\count427
+\csq@tshold=\count428
 \csq@ltx@everypar=\toks28
 
 (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.de
@@ -676,17 +675,16 @@ File: csquotes.cfg
 ))
 (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage.st
 y
-Package: lastpage 2023/10/14 v2.0e lastpage: 2.09 or 2e? (HMM)
+Package: lastpage 2023/04/12 v2.0b lastpage: 2.09 or 2e? (HMM)
 
 (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage2e.
 sty
-Package: lastpage2e 2023/10/14 v2.0e Decide which 2e lastpage version to use (H
+Package: lastpage2e 2023/04/12 v2.0b Decide which 2e lastpage version to use (H
 MM)
 
 (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpagemod
 ern.sty
-Package: lastpagemodern 2023-10-14 v2.0e Refers to last page's name (HMM; JPG)
-\c@lastpagecount=\count430
+Package: lastpagemodern 2023-04-12 v2.0b Refers to last page's name (HMM; JPG)
 ) 
 ))
 (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.st
@@ -695,9 +693,9 @@ Package: geometry 2020/01/02 v5.9 Page Geometry
  (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count431
-\Gm@cntv=\count432
-\c@Gm@tempcnt=\count433
+\Gm@cnth=\count429
+\Gm@cntv=\count430
+\c@Gm@tempcnt=\count431
 \Gm@bindingoffset=\dimen176
 \Gm@wd@mp=\dimen177
 \Gm@odd@mp=\dimen178
@@ -712,12 +710,12 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 g))
 (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/latex/marginnote\marginnot
 e.sty
-Package: marginnote 2018/08/09 1.4b non floating margin notes for LaTeX
-\c@mn@abspage=\count434
+Package: marginnote 2018/08/09 v1.4b non floating margin notes for LaTeX
+\c@mn@abspage=\count432
 )
 (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.st
 y
-Package: hyperref 2023-02-07 v7.00v Hypertext links for LaTeX
+Package: hyperref 2023-04-22 v7.00x Hypertext links for LaTeX
 
 (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdef
 inekeys.sty
@@ -748,14 +746,14 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 titlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count435
+\c@section@level=\count433
 )
 \@linkdim=\dimen184
-\Hy@linkcounter=\count436
-\Hy@pagecounter=\count437
+\Hy@linkcounter=\count434
+\Hy@pagecounter=\count435
 
 (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
-File: pd1enc.def 2023-02-07 v7.00v Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2023-04-22 v7.00x Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
@@ -763,29 +761,25 @@ Now handling font encoding PD1 ...
 y
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-(C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.
-sty
-Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
-)
-\Hy@SavedSpaceFactor=\count438
+\Hy@SavedSpaceFactor=\count436
 
 (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
-File: puenc.def 2023-02-07 v7.00v Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2023-04-22 v7.00x Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
 Package hyperref Info: Option `pdfdisplaydoctitle' set `true' on input line 406
-0.
-Package hyperref Info: Option `colorlinks' set `true' on input line 4060.
-Package hyperref Info: Hyper figures OFF on input line 4177.
-Package hyperref Info: Link nesting OFF on input line 4182.
-Package hyperref Info: Hyper index ON on input line 4185.
-Package hyperref Info: Plain pages OFF on input line 4192.
-Package hyperref Info: Backreferencing OFF on input line 4197.
+5.
+Package hyperref Info: Option `colorlinks' set `true' on input line 4065.
+Package hyperref Info: Hyper figures OFF on input line 4182.
+Package hyperref Info: Link nesting OFF on input line 4187.
+Package hyperref Info: Hyper index ON on input line 4190.
+Package hyperref Info: Plain pages OFF on input line 4197.
+Package hyperref Info: Backreferencing OFF on input line 4202.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4425.
-\c@Hy@tempcnt=\count439
-LaTeX Info: Redefining \url on input line 4763.
+Package hyperref Info: Bookmarks ON on input line 4449.
+\c@Hy@tempcnt=\count437
+LaTeX Info: Redefining \url on input line 4787.
 \XeTeXLinkMargin=\dimen185
 
 (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
@@ -796,30 +790,30 @@ alc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count440
+\Fld@menulength=\count438
 \Field@Width=\dimen186
 \Fld@charsize=\dimen187
-Package hyperref Info: Hyper figures OFF on input line 6042.
-Package hyperref Info: Link nesting OFF on input line 6047.
-Package hyperref Info: Hyper index ON on input line 6050.
-Package hyperref Info: backreferencing OFF on input line 6057.
-Package hyperref Info: Link coloring ON on input line 6060.
-Package hyperref Info: Link coloring with OCG OFF on input line 6067.
-Package hyperref Info: PDF/A mode OFF on input line 6072.
+Package hyperref Info: Hyper figures OFF on input line 6066.
+Package hyperref Info: Link nesting OFF on input line 6071.
+Package hyperref Info: Hyper index ON on input line 6074.
+Package hyperref Info: backreferencing OFF on input line 6081.
+Package hyperref Info: Link coloring ON on input line 6084.
+Package hyperref Info: Link coloring with OCG OFF on input line 6091.
+Package hyperref Info: PDF/A mode OFF on input line 6096.
 
 (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.st
 y
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count441
-\c@Item=\count442
-\c@Hfootnote=\count443
+\Hy@abspage=\count439
+\c@Item=\count440
+\c@Hfootnote=\count441
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
 (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
-File: hpdftex.def 2023-02-07 v7.00v Hyperref driver for pdfTeX
+File: hpdftex.def 2023-04-22 v7.00x Hyperref driver for pdfTeX
 
 (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.s
 ty
@@ -827,8 +821,8 @@ Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
 )
-\Fld@listcount=\count444
-\c@bookmark@seq@number=\count445
+\Fld@listcount=\count442
+\c@bookmark@seq@number=\count443
 
 (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerun
 filecheck.sty
@@ -876,7 +870,7 @@ ex
 \XKV@toks=\toks30
 \XKV@tempa@toks=\toks31
 )
-\XKV@depth=\count446
+\XKV@depth=\count444
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fcprefix.st
@@ -886,44 +880,44 @@ Package: fcprefix 2012/09/28
 (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fcnumparser
 .sty
 Package: fcnumparser 2017/06/15
-\fc@digit@counter=\count447
+\fc@digit@counter=\count445
 ))
-\c@padzeroesN=\count448
-\fc@tmpcatcode=\count449
+\c@padzeroesN=\count446
+\fc@tmpcatcode=\count447
 
 (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fc-english.
 def
 File: fc-english.def 2016/01/12
 )
-\@DT@modctr=\count450
-\@ordinalctr=\count451
-\@orgargctr=\count452
-\@strctr=\count453
-\@tmpstrctr=\count454
-\@DT@loopN=\count455
-\@DT@X=\count456
+\@DT@modctr=\count448
+\@ordinalctr=\count449
+\@orgargctr=\count450
+\@strctr=\count451
+\@tmpstrctr=\count452
+\@DT@loopN=\count453
+\@DT@X=\count454
 )
 (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/latex/datetime\datetime-de
 faults.sty
 Package: datetime-defaults 2013/09/10
 )
-\@day=\count457
-\@month=\count458
-\@year=\count459
-\c@HOUR=\count460
-\c@HOURXII=\count461
-\c@MINUTE=\count462
-\c@TOHOUR=\count463
-\c@TOMINUTE=\count464
-\c@SECOND=\count465
-\currenthour=\count466
-\currentminute=\count467
-\currentsecond=\count468
+\@day=\count455
+\@month=\count456
+\@year=\count457
+\c@HOUR=\count458
+\c@HOURXII=\count459
+\c@MINUTE=\count460
+\c@TOHOUR=\count461
+\c@TOMINUTE=\count462
+\c@SECOND=\count463
+\currenthour=\count464
+\currentminute=\count465
+\currentsecond=\count466
 Package datetime Info: No datetime.cfg file found, using default settings on in
 put line 308.
-\@dtctr=\count469
-\dayofyear=\count470
-\dayofweek=\count471
+\@dtctr=\count467
+\dayofyear=\count468
+\dayofweek=\count469
 LaTeX Info: Redefining \today on input line 736.
 \dt@a=\toks32
 \dt@b=\toks33
@@ -991,7 +985,7 @@ omesymbols-generic.tex)
 omesymbols-pdftex.tex))
 (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/latex/simpleicons\simpleic
 ons.sty
-Package: simpleicons 2023/10/22 9.19.0 Simple Icons 9.19.0 Logos
+Package: simpleicons 2023/10/13 9.17.0 Simple Icons 9.10.0 Logos
 
 (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/latex/simpleicons\simpleic
 onsglyphs-pdftex.tex))
@@ -1044,16 +1038,16 @@ Package biblatex Info: Reference segment=0 on input line 17.
 (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf
 .mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count472
+\scratchcounter=\count470
 \scratchdimen=\dimen193
 \scratchbox=\box67
-\nofMPsegments=\count473
-\nofMParguments=\count474
+\nofMPsegments=\count471
+\nofMParguments=\count472
 \everyMPshowfont=\toks35
-\MPscratchCnt=\count475
+\MPscratchCnt=\count473
 \MPscratchDim=\dimen194
-\MPnumerator=\count476
-\makeMPintoPDFobject=\count477
+\MPnumerator=\count474
+\makeMPintoPDFobject=\count475
 \everyMPtoPDFconversion=\toks36
 )
 (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopd
@@ -1224,12 +1218,17 @@ Package marginnote Info: Margin note 1.13 is on absolute page 1 on input line 8
 Package marginnote Info: right page because not two side mode on input line 86.
 
 Package marginnote Info: xpos seems to be 108.405pt on input line 86.
-\blx@maxsegment@1=\count478
-\blx@sectionciteorder@1=\count479
-Package biblatex Info: Reference section=1 on input line 97.
-Package biblatex Info: Setting label 'refsection:1' on input line 97.
+Package marginnote Info: Margin note 1.14 is on absolute page 1 on input line 8
+7.
+Package marginnote Info: right page because not two side mode on input line 87.
+
+Package marginnote Info: xpos seems to be 108.405pt on input line 87.
+\blx@maxsegment@1=\count476
+\blx@sectionciteorder@1=\count477
+Package biblatex Info: Reference section=1 on input line 98.
+Package biblatex Info: Setting label 'refsection:1' on input line 98.
 LaTeX Font Info:    Trying to load font information for OT1+lmtt on input line 
-99.
+100.
 
 (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmtt.fd
 File: ot1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
@@ -1238,30 +1237,30 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmtt' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 9
-9.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
+00.
 
 (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-99.
+100.
 
 (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-99.
+100.
 
 (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 99.
+(Font)              <9> on input line 100.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 99.
+(Font)              <6> on input line 100.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 99.
+(Font)              <5> on input line 100.
 
 [1
 
@@ -1273,96 +1272,89 @@ me/fontawesometwo.enc}{C:/Users/dubi7233/AppData/Local/Programs/MiKTeX/fonts/en
 c/dvips/fontawesome/fontawesomethree.enc}{C:/Users/dubi7233/AppData/Local/Progr
 ams/MiKTeX/fonts/enc/dvips/lm/lm-rmsc.enc}{C:/Users/dubi7233/AppData/Local/Prog
 rams/MiKTeX/fonts/enc/dvips/lm/lm-rmtt.enc}]
-Overfull \hbox (0.18694pt too wide) in paragraph at lines 99--99
-[][]\OT1/lmr/m/n/9 (+7) Ubilava, D. (accepted). Climate, Crops, and Postharvest
- Conflict. \OT1/lmr/m/it/9 (+7) American Journal of Agricultural Economics\OT1/
-lmr/m/n/9 (+7) . 
- []
-
-
-Overfull \hbox (0.15443pt too wide) in paragraph at lines 99--99
+Overfull \hbox (0.15443pt too wide) in paragraph at lines 100--100
 \OT1/lmr/m/n/9 (+2) Violence in Africa. \OT1/lmr/m/it/9 (+2) American Journal o
 f Agricultural Economics \OT1/lmr/m/n/9 (+2) 105(5), 1309{1332. [][]$\OT1/lmtt/
 m/n/9 https : / / doi . org / 10 . 1111 / 
  []
 
 
-Overfull \hbox (0.19978pt too wide) in paragraph at lines 99--99
+Overfull \hbox (0.19978pt too wide) in paragraph at lines 100--100
 [][]\OT1/lmr/m/n/9 (+5) Tack, J. B. and D. Ubilava (2015). Climate and Agricult
 ural Risk: Measuring the Effect of ENSO on U.S. Crop 
  []
 
 
-Overfull \hbox (0.20215pt too wide) in paragraph at lines 99--99
+Overfull \hbox (0.20215pt too wide) in paragraph at lines 100--100
 [][]\OT1/lmr/m/n/9 (+18) Ubilava, D. (2012). El Ni~no, La Ni~na, and World Coff
 ee Price Dynamics. \OT1/lmr/m/it/9 (+18) Agricultural Economics \OT1/lmr/m/n/9 
 (+18) 43(1), 17{26. 
  []
 
 [2]
-Overfull \hbox (0.21155pt too wide) in paragraph at lines 99--99
+Overfull \hbox (0.21155pt too wide) in paragraph at lines 100--100
 [][]\OT1/lmr/m/n/9 (+12) Ubilava, D., K. A. Foster, J. L. Lusk, and T. Nilsson 
 (2011). Differences in Consumer Preferences when Facing 
  []
 
 
-Overfull \hbox (2.23299pt too wide) in paragraph at lines 99--99
+Overfull \hbox (2.23299pt too wide) in paragraph at lines 100--100
 [][]\OT1/lmr/m/n/9 (-20) Ubilava, D., K. A. Fos-ter, J. L. Lusk, and T. Nils-so
 n (2010). Ef-fects of In-come and So-cial Aware-ness on Con-sumer 
  []
 
 
-Overfull \hbox (0.16583pt too wide) in paragraph at lines 99--99
+Overfull \hbox (0.16583pt too wide) in paragraph at lines 100--100
 \OT1/lmr/m/n/9 (+10) WTP for So-cial Prod-uct At-tributes. \OT1/lmr/m/it/9 (+10
 ) Tech-no-log-i-cal Fore-cast-ing and So-cial Change \OT1/lmr/m/n/9 (+10) 77(4)
 , 587{593. [][]$\OT1/lmtt/m/n/9 https : / / doi . 
  []
 
-Package biblatex Info: Reference section=0 on input line 100.
-\blx@maxsegment@2=\count480
-\blx@sectionciteorder@2=\count481
-Package biblatex Info: Reference section=2 on input line 103.
-Package biblatex Info: Setting label 'refsection:2' on input line 103.
+Package biblatex Info: Reference section=0 on input line 101.
+\blx@maxsegment@2=\count478
+\blx@sectionciteorder@2=\count479
+Package biblatex Info: Reference section=2 on input line 104.
+Package biblatex Info: Setting label 'refsection:2' on input line 104.
 
-Overfull \hbox (6.0919pt too wide) in paragraph at lines 105--105
+Overfull \hbox (6.0919pt too wide) in paragraph at lines 106--106
 [][]\OT1/lmr/m/n/9 (-20) Richards, T. J., M. Polyviou, and D. Ubilava (in prepa
 -ra-tion). \OT1/lmr/m/it/9 (-20) Mar-ket Con-cen-tra-tion and Re-silience in Ag
 ri-cul-tural 
  []
 
-Package biblatex Info: Reference section=0 on input line 106.
+Package biblatex Info: Reference section=0 on input line 107.
 Package marginnote Info: Margin note 3.1 is on absolute page 3 on input line 11
-1.
-Package marginnote Info: right page because not two side mode on input line 111
+2.
+Package marginnote Info: right page because not two side mode on input line 112
 .
-Package marginnote Info: xpos seems to be 108.405pt on input line 111.
+Package marginnote Info: xpos seems to be 108.405pt on input line 112.
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
-11.
+12.
 (C:\Users\dubi7233\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 Package marginnote Info: Margin note 3.2 is on absolute page 3 on input line 11
-5.
-Package marginnote Info: right page because not two side mode on input line 115
-.
-Package marginnote Info: xpos seems to be 108.405pt on input line 115.
-Package marginnote Info: Margin note 3.3 is on absolute page 3 on input line 11
 6.
 Package marginnote Info: right page because not two side mode on input line 116
 .
 Package marginnote Info: xpos seems to be 108.405pt on input line 116.
-Package marginnote Info: Margin note 3.4 is on absolute page 3 on input line 11
+Package marginnote Info: Margin note 3.3 is on absolute page 3 on input line 11
 7.
 Package marginnote Info: right page because not two side mode on input line 117
 .
 Package marginnote Info: xpos seems to be 108.405pt on input line 117.
-Package marginnote Info: Margin note 3.5 is on absolute page 3 on input line 11
+Package marginnote Info: Margin note 3.4 is on absolute page 3 on input line 11
 8.
 Package marginnote Info: right page because not two side mode on input line 118
 .
 Package marginnote Info: xpos seems to be 108.405pt on input line 118.
+Package marginnote Info: Margin note 3.5 is on absolute page 3 on input line 11
+9.
+Package marginnote Info: right page because not two side mode on input line 119
+.
+Package marginnote Info: xpos seems to be 108.405pt on input line 119.
 
-Overfull \hbox (0.42151pt too wide) in paragraph at lines 125--126
+Overfull \hbox (0.42151pt too wide) in paragraph at lines 126--127
 []\OT1/lmr/m/n/10 (-20) ``[][]Why In-dia's ex-port ban and the loom-ing El Ni~n
 o spell big trou-ble for global rice stocks[][],'' \OT1/lmr/m/it/10 (-20) The T
 ele-graph\OT1/lmr/m/n/10 (-20) , 
@@ -1370,217 +1362,217 @@ ele-graph\OT1/lmr/m/n/10 (-20) ,
 
 [3{C:/Users/dubi7233/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.en
 c}]
-Overfull \hbox (0.13914pt too wide) in paragraph at lines 134--135
+Overfull \hbox (0.13914pt too wide) in paragraph at lines 135--136
 []\OT1/lmr/m/n/10 (+6) ``[][]Higher cereal prices can fuel political violence l
 inked with a harvest season in the croplands of Africa[][],'' 
  []
 
 Package marginnote Info: Margin note 4.1 is on absolute page 4 on input line 14
-3.
-Package marginnote Info: right page because not two side mode on input line 143
-.
-Package marginnote Info: xpos seems to be 108.405pt on input line 143.
-Package marginnote Info: Margin note 4.2 is on absolute page 4 on input line 14
 4.
 Package marginnote Info: right page because not two side mode on input line 144
 .
 Package marginnote Info: xpos seems to be 108.405pt on input line 144.
-Package marginnote Info: Margin note 4.3 is on absolute page 4 on input line 14
+Package marginnote Info: Margin note 4.2 is on absolute page 4 on input line 14
 5.
 Package marginnote Info: right page because not two side mode on input line 145
 .
 Package marginnote Info: xpos seems to be 108.405pt on input line 145.
-Package marginnote Info: Margin note 4.4 is on absolute page 4 on input line 14
+Package marginnote Info: Margin note 4.3 is on absolute page 4 on input line 14
 6.
 Package marginnote Info: right page because not two side mode on input line 146
 .
 Package marginnote Info: xpos seems to be 108.405pt on input line 146.
+Package marginnote Info: Margin note 4.4 is on absolute page 4 on input line 14
+7.
+Package marginnote Info: right page because not two side mode on input line 147
+.
+Package marginnote Info: xpos seems to be 108.405pt on input line 147.
 
-Overfull \hbox (9.06442pt too wide) in paragraph at lines 146--147
+Overfull \hbox (9.06442pt too wide) in paragraph at lines 147--148
 []|[]\OT1/lmr/m/n/10 (-20) AAEA 2021 An-nual Meet-ing (*Austin USA); Econo-met-
 ric So-ci-ety Aus-tralasian Meet-ing 2021 (*Mel-bourne 
  []
 
 Package marginnote Info: Margin note 4.5 is on absolute page 4 on input line 14
-7.
-Package marginnote Info: right page because not two side mode on input line 147
-.
-Package marginnote Info: xpos seems to be 108.405pt on input line 147.
-Package marginnote Info: Margin note 4.6 is on absolute page 4 on input line 14
 8.
 Package marginnote Info: right page because not two side mode on input line 148
 .
 Package marginnote Info: xpos seems to be 108.405pt on input line 148.
-Package marginnote Info: Margin note 4.7 is on absolute page 4 on input line 14
+Package marginnote Info: Margin note 4.6 is on absolute page 4 on input line 14
 9.
 Package marginnote Info: right page because not two side mode on input line 149
 .
 Package marginnote Info: xpos seems to be 108.405pt on input line 149.
-Package marginnote Info: Margin note 4.8 is on absolute page 4 on input line 15
+Package marginnote Info: Margin note 4.7 is on absolute page 4 on input line 15
 0.
 Package marginnote Info: right page because not two side mode on input line 150
 .
 Package marginnote Info: xpos seems to be 108.405pt on input line 150.
-Package marginnote Info: Margin note 4.9 is on absolute page 4 on input line 15
+Package marginnote Info: Margin note 4.8 is on absolute page 4 on input line 15
 1.
 Package marginnote Info: right page because not two side mode on input line 151
 .
 Package marginnote Info: xpos seems to be 108.405pt on input line 151.
-Package marginnote Info: Margin note 4.10 is on absolute page 4 on input line 1
-52.
+Package marginnote Info: Margin note 4.9 is on absolute page 4 on input line 15
+2.
 Package marginnote Info: right page because not two side mode on input line 152
 .
 Package marginnote Info: xpos seems to be 108.405pt on input line 152.
-Package marginnote Info: Margin note 4.11 is on absolute page 4 on input line 1
+Package marginnote Info: Margin note 4.10 is on absolute page 4 on input line 1
 53.
 Package marginnote Info: right page because not two side mode on input line 153
 .
 Package marginnote Info: xpos seems to be 108.405pt on input line 153.
+Package marginnote Info: Margin note 4.11 is on absolute page 4 on input line 1
+54.
+Package marginnote Info: right page because not two side mode on input line 154
+.
+Package marginnote Info: xpos seems to be 108.405pt on input line 154.
 
-Overfull \hbox (7.5182pt too wide) in paragraph at lines 153--154
+Overfull \hbox (7.5182pt too wide) in paragraph at lines 154--155
 \OT1/lmr/m/n/10 (-20) AAEA 2014 An-nual Meet-ing (Min-neapo-lis USA); IAMO 2014
  Fo-rum (Haale GER); IIF 2014 In-ter-na-tional 
  []
 
 Package marginnote Info: Margin note 4.12 is on absolute page 4 on input line 1
-54.
-Package marginnote Info: right page because not two side mode on input line 154
-.
-Package marginnote Info: xpos seems to be 108.405pt on input line 154.
-Package marginnote Info: Margin note 4.13 is on absolute page 4 on input line 1
 55.
 Package marginnote Info: right page because not two side mode on input line 155
 .
 Package marginnote Info: xpos seems to be 108.405pt on input line 155.
-Package marginnote Info: Margin note 4.14 is on absolute page 5 on input line 1
-64.
-Package marginnote Info: right page because not two side mode on input line 164
+Package marginnote Info: Margin note 4.13 is on absolute page 4 on input line 1
+56.
+Package marginnote Info: right page because not two side mode on input line 156
 .
-Package marginnote Info: xpos seems to be 108.405pt on input line 164.
-[4]
-Package marginnote Info: Margin note 5.1 is on absolute page 5 on input line 16
-5.
+Package marginnote Info: xpos seems to be 108.405pt on input line 156.
+Package marginnote Info: Margin note 4.14 is on absolute page 5 on input line 1
+65.
 Package marginnote Info: right page because not two side mode on input line 165
 .
 Package marginnote Info: xpos seems to be 108.405pt on input line 165.
+[4]
+Package marginnote Info: Margin note 5.1 is on absolute page 5 on input line 16
+6.
+Package marginnote Info: right page because not two side mode on input line 166
+.
+Package marginnote Info: xpos seems to be 108.405pt on input line 166.
 
-Overfull \hbox (0.17549pt too wide) in paragraph at lines 169--170
+Overfull \hbox (0.17549pt too wide) in paragraph at lines 170--171
 \OT1/lmr/m/n/10 (+5) Agribusiness Marketing (2013-2014); Commodity Market and P
 rice Analysis (2015-2017); Econometric 
  []
 
 Package marginnote Info: Margin note 5.2 is on absolute page 5 on input line 17
-3.
-Package marginnote Info: right page because not two side mode on input line 173
-.
-Package marginnote Info: xpos seems to be 108.405pt on input line 173.
-Package marginnote Info: Margin note 5.3 is on absolute page 5 on input line 17
 4.
 Package marginnote Info: right page because not two side mode on input line 174
 .
 Package marginnote Info: xpos seems to be 108.405pt on input line 174.
-Package marginnote Info: Margin note 5.4 is on absolute page 5 on input line 18
-0.
-Package marginnote Info: right page because not two side mode on input line 180
+Package marginnote Info: Margin note 5.3 is on absolute page 5 on input line 17
+5.
+Package marginnote Info: right page because not two side mode on input line 175
 .
-Package marginnote Info: xpos seems to be 108.405pt on input line 180.
-Package marginnote Info: Margin note 5.5 is on absolute page 5 on input line 18
+Package marginnote Info: xpos seems to be 108.405pt on input line 175.
+Package marginnote Info: Margin note 5.4 is on absolute page 5 on input line 18
 1.
 Package marginnote Info: right page because not two side mode on input line 181
 .
 Package marginnote Info: xpos seems to be 108.405pt on input line 181.
-Package marginnote Info: Margin note 5.6 is on absolute page 5 on input line 18
+Package marginnote Info: Margin note 5.5 is on absolute page 5 on input line 18
 2.
 Package marginnote Info: right page because not two side mode on input line 182
 .
 Package marginnote Info: xpos seems to be 108.405pt on input line 182.
-Package marginnote Info: Margin note 5.7 is on absolute page 5 on input line 18
+Package marginnote Info: Margin note 5.6 is on absolute page 5 on input line 18
 3.
 Package marginnote Info: right page because not two side mode on input line 183
 .
 Package marginnote Info: xpos seems to be 108.405pt on input line 183.
-Package marginnote Info: Margin note 5.8 is on absolute page 5 on input line 18
+Package marginnote Info: Margin note 5.7 is on absolute page 5 on input line 18
 4.
 Package marginnote Info: right page because not two side mode on input line 184
 .
 Package marginnote Info: xpos seems to be 108.405pt on input line 184.
-Package marginnote Info: Margin note 5.9 is on absolute page 5 on input line 19
-1.
-Package marginnote Info: right page because not two side mode on input line 191
+Package marginnote Info: Margin note 5.8 is on absolute page 5 on input line 18
+5.
+Package marginnote Info: right page because not two side mode on input line 185
 .
-Package marginnote Info: xpos seems to be 108.405pt on input line 191.
-Package marginnote Info: Margin note 5.10 is on absolute page 5 on input line 1
-92.
+Package marginnote Info: xpos seems to be 108.405pt on input line 185.
+Package marginnote Info: Margin note 5.9 is on absolute page 5 on input line 19
+2.
 Package marginnote Info: right page because not two side mode on input line 192
 .
 Package marginnote Info: xpos seems to be 108.405pt on input line 192.
-Package marginnote Info: Margin note 5.11 is on absolute page 5 on input line 1
+Package marginnote Info: Margin note 5.10 is on absolute page 5 on input line 1
 93.
 Package marginnote Info: right page because not two side mode on input line 193
 .
 Package marginnote Info: xpos seems to be 108.405pt on input line 193.
-Package marginnote Info: Margin note 5.12 is on absolute page 5 on input line 2
-01.
-Package marginnote Info: right page because not two side mode on input line 201
+Package marginnote Info: Margin note 5.11 is on absolute page 5 on input line 1
+94.
+Package marginnote Info: right page because not two side mode on input line 194
 .
-Package marginnote Info: xpos seems to be 108.405pt on input line 201.
-Package marginnote Info: Margin note 5.13 is on absolute page 5 on input line 2
+Package marginnote Info: xpos seems to be 108.405pt on input line 194.
+Package marginnote Info: Margin note 5.12 is on absolute page 5 on input line 2
 02.
 Package marginnote Info: right page because not two side mode on input line 202
 .
 Package marginnote Info: xpos seems to be 108.405pt on input line 202.
-Package marginnote Info: Margin note 5.14 is on absolute page 5 on input line 2
+Package marginnote Info: Margin note 5.13 is on absolute page 5 on input line 2
 03.
 Package marginnote Info: right page because not two side mode on input line 203
 .
 Package marginnote Info: xpos seems to be 108.405pt on input line 203.
+Package marginnote Info: Margin note 5.14 is on absolute page 5 on input line 2
+04.
+Package marginnote Info: right page because not two side mode on input line 204
+.
+Package marginnote Info: xpos seems to be 108.405pt on input line 204.
 
-Overfull \hbox (0.3186pt too wide) in paragraph at lines 211--212
+Overfull \hbox (0.3186pt too wide) in paragraph at lines 212--213
 \OT1/lmr/m/n/10 (-20) Eco-nomics; Ap-plied Eco-nomics Per-spec-tives and Pol-ic
 y; Aus-tralian Jour-nal of Agri-cul-tural and Re-source 
  []
 
 [5]
 Package marginnote Info: Margin note 6.1 is on absolute page 6 on input line 21
-6.
-Package marginnote Info: right page because not two side mode on input line 216
-.
-Package marginnote Info: xpos seems to be 108.405pt on input line 216.
-Package marginnote Info: Margin note 6.2 is on absolute page 6 on input line 21
 7.
 Package marginnote Info: right page because not two side mode on input line 217
 .
 Package marginnote Info: xpos seems to be 108.405pt on input line 217.
-Package marginnote Info: Margin note 6.3 is on absolute page 6 on input line 21
+Package marginnote Info: Margin note 6.2 is on absolute page 6 on input line 21
 8.
 Package marginnote Info: right page because not two side mode on input line 218
 .
 Package marginnote Info: xpos seems to be 108.405pt on input line 218.
-Package marginnote Info: Margin note 6.4 is on absolute page 6 on input line 21
+Package marginnote Info: Margin note 6.3 is on absolute page 6 on input line 21
 9.
 Package marginnote Info: right page because not two side mode on input line 219
 .
 Package marginnote Info: xpos seems to be 108.405pt on input line 219.
-Package marginnote Info: Margin note 6.5 is on absolute page 6 on input line 22
+Package marginnote Info: Margin note 6.4 is on absolute page 6 on input line 22
 0.
 Package marginnote Info: right page because not two side mode on input line 220
 .
 Package marginnote Info: xpos seems to be 108.405pt on input line 220.
-Package marginnote Info: Margin note 6.6 is on absolute page 6 on input line 22
+Package marginnote Info: Margin note 6.5 is on absolute page 6 on input line 22
 1.
 Package marginnote Info: right page because not two side mode on input line 221
 .
 Package marginnote Info: xpos seems to be 108.405pt on input line 221.
-Package marginnote Info: Margin note 6.7 is on absolute page 6 on input line 22
-7.
-Package marginnote Info: right page because not two side mode on input line 227
+Package marginnote Info: Margin note 6.6 is on absolute page 6 on input line 22
+2.
+Package marginnote Info: right page because not two side mode on input line 222
 .
-Package marginnote Info: xpos seems to be 108.405pt on input line 227.
-Package marginnote Info: Margin note 6.8 is on absolute page 6 on input line 22
+Package marginnote Info: xpos seems to be 108.405pt on input line 222.
+Package marginnote Info: Margin note 6.7 is on absolute page 6 on input line 22
 8.
 Package marginnote Info: right page because not two side mode on input line 228
 .
 Package marginnote Info: xpos seems to be 108.405pt on input line 228.
+Package marginnote Info: Margin note 6.8 is on absolute page 6 on input line 22
+9.
+Package marginnote Info: right page because not two side mode on input line 229
+.
+Package marginnote Info: xpos seems to be 108.405pt on input line 229.
  [6] 
 enddocument/afterlastpage: lastpage setting LastPage.
 (Ubilava-CV.aux)
@@ -1594,13 +1586,13 @@ Package logreq Info: Writing requests to 'Ubilava-CV.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33397 strings out of 476331
- 658689 string characters out of 5786349
- 1874660 words of memory out of 5000000
- 53268 multiletter control sequences out of 15000+600000
- 563183 words of font info for 119 fonts, out of 8000000 for 9000
+ 33237 strings out of 476410
+ 653264 string characters out of 5787697
+ 1875845 words of memory out of 5000000
+ 53029 multiletter control sequences out of 15000+600000
+ 563396 words of font info for 121 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 87i,11n,90p,1185b,2117s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 87i,11n,90p,1185b,2111s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/dubi7233/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontaweso
 me/FontAwesome.pfb><C:/Users/dubi7233/AppData/Local/Programs/MiKTeX/fonts/type1
 /public/lm/lmbx10.pfb><C:/Users/dubi7233/AppData/Local/Programs/MiKTeX/fonts/ty
@@ -1612,7 +1604,7 @@ X/fonts/type1/public/lm/lmri10.pfb><C:/Users/dubi7233/AppData/Local/Programs/Mi
 KTeX/fonts/type1/public/lm/lmri9.pfb><C:/Users/dubi7233/AppData/Local/Programs/
 MiKTeX/fonts/type1/public/lm/lmro10.pfb><C:/Users/dubi7233/AppData/Local/Progra
 ms/MiKTeX/fonts/type1/public/lm/lmtt9.pfb>
-Output written on Ubilava-CV.pdf (6 pages, 317240 bytes).
+Output written on Ubilava-CV.pdf (6 pages, 317163 bytes).
 PDF statistics:
  191 PDF objects out of 1000 (max. 8388607)
  34 named destinations out of 1000 (max. 500000)

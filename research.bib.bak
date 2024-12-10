@@ -223,9 +223,9 @@
   url       = {https://doi.org/10.1016/j.econlet.2019.06.011},
 }
 
-@Misc{signal_noise,
-  author    = {David Ubilava and Aaron D. Smith},
-  title     = {{The Signal and the Noise of Short--term Climate Forecasts: Evidence from Grain Futures Markets}},
+@Misc{meat_resilience,
+  author    = {Timothy J. Richards and Mikaela Polyviou and David Ubilava},
+  title     = {{Market Concentration and Resilience in Agricultural Supply Chains}},
   year      = {in preparation},
   keywords  = {progress},
   owner     = {du32},
@@ -296,9 +296,9 @@
   url      = {https://doi.org/10.1016/j.jebo.2021.08.005},
 }
 
-@Misc{rice_enso,
-  author   = {David Ubilava and Lesley Ahmed and Harold G. Valera and Valerien O. Pede},
-  title    = {{The Rice Market Reaction to El Ni{\~n}o Southern Oscillation Shocks}},
+@Misc{roads_riots,
+  author   = {Ashani Amarasinghe and Joshua D. Merfeld and David Ubilava},
+  title    = {{Roads and Riots}},
   year     = {in preparation},
   keywords = {progress},
 }
@@ -335,15 +335,23 @@
   keywords  = {book},
 }
 
-@Misc{elnino_conflict,
-  author   = {David Ubilava},
-  title    = {{Climate, Crops, and Postharvest Conflict}},
-  year     = {under review},
-  keywords = {working},
-  url      = {https://arxiv.org/abs/2311.16370},
+@Article{elnino_conflict,
+  author  = {David Ubilava},
+  journal = {American Journal of Agricultural Economics},
+  title   = {{Climate, Crops, and Postharvest Conflict}},
+  year    = {2024},
+  number  = {in press},
+  url     = {https://doi.org/10.1111/ajae.12503},
 }
 
-@Article{,
+@Article{conflict_seasia,
+  author   = {Justin V. Hastings and David Ubilava},
+  journal  = {Journal of Peace Research},
+  title    = {{Agricultural Roots of Social Conflict in Southeast Asia}},
+  year     = {2024},
+  number   = {accepted},
+  keywords = {working},
+  url      = {https://arxiv.org/abs/2304.10027},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
