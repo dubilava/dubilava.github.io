@@ -1276,17 +1276,16 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Peace Research}
-      \field{number}{accepted}
+      \field{number}{in press}
       \field{title}{{Agricultural Roots of Social Conflict in Southeast Asia}}
-      \field{year}{2024}
+      \field{year}{2025}
       \true{nocite}
       \verb{urlraw}
-      \verb https://arxiv.org/abs/2304.10027
+      \verb https://doi.org/10.1177/00223433241305990
       \endverb
       \verb{url}
-      \verb https://arxiv.org/abs/2304.10027
+      \verb https://doi.org/10.1177/00223433241305990
       \endverb
-      \keyw{working}
     \endentry
   \enddatalist
 \endrefsection
@@ -1321,17 +1320,16 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Peace Research}
-      \field{number}{accepted}
+      \field{number}{in press}
       \field{title}{{Agricultural Roots of Social Conflict in Southeast Asia}}
-      \field{year}{2024}
+      \field{year}{2025}
       \true{nocite}
       \verb{urlraw}
-      \verb https://arxiv.org/abs/2304.10027
+      \verb https://doi.org/10.1177/00223433241305990
       \endverb
       \verb{url}
-      \verb https://arxiv.org/abs/2304.10027
+      \verb https://doi.org/10.1177/00223433241305990
       \endverb
-      \keyw{working}
     \endentry
     \entry{elnino_conflict}{article}{}
       \name{author}{1}{}{%
