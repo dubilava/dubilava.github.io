@@ -55,7 +55,9 @@ My program of research is funded by the Australian Research Council.
 
 I have published my work in leading field and interdisciplinary journals such as *American Journal of Agricultural Economics*, *Journal of Economic Behavior and Organization*, *Journal of Peace Research*, *World Development*, and *Global Environmental Change*, among others. As of `r format(as.Date(Sys.Date()),'%B %Y')`, my research has received `r google_cites` citations as per [Google Scholar](https://scholar.google.com/citations?user=VbNOr6wAAAAJ){target="_blank"}.
 
-For my teaching, I have won the *Faculty of Arts and Social Sciences Teaching Excellence Award* in 2017.
+For my research, I have received the *Faculty of Arts and Social Sciences Research Collaboration Award* in 2024.
+
+For my teaching, I have received the *Faculty of Arts and Social Sciences Teaching Excellence Award* in 2017.
 
 I currently serve as an associate editor of the *American Journal of Agricultural Economics* (from 2022), and as a co-editor of *Food Policy* (from 2018). Previously, I served as an associate editor of the *Australian Journal of Agricultural and Resource Economics* (from 2020 to 2021).
 
@@ -70,6 +72,8 @@ I co-organize [Social Conflict and Political Economy (SCoPE)](https://sydneyscop
 
 **Recent presentations:**
 
+- [Local Economic Shocks and Conflict: Evidence from Maize Markets across Africa](https://dubilava.github.io/misc/prices/prices.html){target="_blank"}
+- [Roads and Riots](https://dubilava.github.io/misc/roads/roads.html){target="_blank"}
 - [Climate, Crops, and Postharvest Conflict](https://dubilava.github.io/misc/ensoconflict/ensoconflict.html){target="_blank"}
 - [Agricultural Shocks and Social Conflict in Southeast Asia](https://dubilava.github.io/misc/seasia-presentation.html){target="_blank"}
 - [War in Ukraine and Disrupted Markets](https://dubilava.github.io/ukraine/02-presentation.html){target="_blank"}

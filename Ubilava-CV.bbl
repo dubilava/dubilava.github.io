@@ -944,7 +944,7 @@
       \field{number}{5}
       \field{title}{{Agricultural Windfalls and the Seasonality of Political Violence in Africa}}
       \field{volume}{105}
-      \field{year}{2022}
+      \field{year}{2023}
       \true{nocite}
       \field{pages}{1309\bibrangedash 1332}
       \range{pages}{24}
@@ -1237,16 +1237,16 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{American Journal of Agricultural Economics}
+      \field{number}{in press}
       \field{title}{{Climate, Crops, and Postharvest Conflict}}
-      \field{year}{accepted}
+      \field{year}{2024}
       \true{nocite}
       \verb{urlraw}
-      \verb https://arxiv.org/abs/2311.16370
+      \verb https://doi.org/10.1111/ajae.12503
       \endverb
       \verb{url}
-      \verb https://arxiv.org/abs/2311.16370
+      \verb https://doi.org/10.1111/ajae.12503
       \endverb
-      \keyw{working}
     \endentry
     \entry{conflict_seasia}{article}{}
       \name{author}{2}{}{%
@@ -1276,8 +1276,9 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Peace Research}
+      \field{number}{accepted}
       \field{title}{{Agricultural Roots of Social Conflict in Southeast Asia}}
-      \field{year}{accepted}
+      \field{year}{2024}
       \true{nocite}
       \verb{urlraw}
       \verb https://arxiv.org/abs/2304.10027
@@ -1320,8 +1321,9 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Peace Research}
+      \field{number}{accepted}
       \field{title}{{Agricultural Roots of Social Conflict in Southeast Asia}}
-      \field{year}{accepted}
+      \field{year}{2024}
       \true{nocite}
       \verb{urlraw}
       \verb https://arxiv.org/abs/2304.10027
@@ -1354,16 +1356,16 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{American Journal of Agricultural Economics}
+      \field{number}{in press}
       \field{title}{{Climate, Crops, and Postharvest Conflict}}
-      \field{year}{accepted}
+      \field{year}{2024}
       \true{nocite}
       \verb{urlraw}
-      \verb https://arxiv.org/abs/2311.16370
+      \verb https://doi.org/10.1111/ajae.12503
       \endverb
       \verb{url}
-      \verb https://arxiv.org/abs/2311.16370
+      \verb https://doi.org/10.1111/ajae.12503
       \endverb
-      \keyw{working}
     \endentry
     \entry{ubilava2023ajae}{article}{}
       \name{author}{3}{}{%
@@ -1402,7 +1404,7 @@
       \field{number}{5}
       \field{title}{{Agricultural Windfalls and the Seasonality of Political Violence in Africa}}
       \field{volume}{105}
-      \field{year}{2022}
+      \field{year}{2023}
       \true{nocite}
       \field{pages}{1309\bibrangedash 1332}
       \range{pages}{24}
