@@ -74,10 +74,6 @@ I co-organize [Social Conflict and Political Economy (SCoPE)](https://sydneyscop
 
 - [Prices and Protests: Evidence from Maize Markets across Africa](https://dubilava.github.io/misc/protests/protests.html){target="_blank"}
 - [Roads and Riots](https://dubilava.github.io/misc/roads/roads.html){target="_blank"}
-- [Climate, Crops, and Postharvest Conflict](https://dubilava.github.io/misc/ensoconflict/ensoconflict.html){target="_blank"}
-- [Agricultural Shocks and Social Conflict in Southeast Asia](https://dubilava.github.io/misc/seasia-presentation.html){target="_blank"}
-- [War in Ukraine and Disrupted Markets](https://dubilava.github.io/ukraine/02-presentation.html){target="_blank"}
-- [Agricultural Windfalls and the Seasonality of Political Violence in Africa](https://dubilava.github.io/conflict/presentation.html){target="_blank"}
 - [Academic Presenting: Getting it Right and Making it Work](https://dubilava.github.io/misc/presenting/presentation.html){target="_blank"}
 - [Academic Publishing in Agricultural Economics](https://dubilava.github.io/misc/publishing/presentation.html){target="_blank"}
 </div>
