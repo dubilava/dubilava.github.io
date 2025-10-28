@@ -5,7 +5,7 @@ title: "Research"
 ---
 ## Work in progress
 
---\ Prices and Protests: Evidence from Maize Markets across Africa *(with Aaron Humphreys)*.
+--\ [Prices and Protests: Evidence from Maize Markets across Africa](Papers/protests.pdf) *(with Aaron Humphreys)*.
 
 --\ Roads and Riots *(with Ashani Amarasinghe and Joshua Merfeld)*.
 
