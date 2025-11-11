@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.31)  11 JUN 2025 20:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.31)  11 NOV 2025 21:04
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1342,6 +1342,12 @@ Overfull \hbox (6.0919pt too wide) in paragraph at lines 107--107
 ri-cul-tural 
  []
 
+
+Overfull \hbox (0.1297pt too wide) in paragraph at lines 107--107
+[][]\OT1/lmr/m/n/9 (+18) Amarasinghe, A., D. Ubilava, and J. Vidal-Robert (in p
+reparation). \OT1/lmr/m/it/9 (+18) Missions Misaligned: Colonial Legacies of 
+ []
+
 Package biblatex Info: Reference section=0 on input line 108.
 Package marginnote Info: Margin note 3.1 is on absolute page 3 on input line 11
 3.
@@ -1646,10 +1652,10 @@ Package logreq Info: Writing requests to 'Ubilava-CV.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34403 strings out of 473522
- 688885 string characters out of 5713157
- 1480979 words of memory out of 5000000
- 57085 multiletter control sequences out of 15000+600000
+ 34412 strings out of 473522
+ 689334 string characters out of 5713157
+ 1481105 words of memory out of 5000000
+ 57093 multiletter control sequences out of 15000+600000
  609946 words of font info for 125 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  87i,11n,95p,1185b,2258s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1664,9 +1670,9 @@ X/fonts/type1/public/lm/lmri10.pfb><C:/Users/dubi7233/AppData/Local/Programs/Mi
 KTeX/fonts/type1/public/lm/lmri9.pfb><C:/Users/dubi7233/AppData/Local/Programs/
 MiKTeX/fonts/type1/public/lm/lmro10.pfb><C:/Users/dubi7233/AppData/Local/Progra
 ms/MiKTeX/fonts/type1/public/lm/lmtt9.pfb>
-Output written on Ubilava-CV.pdf (6 pages, 316968 bytes).
+Output written on Ubilava-CV.pdf (6 pages, 317901 bytes).
 PDF statistics:
- 191 PDF objects out of 1000 (max. 8388607)
- 34 named destinations out of 1000 (max. 500000)
+ 192 PDF objects out of 1000 (max. 8388607)
+ 35 named destinations out of 1000 (max. 500000)
  29185 words of extra memory for PDF output out of 29859 (max. 10000000)
 

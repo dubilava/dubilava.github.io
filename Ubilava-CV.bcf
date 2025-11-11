@@ -2417,8 +2417,9 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">research.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="2">
-    <bcf:citekey order="1" intorder="2" nocite="1">roads_riots</bcf:citekey>
-    <bcf:citekey order="2" intorder="3" nocite="1">meat_resilience</bcf:citekey>
+    <bcf:citekey order="1" intorder="2" nocite="1">meat_resilience</bcf:citekey>
+    <bcf:citekey order="2" intorder="3" nocite="1">prices_protests</bcf:citekey>
+    <bcf:citekey order="3" intorder="4" nocite="1">missions_misaligned</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">

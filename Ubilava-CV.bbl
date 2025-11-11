@@ -1345,6 +1345,80 @@
       \verb https://doi.org/10.1177/00223433241305990
       \endverb
     \endentry
+    \entry{prices_protests}{misc}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ce44f670f0348fc6856f1e2d536c5330}{%
+           family={Humphreys},
+           familyi={H\bibinitperiod},
+           given={Aaron},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
+           family={Ubilava},
+           familyi={U\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{162dadf3bba46aad78eecf856d366e2c}
+      \strng{fullhash}{162dadf3bba46aad78eecf856d366e2c}
+      \strng{fullhashraw}{162dadf3bba46aad78eecf856d366e2c}
+      \strng{bibnamehash}{162dadf3bba46aad78eecf856d366e2c}
+      \strng{authorbibnamehash}{162dadf3bba46aad78eecf856d366e2c}
+      \strng{authornamehash}{162dadf3bba46aad78eecf856d366e2c}
+      \strng{authorfullhash}{162dadf3bba46aad78eecf856d366e2c}
+      \strng{authorfullhashraw}{162dadf3bba46aad78eecf856d366e2c}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Prices and Protests: Evidence from Maize Markets Across Africa}}
+      \field{year}{in preparation}
+      \true{nocite}
+      \keyw{progress}
+    \endentry
+    \entry{missions_misaligned}{misc}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e5d4931432853be6ed7bed8f866e342e}{%
+           family={Amarasinghe},
+           familyi={A\bibinitperiod},
+           given={Ashani},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
+           family={Ubilava},
+           familyi={U\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ca8f3866bee48bb8e9b654fcad1e672b}{%
+           family={Vidal-Robert},
+           familyi={V\bibinithyphendelim R\bibinitperiod},
+           given={Jordi},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{39cf57b54d09ba6be22871860d114309}
+      \strng{fullhash}{39cf57b54d09ba6be22871860d114309}
+      \strng{fullhashraw}{39cf57b54d09ba6be22871860d114309}
+      \strng{bibnamehash}{39cf57b54d09ba6be22871860d114309}
+      \strng{authorbibnamehash}{39cf57b54d09ba6be22871860d114309}
+      \strng{authornamehash}{39cf57b54d09ba6be22871860d114309}
+      \strng{authorfullhash}{39cf57b54d09ba6be22871860d114309}
+      \strng{authorfullhashraw}{39cf57b54d09ba6be22871860d114309}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Missions Misaligned: Colonial Legacies of Climate--Induced Conflict in Africa}}
+      \field{year}{in preparation}
+      \true{nocite}
+      \keyw{progress}
+    \endentry
   \enddatalist
 \endrefsection
 
@@ -2529,46 +2603,6 @@
 
 \refsection{2}
   \datalist[entry]{none/global//global/global/global}
-    \entry{roads_riots}{misc}{}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=e5d4931432853be6ed7bed8f866e342e}{%
-           family={Amarasinghe},
-           familyi={A\bibinitperiod},
-           given={Ashani},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=094b0313201c1ed880ca35c47b8a2b6f}{%
-           family={Merfeld},
-           familyi={M\bibinitperiod},
-           given={Joshua\bibnamedelima D.},
-           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
-           family={Ubilava},
-           familyi={U\bibinitperiod},
-           given={David},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{a989943c5a08c9da28dd0acfd868112a}
-      \strng{fullhash}{a989943c5a08c9da28dd0acfd868112a}
-      \strng{fullhashraw}{a989943c5a08c9da28dd0acfd868112a}
-      \strng{bibnamehash}{a989943c5a08c9da28dd0acfd868112a}
-      \strng{authorbibnamehash}{a989943c5a08c9da28dd0acfd868112a}
-      \strng{authornamehash}{a989943c5a08c9da28dd0acfd868112a}
-      \strng{authorfullhash}{a989943c5a08c9da28dd0acfd868112a}
-      \strng{authorfullhashraw}{a989943c5a08c9da28dd0acfd868112a}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{{Roads and Riots}}
-      \field{year}{in preparation}
-      \true{nocite}
-      \keyw{progress}
-    \endentry
     \entry{meat_resilience}{misc}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=a7cb1bf33529c15027c2aac7b391c182}{%
@@ -2598,13 +2632,87 @@
       \strng{authornamehash}{77bcbd0ff98ad5aa0d5cfc208746db21}
       \strng{authorfullhash}{77bcbd0ff98ad5aa0d5cfc208746db21}
       \strng{authorfullhashraw}{77bcbd0ff98ad5aa0d5cfc208746db21}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Market Concentration and Resilience in Agricultural Supply Chains}}
+      \field{year}{in preparation}
+      \true{nocite}
+      \keyw{progress}
+    \endentry
+    \entry{prices_protests}{misc}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ce44f670f0348fc6856f1e2d536c5330}{%
+           family={Humphreys},
+           familyi={H\bibinitperiod},
+           given={Aaron},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
+           family={Ubilava},
+           familyi={U\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{162dadf3bba46aad78eecf856d366e2c}
+      \strng{fullhash}{162dadf3bba46aad78eecf856d366e2c}
+      \strng{fullhashraw}{162dadf3bba46aad78eecf856d366e2c}
+      \strng{bibnamehash}{162dadf3bba46aad78eecf856d366e2c}
+      \strng{authorbibnamehash}{162dadf3bba46aad78eecf856d366e2c}
+      \strng{authornamehash}{162dadf3bba46aad78eecf856d366e2c}
+      \strng{authorfullhash}{162dadf3bba46aad78eecf856d366e2c}
+      \strng{authorfullhashraw}{162dadf3bba46aad78eecf856d366e2c}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{{Market Concentration and Resilience in Agricultural Supply Chains}}
+      \field{title}{{Prices and Protests: Evidence from Maize Markets Across Africa}}
+      \field{year}{in preparation}
+      \true{nocite}
+      \keyw{progress}
+    \endentry
+    \entry{missions_misaligned}{misc}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e5d4931432853be6ed7bed8f866e342e}{%
+           family={Amarasinghe},
+           familyi={A\bibinitperiod},
+           given={Ashani},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
+           family={Ubilava},
+           familyi={U\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ca8f3866bee48bb8e9b654fcad1e672b}{%
+           family={Vidal-Robert},
+           familyi={V\bibinithyphendelim R\bibinitperiod},
+           given={Jordi},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{39cf57b54d09ba6be22871860d114309}
+      \strng{fullhash}{39cf57b54d09ba6be22871860d114309}
+      \strng{fullhashraw}{39cf57b54d09ba6be22871860d114309}
+      \strng{bibnamehash}{39cf57b54d09ba6be22871860d114309}
+      \strng{authorbibnamehash}{39cf57b54d09ba6be22871860d114309}
+      \strng{authornamehash}{39cf57b54d09ba6be22871860d114309}
+      \strng{authorfullhash}{39cf57b54d09ba6be22871860d114309}
+      \strng{authorfullhashraw}{39cf57b54d09ba6be22871860d114309}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Missions Misaligned: Colonial Legacies of Climate--Induced Conflict in Africa}}
       \field{year}{in preparation}
       \true{nocite}
       \keyw{progress}

@@ -250,7 +250,7 @@
   author    = {David Ubilava and Justin V. Hastings and Kadir Atalay},
   journal   = {American Journal of Agricultural Economics},
   title     = {{Agricultural Windfalls and the Seasonality of Political Violence in Africa}},
-  year      = {2022},
+  year      = {2023},
   number    = {5},
   pages     = {1309--1332},
   volume    = {105},
@@ -348,10 +348,26 @@
   author   = {Justin V. Hastings and David Ubilava},
   journal  = {Journal of Peace Research},
   title    = {{Agricultural Roots of Social Conflict in Southeast Asia}},
-  year     = {2024},
-  number   = {accepted},
-  keywords = {working},
-  url      = {https://arxiv.org/abs/2304.10027},
+  year     = {2025},
+  number   = {in press},
+  url      = {https://doi.org/10.1177/00223433241305990},
+}
+
+@Misc{prices_protests,
+  author   = {Humphreys, Aaron and Ubilava, David},
+  title    = {{Prices and Protests: Evidence from Maize Markets Across Africa}},
+  year     = {in preparation},
+  keywords = {progress},
+}
+
+@Article{,
+}
+
+@Misc{missions_misaligned,
+  author   = {Amarasinghe, Ashani and Ubilava, David and Vidal-Robert, Jordi},
+  title    = {{Missions Misaligned: Colonial Legacies of Climate--Induced Conflict in Africa}},
+  year     = {in preparation},
+  keywords = {progress},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
