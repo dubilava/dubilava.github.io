@@ -5,9 +5,9 @@ title: "Research"
 ---
 ## Work in progress
 
---\ [Prices and Protests: Evidence from Maize Markets across Africa](Papers/protests.pdf) *(with Aaron Humphreys)*.
+--\ [Prices and Protests: Evidence from Maize Markets across Africa](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5665911) *(with Aaron Humphreys)*.
 
---\ Roads and Riots *(with Ashani Amarasinghe and Joshua Merfeld)*.
+--\ Missions Misaligned: Colonial Legacies of Social Conflict in Africa *(with Ashani Amarasinghe and Jordi Vidal-Robert)*.
 
 --\ Market Concentration and Resilience in Agricultural Supply Chains *(with Timothy Richards and Mikaela Polyviou)*
 
