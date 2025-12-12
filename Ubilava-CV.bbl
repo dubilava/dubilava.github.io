@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.3 $
+% $ biblatex bbl format version 3.2 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -18,8 +18,8 @@
 
 
 \refsection{0}
-  \datalist[entry]{none/global//global/global/global}
-    \entry{hastings_korea}{misc}{}{}
+  \datalist[entry]{none/global//global/global}
+    \entry{hastings_korea}{misc}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=c6700df8d63c7a11787de4c35d06cd2f}{%
            family={Hastings},
@@ -42,12 +42,10 @@
       }
       \strng{namehash}{2c5f75aff82996da393fa1dbfb0e896c}
       \strng{fullhash}{2c5f75aff82996da393fa1dbfb0e896c}
-      \strng{fullhashraw}{2c5f75aff82996da393fa1dbfb0e896c}
       \strng{bibnamehash}{2c5f75aff82996da393fa1dbfb0e896c}
       \strng{authorbibnamehash}{2c5f75aff82996da393fa1dbfb0e896c}
       \strng{authornamehash}{2c5f75aff82996da393fa1dbfb0e896c}
       \strng{authorfullhash}{2c5f75aff82996da393fa1dbfb0e896c}
-      \strng{authorfullhashraw}{2c5f75aff82996da393fa1dbfb0e896c}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -59,7 +57,7 @@
       \true{nocite}
       \keyw{progress}
     \endentry
-    \entry{smith2017gec}{article}{}{}
+    \entry{smith2017gec}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=9fe9d34f0c120b7d3e79d8e66cc075ce}{%
            family={Smith},
@@ -76,12 +74,10 @@
       }
       \strng{namehash}{d89ca82ef815a910bf9671f76adcc7d3}
       \strng{fullhash}{d89ca82ef815a910bf9671f76adcc7d3}
-      \strng{fullhashraw}{d89ca82ef815a910bf9671f76adcc7d3}
       \strng{bibnamehash}{d89ca82ef815a910bf9671f76adcc7d3}
       \strng{authorbibnamehash}{d89ca82ef815a910bf9671f76adcc7d3}
       \strng{authornamehash}{d89ca82ef815a910bf9671f76adcc7d3}
       \strng{authorfullhash}{d89ca82ef815a910bf9671f76adcc7d3}
-      \strng{authorfullhashraw}{d89ca82ef815a910bf9671f76adcc7d3}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{extradatescope}{labelyear}
@@ -103,7 +99,7 @@
       \endverb
       \keyw{article}
     \endentry
-    \entry{tack2015agec}{article}{}{}
+    \entry{tack2015agec}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=330915ab6e814dd19480ae8481a77699}{%
            family={Tack},
@@ -120,12 +116,10 @@
       }
       \strng{namehash}{0de84c5a93677e6a3e6e04e04572e430}
       \strng{fullhash}{0de84c5a93677e6a3e6e04e04572e430}
-      \strng{fullhashraw}{0de84c5a93677e6a3e6e04e04572e430}
       \strng{bibnamehash}{0de84c5a93677e6a3e6e04e04572e430}
       \strng{authorbibnamehash}{0de84c5a93677e6a3e6e04e04572e430}
       \strng{authornamehash}{0de84c5a93677e6a3e6e04e04572e430}
       \strng{authorfullhash}{0de84c5a93677e6a3e6e04e04572e430}
-      \strng{authorfullhashraw}{0de84c5a93677e6a3e6e04e04572e430}
       \field{extraname}{1}
       \field{sortinit}{4}
       \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
@@ -149,7 +143,7 @@
       \endverb
       \keyw{article}
     \endentry
-    \entry{tack2013cc}{article}{}{}
+    \entry{tack2013cc}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=330915ab6e814dd19480ae8481a77699}{%
            family={Tack},
@@ -166,12 +160,10 @@
       }
       \strng{namehash}{0de84c5a93677e6a3e6e04e04572e430}
       \strng{fullhash}{0de84c5a93677e6a3e6e04e04572e430}
-      \strng{fullhashraw}{0de84c5a93677e6a3e6e04e04572e430}
       \strng{bibnamehash}{0de84c5a93677e6a3e6e04e04572e430}
       \strng{authorbibnamehash}{0de84c5a93677e6a3e6e04e04572e430}
       \strng{authornamehash}{0de84c5a93677e6a3e6e04e04572e430}
       \strng{authorfullhash}{0de84c5a93677e6a3e6e04e04572e430}
-      \strng{authorfullhashraw}{0de84c5a93677e6a3e6e04e04572e430}
       \field{extraname}{2}
       \field{sortinit}{5}
       \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
@@ -195,7 +187,7 @@
       \endverb
       \keyw{article}
     \endentry
-    \entry{ubilava2019md}{article}{}{}
+    \entry{ubilava2019md}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
            family={Ubilava},
@@ -206,12 +198,10 @@
       }
       \strng{namehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{fullhash}{b19d1273e682e827d6f100294d4ab9c8}
-      \strng{fullhashraw}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{bibnamehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{authorbibnamehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{authornamehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{authorfullhash}{b19d1273e682e827d6f100294d4ab9c8}
-      \strng{authorfullhashraw}{b19d1273e682e827d6f100294d4ab9c8}
       \field{extraname}{1}
       \field{sortinit}{6}
       \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
@@ -235,7 +225,7 @@
       \endverb
       \keyw{article}
     \endentry
-    \entry{ubilava2018ajae}{article}{}{}
+    \entry{ubilava2018ajae}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
            family={Ubilava},
@@ -246,12 +236,10 @@
       }
       \strng{namehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{fullhash}{b19d1273e682e827d6f100294d4ab9c8}
-      \strng{fullhashraw}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{bibnamehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{authorbibnamehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{authornamehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{authorfullhash}{b19d1273e682e827d6f100294d4ab9c8}
-      \strng{authorfullhashraw}{b19d1273e682e827d6f100294d4ab9c8}
       \field{extraname}{2}
       \field{sortinit}{7}
       \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
@@ -275,7 +263,7 @@
       \endverb
       \keyw{article}
     \endentry
-    \entry{ubilava2017wd}{article}{}{}
+    \entry{ubilava2017wd}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
            family={Ubilava},
@@ -286,12 +274,10 @@
       }
       \strng{namehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{fullhash}{b19d1273e682e827d6f100294d4ab9c8}
-      \strng{fullhashraw}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{bibnamehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{authorbibnamehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{authornamehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{authorfullhash}{b19d1273e682e827d6f100294d4ab9c8}
-      \strng{authorfullhashraw}{b19d1273e682e827d6f100294d4ab9c8}
       \field{extraname}{3}
       \field{sortinit}{8}
       \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
@@ -314,7 +300,7 @@
       \endverb
       \keyw{article}
     \endentry
-    \entry{ubilava2014erae}{article}{}{}
+    \entry{ubilava2014erae}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
            family={Ubilava},
@@ -325,12 +311,10 @@
       }
       \strng{namehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{fullhash}{b19d1273e682e827d6f100294d4ab9c8}
-      \strng{fullhashraw}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{bibnamehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{authorbibnamehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{authornamehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{authorfullhash}{b19d1273e682e827d6f100294d4ab9c8}
-      \strng{authorfullhashraw}{b19d1273e682e827d6f100294d4ab9c8}
       \field{extraname}{4}
       \field{sortinit}{9}
       \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
@@ -354,7 +338,7 @@
       \endverb
       \keyw{article}
     \endentry
-    \entry{ubilava2012agec}{article}{}{}
+    \entry{ubilava2012agec}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
            family={Ubilava},
@@ -365,12 +349,10 @@
       }
       \strng{namehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{fullhash}{b19d1273e682e827d6f100294d4ab9c8}
-      \strng{fullhashraw}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{bibnamehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{authorbibnamehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{authornamehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{authorfullhash}{b19d1273e682e827d6f100294d4ab9c8}
-      \strng{authorfullhashraw}{b19d1273e682e827d6f100294d4ab9c8}
       \field{extraname}{5}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
@@ -395,7 +377,7 @@
       \endverb
       \keyw{article}
     \endentry
-    \entry{ubilava2012agri}{article}{}{}
+    \entry{ubilava2012agri}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
            family={Ubilava},
@@ -406,12 +388,10 @@
       }
       \strng{namehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{fullhash}{b19d1273e682e827d6f100294d4ab9c8}
-      \strng{fullhashraw}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{bibnamehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{authorbibnamehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{authornamehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{authorfullhash}{b19d1273e682e827d6f100294d4ab9c8}
-      \strng{authorfullhashraw}{b19d1273e682e827d6f100294d4ab9c8}
       \field{extraname}{6}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
@@ -436,7 +416,7 @@
       \endverb
       \keyw{article}
     \endentry
-    \entry{ubilava2011jare}{article}{}{}
+    \entry{ubilava2011jare}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
            family={Ubilava},
@@ -465,12 +445,10 @@
       }
       \strng{namehash}{c47a26e60eabaf94cab35095f5229f01}
       \strng{fullhash}{8901a37d1a54eb29800b2b39c54762d7}
-      \strng{fullhashraw}{8901a37d1a54eb29800b2b39c54762d7}
       \strng{bibnamehash}{8901a37d1a54eb29800b2b39c54762d7}
       \strng{authorbibnamehash}{8901a37d1a54eb29800b2b39c54762d7}
       \strng{authornamehash}{c47a26e60eabaf94cab35095f5229f01}
       \strng{authorfullhash}{8901a37d1a54eb29800b2b39c54762d7}
-      \strng{authorfullhashraw}{8901a37d1a54eb29800b2b39c54762d7}
       \field{extraname}{1}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
@@ -495,7 +473,7 @@
       \endverb
       \keyw{article}
     \endentry
-    \entry{ubilava2009fp}{article}{}{}
+    \entry{ubilava2009fp}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
            family={Ubilava},
@@ -515,12 +493,10 @@
       }
       \strng{namehash}{bab269e02a66a90e8f3aec98ab237afb}
       \strng{fullhash}{bab269e02a66a90e8f3aec98ab237afb}
-      \strng{fullhashraw}{bab269e02a66a90e8f3aec98ab237afb}
       \strng{bibnamehash}{bab269e02a66a90e8f3aec98ab237afb}
       \strng{authorbibnamehash}{bab269e02a66a90e8f3aec98ab237afb}
       \strng{authornamehash}{bab269e02a66a90e8f3aec98ab237afb}
       \strng{authorfullhash}{bab269e02a66a90e8f3aec98ab237afb}
-      \strng{authorfullhashraw}{bab269e02a66a90e8f3aec98ab237afb}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{extradatescope}{labelyear}
@@ -543,7 +519,7 @@
       \endverb
       \keyw{article}
     \endentry
-    \entry{ubilava2011jcb}{article}{}{}
+    \entry{ubilava2011jcb}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
            family={Ubilava},
@@ -575,12 +551,10 @@
       }
       \strng{namehash}{c47a26e60eabaf94cab35095f5229f01}
       \strng{fullhash}{bb166c34cafe80e1b350c2a9bbd7ac7e}
-      \strng{fullhashraw}{bb166c34cafe80e1b350c2a9bbd7ac7e}
       \strng{bibnamehash}{bb166c34cafe80e1b350c2a9bbd7ac7e}
       \strng{authorbibnamehash}{bb166c34cafe80e1b350c2a9bbd7ac7e}
       \strng{authornamehash}{c47a26e60eabaf94cab35095f5229f01}
       \strng{authorfullhash}{bb166c34cafe80e1b350c2a9bbd7ac7e}
-      \strng{authorfullhashraw}{bb166c34cafe80e1b350c2a9bbd7ac7e}
       \field{extraname}{2}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
@@ -605,7 +579,7 @@
       \endverb
       \keyw{article}
     \endentry
-    \entry{ubilava2010tfsc}{article}{}{}
+    \entry{ubilava2010tfsc}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
            family={Ubilava},
@@ -637,12 +611,10 @@
       }
       \strng{namehash}{c47a26e60eabaf94cab35095f5229f01}
       \strng{fullhash}{bb166c34cafe80e1b350c2a9bbd7ac7e}
-      \strng{fullhashraw}{bb166c34cafe80e1b350c2a9bbd7ac7e}
       \strng{bibnamehash}{bb166c34cafe80e1b350c2a9bbd7ac7e}
       \strng{authorbibnamehash}{bb166c34cafe80e1b350c2a9bbd7ac7e}
       \strng{authornamehash}{c47a26e60eabaf94cab35095f5229f01}
       \strng{authorfullhash}{bb166c34cafe80e1b350c2a9bbd7ac7e}
-      \strng{authorfullhashraw}{bb166c34cafe80e1b350c2a9bbd7ac7e}
       \field{extraname}{3}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
@@ -666,7 +638,7 @@
       \endverb
       \keyw{article}
     \endentry
-    \entry{ubilava2013ems}{article}{}{}
+    \entry{ubilava2013ems}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
            family={Ubilava},
@@ -683,12 +655,10 @@
       }
       \strng{namehash}{6df02efc4caf3826d243bdc1eaac8383}
       \strng{fullhash}{6df02efc4caf3826d243bdc1eaac8383}
-      \strng{fullhashraw}{6df02efc4caf3826d243bdc1eaac8383}
       \strng{bibnamehash}{6df02efc4caf3826d243bdc1eaac8383}
       \strng{authorbibnamehash}{6df02efc4caf3826d243bdc1eaac8383}
       \strng{authornamehash}{6df02efc4caf3826d243bdc1eaac8383}
       \strng{authorfullhash}{6df02efc4caf3826d243bdc1eaac8383}
-      \strng{authorfullhashraw}{6df02efc4caf3826d243bdc1eaac8383}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{extradatescope}{labelyear}
@@ -711,7 +681,7 @@
       \endverb
       \keyw{article}
     \endentry
-    \entry{ubilava2013ajare}{article}{}{}
+    \entry{ubilava2013ajare}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
            family={Ubilava},
@@ -728,12 +698,10 @@
       }
       \strng{namehash}{82c86d0901e443da1b66fe30ce59ec7a}
       \strng{fullhash}{82c86d0901e443da1b66fe30ce59ec7a}
-      \strng{fullhashraw}{82c86d0901e443da1b66fe30ce59ec7a}
       \strng{bibnamehash}{82c86d0901e443da1b66fe30ce59ec7a}
       \strng{authorbibnamehash}{82c86d0901e443da1b66fe30ce59ec7a}
       \strng{authornamehash}{82c86d0901e443da1b66fe30ce59ec7a}
       \strng{authorfullhash}{82c86d0901e443da1b66fe30ce59ec7a}
-      \strng{authorfullhashraw}{82c86d0901e443da1b66fe30ce59ec7a}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{extradatescope}{labelyear}
@@ -756,7 +724,7 @@
       \endverb
       \keyw{article}
     \endentry
-    \entry{ubilava2019erl}{article}{}{}
+    \entry{ubilava2019erl}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
            family={Ubilava},
@@ -773,12 +741,10 @@
       }
       \strng{namehash}{2bdcf4c3046a0c1a9e730a146f9749c9}
       \strng{fullhash}{2bdcf4c3046a0c1a9e730a146f9749c9}
-      \strng{fullhashraw}{2bdcf4c3046a0c1a9e730a146f9749c9}
       \strng{bibnamehash}{2bdcf4c3046a0c1a9e730a146f9749c9}
       \strng{authorbibnamehash}{2bdcf4c3046a0c1a9e730a146f9749c9}
       \strng{authornamehash}{2bdcf4c3046a0c1a9e730a146f9749c9}
       \strng{authorfullhash}{2bdcf4c3046a0c1a9e730a146f9749c9}
-      \strng{authorfullhashraw}{2bdcf4c3046a0c1a9e730a146f9749c9}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{extradatescope}{labelyear}
@@ -800,7 +766,7 @@
       \endverb
       \keyw{article}
     \endentry
-    \entry{ubilava2019el}{article}{}{}
+    \entry{ubilava2019el}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
            family={Ubilava},
@@ -823,12 +789,10 @@
       }
       \strng{namehash}{85dc75e94ebcdcd4a6dceb22c6554106}
       \strng{fullhash}{85dc75e94ebcdcd4a6dceb22c6554106}
-      \strng{fullhashraw}{85dc75e94ebcdcd4a6dceb22c6554106}
       \strng{bibnamehash}{85dc75e94ebcdcd4a6dceb22c6554106}
       \strng{authorbibnamehash}{85dc75e94ebcdcd4a6dceb22c6554106}
       \strng{authornamehash}{85dc75e94ebcdcd4a6dceb22c6554106}
       \strng{authorfullhash}{85dc75e94ebcdcd4a6dceb22c6554106}
-      \strng{authorfullhashraw}{85dc75e94ebcdcd4a6dceb22c6554106}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{extradatescope}{labelyear}
@@ -850,7 +814,7 @@
       \endverb
       \keyw{article}
     \endentry
-    \entry{meat_resilience}{misc}{}{}
+    \entry{meat_resilience}{misc}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=a7cb1bf33529c15027c2aac7b391c182}{%
            family={Richards},
@@ -873,12 +837,10 @@
       }
       \strng{namehash}{77bcbd0ff98ad5aa0d5cfc208746db21}
       \strng{fullhash}{77bcbd0ff98ad5aa0d5cfc208746db21}
-      \strng{fullhashraw}{77bcbd0ff98ad5aa0d5cfc208746db21}
       \strng{bibnamehash}{77bcbd0ff98ad5aa0d5cfc208746db21}
       \strng{authorbibnamehash}{77bcbd0ff98ad5aa0d5cfc208746db21}
       \strng{authornamehash}{77bcbd0ff98ad5aa0d5cfc208746db21}
       \strng{authorfullhash}{77bcbd0ff98ad5aa0d5cfc208746db21}
-      \strng{authorfullhashraw}{77bcbd0ff98ad5aa0d5cfc208746db21}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -890,7 +852,7 @@
       \true{nocite}
       \keyw{progress}
     \endentry
-    \entry{hastings2022}{article}{}{}
+    \entry{hastings2022}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=c6700df8d63c7a11787de4c35d06cd2f}{%
            family={Hastings},
@@ -919,12 +881,10 @@
       }
       \strng{namehash}{a423569336a8057e37afbb67783002db}
       \strng{fullhash}{a7807cdaddfaf75f5305ebc7c31a249c}
-      \strng{fullhashraw}{a7807cdaddfaf75f5305ebc7c31a249c}
       \strng{bibnamehash}{a7807cdaddfaf75f5305ebc7c31a249c}
       \strng{authorbibnamehash}{a7807cdaddfaf75f5305ebc7c31a249c}
       \strng{authornamehash}{a423569336a8057e37afbb67783002db}
       \strng{authorfullhash}{a7807cdaddfaf75f5305ebc7c31a249c}
-      \strng{authorfullhashraw}{a7807cdaddfaf75f5305ebc7c31a249c}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -947,7 +907,7 @@
       \endverb
       \keyw{article}
     \endentry
-    \entry{ubilava2023ajae}{article}{}{}
+    \entry{ubilava2023ajae}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
            family={Ubilava},
@@ -970,12 +930,10 @@
       }
       \strng{namehash}{96f3557d4a369649b30f42d1f0488739}
       \strng{fullhash}{96f3557d4a369649b30f42d1f0488739}
-      \strng{fullhashraw}{96f3557d4a369649b30f42d1f0488739}
       \strng{bibnamehash}{96f3557d4a369649b30f42d1f0488739}
       \strng{authorbibnamehash}{96f3557d4a369649b30f42d1f0488739}
       \strng{authornamehash}{96f3557d4a369649b30f42d1f0488739}
       \strng{authorfullhash}{96f3557d4a369649b30f42d1f0488739}
-      \strng{authorfullhashraw}{96f3557d4a369649b30f42d1f0488739}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -998,7 +956,7 @@
       \endverb
       \keyw{article}
     \endentry
-    \entry{ubilava2022agec}{article}{}{}
+    \entry{ubilava2022agec}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
            family={Ubilava},
@@ -1009,12 +967,10 @@
       }
       \strng{namehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{fullhash}{b19d1273e682e827d6f100294d4ab9c8}
-      \strng{fullhashraw}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{bibnamehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{authorbibnamehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{authornamehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{authorfullhash}{b19d1273e682e827d6f100294d4ab9c8}
-      \strng{authorfullhashraw}{b19d1273e682e827d6f100294d4ab9c8}
       \field{extraname}{7}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -1038,7 +994,7 @@
       \endverb
       \keyw{article}
     \endentry
-    \entry{atalay2021}{article}{}{}
+    \entry{atalay2021}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=b924fe2a342039fa5e965c90ad09124c}{%
            family={Atalay},
@@ -1067,12 +1023,10 @@
       }
       \strng{namehash}{41f599b28d3e9a6d496877c69f7f2411}
       \strng{fullhash}{3cfeb31d8ade64ec09b3ea9a59095e9e}
-      \strng{fullhashraw}{3cfeb31d8ade64ec09b3ea9a59095e9e}
       \strng{bibnamehash}{3cfeb31d8ade64ec09b3ea9a59095e9e}
       \strng{authorbibnamehash}{3cfeb31d8ade64ec09b3ea9a59095e9e}
       \strng{authornamehash}{41f599b28d3e9a6d496877c69f7f2411}
       \strng{authorfullhash}{3cfeb31d8ade64ec09b3ea9a59095e9e}
-      \strng{authorfullhashraw}{3cfeb31d8ade64ec09b3ea9a59095e9e}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -1095,7 +1049,7 @@
       \endverb
       \keyw{article}
     \endentry
-    \entry{angus2021}{article}{}{}
+    \entry{angus2021}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=8a6f83ee4488090a44ee54fff3f3bb95}{%
            family={Angus},
@@ -1124,12 +1078,10 @@
       }
       \strng{namehash}{bbde136f27dddcd7147dee6935edf3d3}
       \strng{fullhash}{a2cd95e40b9da28febc7735e3bd01975}
-      \strng{fullhashraw}{a2cd95e40b9da28febc7735e3bd01975}
       \strng{bibnamehash}{a2cd95e40b9da28febc7735e3bd01975}
       \strng{authorbibnamehash}{a2cd95e40b9da28febc7735e3bd01975}
       \strng{authornamehash}{bbde136f27dddcd7147dee6935edf3d3}
       \strng{authorfullhash}{a2cd95e40b9da28febc7735e3bd01975}
-      \strng{authorfullhashraw}{a2cd95e40b9da28febc7735e3bd01975}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -1151,7 +1103,7 @@
       \endverb
       \keyw{article}
     \endentry
-    \entry{roads_riots}{misc}{}{}
+    \entry{roads_riots}{misc}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=e5d4931432853be6ed7bed8f866e342e}{%
            family={Amarasinghe},
@@ -1174,12 +1126,10 @@
       }
       \strng{namehash}{a989943c5a08c9da28dd0acfd868112a}
       \strng{fullhash}{a989943c5a08c9da28dd0acfd868112a}
-      \strng{fullhashraw}{a989943c5a08c9da28dd0acfd868112a}
       \strng{bibnamehash}{a989943c5a08c9da28dd0acfd868112a}
       \strng{authorbibnamehash}{a989943c5a08c9da28dd0acfd868112a}
       \strng{authornamehash}{a989943c5a08c9da28dd0acfd868112a}
       \strng{authorfullhash}{a989943c5a08c9da28dd0acfd868112a}
-      \strng{authorfullhashraw}{a989943c5a08c9da28dd0acfd868112a}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -1191,7 +1141,7 @@
       \true{nocite}
       \keyw{progress}
     \endentry
-    \entry{ferguson2022}{article}{}{}
+    \entry{ferguson2022}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=82079577e87711743ba6e00485fb5c55}{%
            family={Ferguson},
@@ -1208,12 +1158,10 @@
       }
       \strng{namehash}{21ae894f79fe587d1431297cf78f2953}
       \strng{fullhash}{21ae894f79fe587d1431297cf78f2953}
-      \strng{fullhashraw}{21ae894f79fe587d1431297cf78f2953}
       \strng{bibnamehash}{21ae894f79fe587d1431297cf78f2953}
       \strng{authorbibnamehash}{21ae894f79fe587d1431297cf78f2953}
       \strng{authornamehash}{21ae894f79fe587d1431297cf78f2953}
       \strng{authorfullhash}{21ae894f79fe587d1431297cf78f2953}
-      \strng{authorfullhashraw}{21ae894f79fe587d1431297cf78f2953}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -1236,7 +1184,7 @@
       \endverb
       \keyw{article}
     \endentry
-    \entry{ubilavabook}{book}{}{}
+    \entry{ubilavabook}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
            family={Ubilava},
@@ -1250,12 +1198,10 @@
       }
       \strng{namehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{fullhash}{b19d1273e682e827d6f100294d4ab9c8}
-      \strng{fullhashraw}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{bibnamehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{authorbibnamehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{authornamehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{authorfullhash}{b19d1273e682e827d6f100294d4ab9c8}
-      \strng{authorfullhashraw}{b19d1273e682e827d6f100294d4ab9c8}
       \field{extraname}{8}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -1268,7 +1214,7 @@
       \true{nocite}
       \keyw{book}
     \endentry
-    \entry{elnino_conflict}{article}{}{}
+    \entry{ubilava2026}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
            family={Ubilava},
@@ -1279,12 +1225,10 @@
       }
       \strng{namehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{fullhash}{b19d1273e682e827d6f100294d4ab9c8}
-      \strng{fullhashraw}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{bibnamehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{authorbibnamehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{authornamehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{authorfullhash}{b19d1273e682e827d6f100294d4ab9c8}
-      \strng{authorfullhashraw}{b19d1273e682e827d6f100294d4ab9c8}
       \field{extraname}{9}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -1293,10 +1237,13 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{American Journal of Agricultural Economics}
-      \field{number}{in press}
+      \field{number}{1}
       \field{title}{{Climate, Crops, and Postharvest Conflict}}
-      \field{year}{2024}
+      \field{volume}{108}
+      \field{year}{2026}
       \true{nocite}
+      \field{pages}{3\bibrangedash 27}
+      \range{pages}{25}
       \verb{urlraw}
       \verb https://doi.org/10.1111/ajae.12503
       \endverb
@@ -1304,7 +1251,7 @@
       \verb https://doi.org/10.1111/ajae.12503
       \endverb
     \endentry
-    \entry{conflict_seasia}{article}{}{}
+    \entry{hastings2025}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=c6700df8d63c7a11787de4c35d06cd2f}{%
            family={Hastings},
@@ -1321,12 +1268,10 @@
       }
       \strng{namehash}{13fa265178215fb3fa09639a3fb22a0d}
       \strng{fullhash}{13fa265178215fb3fa09639a3fb22a0d}
-      \strng{fullhashraw}{13fa265178215fb3fa09639a3fb22a0d}
       \strng{bibnamehash}{13fa265178215fb3fa09639a3fb22a0d}
       \strng{authorbibnamehash}{13fa265178215fb3fa09639a3fb22a0d}
       \strng{authornamehash}{13fa265178215fb3fa09639a3fb22a0d}
       \strng{authorfullhash}{13fa265178215fb3fa09639a3fb22a0d}
-      \strng{authorfullhashraw}{13fa265178215fb3fa09639a3fb22a0d}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{extradatescope}{labelyear}
@@ -1334,10 +1279,13 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Peace Research}
-      \field{number}{in press}
+      \field{number}{6}
       \field{title}{{Agricultural Roots of Social Conflict in Southeast Asia}}
+      \field{volume}{62}
       \field{year}{2025}
       \true{nocite}
+      \field{pages}{1714\bibrangedash 1732}
+      \range{pages}{19}
       \verb{urlraw}
       \verb https://doi.org/10.1177/00223433241305990
       \endverb
@@ -1345,7 +1293,7 @@
       \verb https://doi.org/10.1177/00223433241305990
       \endverb
     \endentry
-    \entry{prices_protests}{misc}{}{}
+    \entry{prices_protests}{misc}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=ce44f670f0348fc6856f1e2d536c5330}{%
            family={Humphreys},
@@ -1362,12 +1310,10 @@
       }
       \strng{namehash}{162dadf3bba46aad78eecf856d366e2c}
       \strng{fullhash}{162dadf3bba46aad78eecf856d366e2c}
-      \strng{fullhashraw}{162dadf3bba46aad78eecf856d366e2c}
       \strng{bibnamehash}{162dadf3bba46aad78eecf856d366e2c}
       \strng{authorbibnamehash}{162dadf3bba46aad78eecf856d366e2c}
       \strng{authornamehash}{162dadf3bba46aad78eecf856d366e2c}
       \strng{authorfullhash}{162dadf3bba46aad78eecf856d366e2c}
-      \strng{authorfullhashraw}{162dadf3bba46aad78eecf856d366e2c}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{extradatescope}{labelyear}
@@ -1379,7 +1325,7 @@
       \true{nocite}
       \keyw{progress}
     \endentry
-    \entry{missions_misaligned}{misc}{}{}
+    \entry{missions_misaligned}{misc}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=e5d4931432853be6ed7bed8f866e342e}{%
            family={Amarasinghe},
@@ -1402,12 +1348,10 @@
       }
       \strng{namehash}{39cf57b54d09ba6be22871860d114309}
       \strng{fullhash}{39cf57b54d09ba6be22871860d114309}
-      \strng{fullhashraw}{39cf57b54d09ba6be22871860d114309}
       \strng{bibnamehash}{39cf57b54d09ba6be22871860d114309}
       \strng{authorbibnamehash}{39cf57b54d09ba6be22871860d114309}
       \strng{authornamehash}{39cf57b54d09ba6be22871860d114309}
       \strng{authorfullhash}{39cf57b54d09ba6be22871860d114309}
-      \strng{authorfullhashraw}{39cf57b54d09ba6be22871860d114309}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{extradatescope}{labelyear}
@@ -1423,8 +1367,45 @@
 \endrefsection
 
 \refsection{1}
-  \datalist[entry]{none/global//global/global/global}
-    \entry{conflict_seasia}{article}{}{}
+  \datalist[entry]{none/global//global/global}
+    \entry{ubilava2026}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
+           family={Ubilava},
+           familyi={U\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b19d1273e682e827d6f100294d4ab9c8}
+      \strng{fullhash}{b19d1273e682e827d6f100294d4ab9c8}
+      \strng{bibnamehash}{b19d1273e682e827d6f100294d4ab9c8}
+      \strng{authorbibnamehash}{b19d1273e682e827d6f100294d4ab9c8}
+      \strng{authornamehash}{b19d1273e682e827d6f100294d4ab9c8}
+      \strng{authorfullhash}{b19d1273e682e827d6f100294d4ab9c8}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Journal of Agricultural Economics}
+      \field{number}{1}
+      \field{title}{{Climate, Crops, and Postharvest Conflict}}
+      \field{volume}{108}
+      \field{year}{2026}
+      \true{nocite}
+      \field{pages}{3\bibrangedash 27}
+      \range{pages}{25}
+      \verb{urlraw}
+      \verb https://doi.org/10.1111/ajae.12503
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1111/ajae.12503
+      \endverb
+    \endentry
+    \entry{hastings2025}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=c6700df8d63c7a11787de4c35d06cd2f}{%
            family={Hastings},
@@ -1441,67 +1422,32 @@
       }
       \strng{namehash}{13fa265178215fb3fa09639a3fb22a0d}
       \strng{fullhash}{13fa265178215fb3fa09639a3fb22a0d}
-      \strng{fullhashraw}{13fa265178215fb3fa09639a3fb22a0d}
       \strng{bibnamehash}{13fa265178215fb3fa09639a3fb22a0d}
       \strng{authorbibnamehash}{13fa265178215fb3fa09639a3fb22a0d}
       \strng{authornamehash}{13fa265178215fb3fa09639a3fb22a0d}
       \strng{authorfullhash}{13fa265178215fb3fa09639a3fb22a0d}
-      \strng{authorfullhashraw}{13fa265178215fb3fa09639a3fb22a0d}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Peace Research}
-      \field{number}{in press}
-      \field{title}{{Agricultural Roots of Social Conflict in Southeast Asia}}
-      \field{year}{2025}
-      \true{nocite}
-      \verb{urlraw}
-      \verb https://doi.org/10.1177/00223433241305990
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1177/00223433241305990
-      \endverb
-    \endentry
-    \entry{elnino_conflict}{article}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
-           family={Ubilava},
-           familyi={U\bibinitperiod},
-           given={David},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{b19d1273e682e827d6f100294d4ab9c8}
-      \strng{fullhash}{b19d1273e682e827d6f100294d4ab9c8}
-      \strng{fullhashraw}{b19d1273e682e827d6f100294d4ab9c8}
-      \strng{bibnamehash}{b19d1273e682e827d6f100294d4ab9c8}
-      \strng{authorbibnamehash}{b19d1273e682e827d6f100294d4ab9c8}
-      \strng{authornamehash}{b19d1273e682e827d6f100294d4ab9c8}
-      \strng{authorfullhash}{b19d1273e682e827d6f100294d4ab9c8}
-      \strng{authorfullhashraw}{b19d1273e682e827d6f100294d4ab9c8}
-      \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{American Journal of Agricultural Economics}
-      \field{number}{in press}
-      \field{title}{{Climate, Crops, and Postharvest Conflict}}
-      \field{year}{2024}
+      \field{journaltitle}{Journal of Peace Research}
+      \field{number}{6}
+      \field{title}{{Agricultural Roots of Social Conflict in Southeast Asia}}
+      \field{volume}{62}
+      \field{year}{2025}
       \true{nocite}
+      \field{pages}{1714\bibrangedash 1732}
+      \range{pages}{19}
       \verb{urlraw}
-      \verb https://doi.org/10.1111/ajae.12503
+      \verb https://doi.org/10.1177/00223433241305990
       \endverb
       \verb{url}
-      \verb https://doi.org/10.1111/ajae.12503
+      \verb https://doi.org/10.1177/00223433241305990
       \endverb
     \endentry
-    \entry{ubilava2023ajae}{article}{}{}
+    \entry{ubilava2023ajae}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
            family={Ubilava},
@@ -1524,12 +1470,10 @@
       }
       \strng{namehash}{96f3557d4a369649b30f42d1f0488739}
       \strng{fullhash}{96f3557d4a369649b30f42d1f0488739}
-      \strng{fullhashraw}{96f3557d4a369649b30f42d1f0488739}
       \strng{bibnamehash}{96f3557d4a369649b30f42d1f0488739}
       \strng{authorbibnamehash}{96f3557d4a369649b30f42d1f0488739}
       \strng{authornamehash}{96f3557d4a369649b30f42d1f0488739}
       \strng{authorfullhash}{96f3557d4a369649b30f42d1f0488739}
-      \strng{authorfullhashraw}{96f3557d4a369649b30f42d1f0488739}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{extradatescope}{labelyear}
@@ -1552,7 +1496,7 @@
       \endverb
       \keyw{article}
     \endentry
-    \entry{ferguson2022}{article}{}{}
+    \entry{ferguson2022}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=82079577e87711743ba6e00485fb5c55}{%
            family={Ferguson},
@@ -1569,12 +1513,10 @@
       }
       \strng{namehash}{21ae894f79fe587d1431297cf78f2953}
       \strng{fullhash}{21ae894f79fe587d1431297cf78f2953}
-      \strng{fullhashraw}{21ae894f79fe587d1431297cf78f2953}
       \strng{bibnamehash}{21ae894f79fe587d1431297cf78f2953}
       \strng{authorbibnamehash}{21ae894f79fe587d1431297cf78f2953}
       \strng{authornamehash}{21ae894f79fe587d1431297cf78f2953}
       \strng{authorfullhash}{21ae894f79fe587d1431297cf78f2953}
-      \strng{authorfullhashraw}{21ae894f79fe587d1431297cf78f2953}
       \field{sortinit}{4}
       \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{extradatescope}{labelyear}
@@ -1597,7 +1539,7 @@
       \endverb
       \keyw{article}
     \endentry
-    \entry{ubilava2022agec}{article}{}{}
+    \entry{ubilava2022agec}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
            family={Ubilava},
@@ -1608,12 +1550,10 @@
       }
       \strng{namehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{fullhash}{b19d1273e682e827d6f100294d4ab9c8}
-      \strng{fullhashraw}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{bibnamehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{authorbibnamehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{authornamehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{authorfullhash}{b19d1273e682e827d6f100294d4ab9c8}
-      \strng{authorfullhashraw}{b19d1273e682e827d6f100294d4ab9c8}
       \field{extraname}{2}
       \field{sortinit}{5}
       \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
@@ -1637,7 +1577,7 @@
       \endverb
       \keyw{article}
     \endentry
-    \entry{hastings2022}{article}{}{}
+    \entry{hastings2022}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=c6700df8d63c7a11787de4c35d06cd2f}{%
            family={Hastings},
@@ -1666,12 +1606,10 @@
       }
       \strng{namehash}{a423569336a8057e37afbb67783002db}
       \strng{fullhash}{a7807cdaddfaf75f5305ebc7c31a249c}
-      \strng{fullhashraw}{a7807cdaddfaf75f5305ebc7c31a249c}
       \strng{bibnamehash}{a7807cdaddfaf75f5305ebc7c31a249c}
       \strng{authorbibnamehash}{a7807cdaddfaf75f5305ebc7c31a249c}
       \strng{authornamehash}{a423569336a8057e37afbb67783002db}
       \strng{authorfullhash}{a7807cdaddfaf75f5305ebc7c31a249c}
-      \strng{authorfullhashraw}{a7807cdaddfaf75f5305ebc7c31a249c}
       \field{sortinit}{6}
       \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{extradatescope}{labelyear}
@@ -1694,7 +1632,7 @@
       \endverb
       \keyw{article}
     \endentry
-    \entry{angus2021}{article}{}{}
+    \entry{angus2021}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=8a6f83ee4488090a44ee54fff3f3bb95}{%
            family={Angus},
@@ -1723,12 +1661,10 @@
       }
       \strng{namehash}{bbde136f27dddcd7147dee6935edf3d3}
       \strng{fullhash}{a2cd95e40b9da28febc7735e3bd01975}
-      \strng{fullhashraw}{a2cd95e40b9da28febc7735e3bd01975}
       \strng{bibnamehash}{a2cd95e40b9da28febc7735e3bd01975}
       \strng{authorbibnamehash}{a2cd95e40b9da28febc7735e3bd01975}
       \strng{authornamehash}{bbde136f27dddcd7147dee6935edf3d3}
       \strng{authorfullhash}{a2cd95e40b9da28febc7735e3bd01975}
-      \strng{authorfullhashraw}{a2cd95e40b9da28febc7735e3bd01975}
       \field{sortinit}{7}
       \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{extradatescope}{labelyear}
@@ -1750,7 +1686,7 @@
       \endverb
       \keyw{article}
     \endentry
-    \entry{atalay2021}{article}{}{}
+    \entry{atalay2021}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=b924fe2a342039fa5e965c90ad09124c}{%
            family={Atalay},
@@ -1779,12 +1715,10 @@
       }
       \strng{namehash}{41f599b28d3e9a6d496877c69f7f2411}
       \strng{fullhash}{3cfeb31d8ade64ec09b3ea9a59095e9e}
-      \strng{fullhashraw}{3cfeb31d8ade64ec09b3ea9a59095e9e}
       \strng{bibnamehash}{3cfeb31d8ade64ec09b3ea9a59095e9e}
       \strng{authorbibnamehash}{3cfeb31d8ade64ec09b3ea9a59095e9e}
       \strng{authornamehash}{41f599b28d3e9a6d496877c69f7f2411}
       \strng{authorfullhash}{3cfeb31d8ade64ec09b3ea9a59095e9e}
-      \strng{authorfullhashraw}{3cfeb31d8ade64ec09b3ea9a59095e9e}
       \field{sortinit}{8}
       \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{extradatescope}{labelyear}
@@ -1807,7 +1741,7 @@
       \endverb
       \keyw{article}
     \endentry
-    \entry{ubilava2019el}{article}{}{}
+    \entry{ubilava2019el}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
            family={Ubilava},
@@ -1830,12 +1764,10 @@
       }
       \strng{namehash}{85dc75e94ebcdcd4a6dceb22c6554106}
       \strng{fullhash}{85dc75e94ebcdcd4a6dceb22c6554106}
-      \strng{fullhashraw}{85dc75e94ebcdcd4a6dceb22c6554106}
       \strng{bibnamehash}{85dc75e94ebcdcd4a6dceb22c6554106}
       \strng{authorbibnamehash}{85dc75e94ebcdcd4a6dceb22c6554106}
       \strng{authornamehash}{85dc75e94ebcdcd4a6dceb22c6554106}
       \strng{authorfullhash}{85dc75e94ebcdcd4a6dceb22c6554106}
-      \strng{authorfullhashraw}{85dc75e94ebcdcd4a6dceb22c6554106}
       \field{sortinit}{9}
       \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{extradatescope}{labelyear}
@@ -1857,7 +1789,7 @@
       \endverb
       \keyw{article}
     \endentry
-    \entry{ubilava2019erl}{article}{}{}
+    \entry{ubilava2019erl}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
            family={Ubilava},
@@ -1874,12 +1806,10 @@
       }
       \strng{namehash}{2bdcf4c3046a0c1a9e730a146f9749c9}
       \strng{fullhash}{2bdcf4c3046a0c1a9e730a146f9749c9}
-      \strng{fullhashraw}{2bdcf4c3046a0c1a9e730a146f9749c9}
       \strng{bibnamehash}{2bdcf4c3046a0c1a9e730a146f9749c9}
       \strng{authorbibnamehash}{2bdcf4c3046a0c1a9e730a146f9749c9}
       \strng{authornamehash}{2bdcf4c3046a0c1a9e730a146f9749c9}
       \strng{authorfullhash}{2bdcf4c3046a0c1a9e730a146f9749c9}
-      \strng{authorfullhashraw}{2bdcf4c3046a0c1a9e730a146f9749c9}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{extradatescope}{labelyear}
@@ -1901,7 +1831,7 @@
       \endverb
       \keyw{article}
     \endentry
-    \entry{ubilava2019md}{article}{}{}
+    \entry{ubilava2019md}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
            family={Ubilava},
@@ -1912,12 +1842,10 @@
       }
       \strng{namehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{fullhash}{b19d1273e682e827d6f100294d4ab9c8}
-      \strng{fullhashraw}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{bibnamehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{authorbibnamehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{authornamehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{authorfullhash}{b19d1273e682e827d6f100294d4ab9c8}
-      \strng{authorfullhashraw}{b19d1273e682e827d6f100294d4ab9c8}
       \field{extraname}{3}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
@@ -1941,7 +1869,7 @@
       \endverb
       \keyw{article}
     \endentry
-    \entry{ubilava2018ajae}{article}{}{}
+    \entry{ubilava2018ajae}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
            family={Ubilava},
@@ -1952,12 +1880,10 @@
       }
       \strng{namehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{fullhash}{b19d1273e682e827d6f100294d4ab9c8}
-      \strng{fullhashraw}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{bibnamehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{authorbibnamehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{authornamehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{authorfullhash}{b19d1273e682e827d6f100294d4ab9c8}
-      \strng{authorfullhashraw}{b19d1273e682e827d6f100294d4ab9c8}
       \field{extraname}{4}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
@@ -1981,7 +1907,7 @@
       \endverb
       \keyw{article}
     \endentry
-    \entry{smith2017gec}{article}{}{}
+    \entry{smith2017gec}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=9fe9d34f0c120b7d3e79d8e66cc075ce}{%
            family={Smith},
@@ -1998,12 +1924,10 @@
       }
       \strng{namehash}{d89ca82ef815a910bf9671f76adcc7d3}
       \strng{fullhash}{d89ca82ef815a910bf9671f76adcc7d3}
-      \strng{fullhashraw}{d89ca82ef815a910bf9671f76adcc7d3}
       \strng{bibnamehash}{d89ca82ef815a910bf9671f76adcc7d3}
       \strng{authorbibnamehash}{d89ca82ef815a910bf9671f76adcc7d3}
       \strng{authornamehash}{d89ca82ef815a910bf9671f76adcc7d3}
       \strng{authorfullhash}{d89ca82ef815a910bf9671f76adcc7d3}
-      \strng{authorfullhashraw}{d89ca82ef815a910bf9671f76adcc7d3}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{extradatescope}{labelyear}
@@ -2025,7 +1949,7 @@
       \endverb
       \keyw{article}
     \endentry
-    \entry{ubilava2017wd}{article}{}{}
+    \entry{ubilava2017wd}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
            family={Ubilava},
@@ -2036,12 +1960,10 @@
       }
       \strng{namehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{fullhash}{b19d1273e682e827d6f100294d4ab9c8}
-      \strng{fullhashraw}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{bibnamehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{authorbibnamehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{authornamehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{authorfullhash}{b19d1273e682e827d6f100294d4ab9c8}
-      \strng{authorfullhashraw}{b19d1273e682e827d6f100294d4ab9c8}
       \field{extraname}{5}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
@@ -2064,7 +1986,7 @@
       \endverb
       \keyw{article}
     \endentry
-    \entry{tack2015agec}{article}{}{}
+    \entry{tack2015agec}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=330915ab6e814dd19480ae8481a77699}{%
            family={Tack},
@@ -2081,12 +2003,10 @@
       }
       \strng{namehash}{0de84c5a93677e6a3e6e04e04572e430}
       \strng{fullhash}{0de84c5a93677e6a3e6e04e04572e430}
-      \strng{fullhashraw}{0de84c5a93677e6a3e6e04e04572e430}
       \strng{bibnamehash}{0de84c5a93677e6a3e6e04e04572e430}
       \strng{authorbibnamehash}{0de84c5a93677e6a3e6e04e04572e430}
       \strng{authornamehash}{0de84c5a93677e6a3e6e04e04572e430}
       \strng{authorfullhash}{0de84c5a93677e6a3e6e04e04572e430}
-      \strng{authorfullhashraw}{0de84c5a93677e6a3e6e04e04572e430}
       \field{extraname}{1}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
@@ -2110,7 +2030,7 @@
       \endverb
       \keyw{article}
     \endentry
-    \entry{ubilava2014erae}{article}{}{}
+    \entry{ubilava2014erae}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
            family={Ubilava},
@@ -2121,12 +2041,10 @@
       }
       \strng{namehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{fullhash}{b19d1273e682e827d6f100294d4ab9c8}
-      \strng{fullhashraw}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{bibnamehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{authorbibnamehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{authornamehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{authorfullhash}{b19d1273e682e827d6f100294d4ab9c8}
-      \strng{authorfullhashraw}{b19d1273e682e827d6f100294d4ab9c8}
       \field{extraname}{6}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
@@ -2150,7 +2068,7 @@
       \endverb
       \keyw{article}
     \endentry
-    \entry{tack2013cc}{article}{}{}
+    \entry{tack2013cc}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=330915ab6e814dd19480ae8481a77699}{%
            family={Tack},
@@ -2167,12 +2085,10 @@
       }
       \strng{namehash}{0de84c5a93677e6a3e6e04e04572e430}
       \strng{fullhash}{0de84c5a93677e6a3e6e04e04572e430}
-      \strng{fullhashraw}{0de84c5a93677e6a3e6e04e04572e430}
       \strng{bibnamehash}{0de84c5a93677e6a3e6e04e04572e430}
       \strng{authorbibnamehash}{0de84c5a93677e6a3e6e04e04572e430}
       \strng{authornamehash}{0de84c5a93677e6a3e6e04e04572e430}
       \strng{authorfullhash}{0de84c5a93677e6a3e6e04e04572e430}
-      \strng{authorfullhashraw}{0de84c5a93677e6a3e6e04e04572e430}
       \field{extraname}{2}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
@@ -2196,7 +2112,7 @@
       \endverb
       \keyw{article}
     \endentry
-    \entry{ubilava2013ems}{article}{}{}
+    \entry{ubilava2013ems}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
            family={Ubilava},
@@ -2213,12 +2129,10 @@
       }
       \strng{namehash}{6df02efc4caf3826d243bdc1eaac8383}
       \strng{fullhash}{6df02efc4caf3826d243bdc1eaac8383}
-      \strng{fullhashraw}{6df02efc4caf3826d243bdc1eaac8383}
       \strng{bibnamehash}{6df02efc4caf3826d243bdc1eaac8383}
       \strng{authorbibnamehash}{6df02efc4caf3826d243bdc1eaac8383}
       \strng{authornamehash}{6df02efc4caf3826d243bdc1eaac8383}
       \strng{authorfullhash}{6df02efc4caf3826d243bdc1eaac8383}
-      \strng{authorfullhashraw}{6df02efc4caf3826d243bdc1eaac8383}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{extradatescope}{labelyear}
@@ -2241,7 +2155,7 @@
       \endverb
       \keyw{article}
     \endentry
-    \entry{ubilava2013ajare}{article}{}{}
+    \entry{ubilava2013ajare}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
            family={Ubilava},
@@ -2258,12 +2172,10 @@
       }
       \strng{namehash}{82c86d0901e443da1b66fe30ce59ec7a}
       \strng{fullhash}{82c86d0901e443da1b66fe30ce59ec7a}
-      \strng{fullhashraw}{82c86d0901e443da1b66fe30ce59ec7a}
       \strng{bibnamehash}{82c86d0901e443da1b66fe30ce59ec7a}
       \strng{authorbibnamehash}{82c86d0901e443da1b66fe30ce59ec7a}
       \strng{authornamehash}{82c86d0901e443da1b66fe30ce59ec7a}
       \strng{authorfullhash}{82c86d0901e443da1b66fe30ce59ec7a}
-      \strng{authorfullhashraw}{82c86d0901e443da1b66fe30ce59ec7a}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{extradatescope}{labelyear}
@@ -2286,7 +2198,7 @@
       \endverb
       \keyw{article}
     \endentry
-    \entry{ubilava2012agec}{article}{}{}
+    \entry{ubilava2012agec}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
            family={Ubilava},
@@ -2297,12 +2209,10 @@
       }
       \strng{namehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{fullhash}{b19d1273e682e827d6f100294d4ab9c8}
-      \strng{fullhashraw}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{bibnamehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{authorbibnamehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{authornamehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{authorfullhash}{b19d1273e682e827d6f100294d4ab9c8}
-      \strng{authorfullhashraw}{b19d1273e682e827d6f100294d4ab9c8}
       \field{extraname}{7}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -2327,7 +2237,7 @@
       \endverb
       \keyw{article}
     \endentry
-    \entry{ubilava2012agri}{article}{}{}
+    \entry{ubilava2012agri}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
            family={Ubilava},
@@ -2338,12 +2248,10 @@
       }
       \strng{namehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{fullhash}{b19d1273e682e827d6f100294d4ab9c8}
-      \strng{fullhashraw}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{bibnamehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{authorbibnamehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{authornamehash}{b19d1273e682e827d6f100294d4ab9c8}
       \strng{authorfullhash}{b19d1273e682e827d6f100294d4ab9c8}
-      \strng{authorfullhashraw}{b19d1273e682e827d6f100294d4ab9c8}
       \field{extraname}{8}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -2368,7 +2276,7 @@
       \endverb
       \keyw{article}
     \endentry
-    \entry{ubilava2011jare}{article}{}{}
+    \entry{ubilava2011jare}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
            family={Ubilava},
@@ -2397,12 +2305,10 @@
       }
       \strng{namehash}{c47a26e60eabaf94cab35095f5229f01}
       \strng{fullhash}{8901a37d1a54eb29800b2b39c54762d7}
-      \strng{fullhashraw}{8901a37d1a54eb29800b2b39c54762d7}
       \strng{bibnamehash}{8901a37d1a54eb29800b2b39c54762d7}
       \strng{authorbibnamehash}{8901a37d1a54eb29800b2b39c54762d7}
       \strng{authornamehash}{c47a26e60eabaf94cab35095f5229f01}
       \strng{authorfullhash}{8901a37d1a54eb29800b2b39c54762d7}
-      \strng{authorfullhashraw}{8901a37d1a54eb29800b2b39c54762d7}
       \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -2427,7 +2333,7 @@
       \endverb
       \keyw{article}
     \endentry
-    \entry{ubilava2011jcb}{article}{}{}
+    \entry{ubilava2011jcb}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
            family={Ubilava},
@@ -2459,12 +2365,10 @@
       }
       \strng{namehash}{c47a26e60eabaf94cab35095f5229f01}
       \strng{fullhash}{bb166c34cafe80e1b350c2a9bbd7ac7e}
-      \strng{fullhashraw}{bb166c34cafe80e1b350c2a9bbd7ac7e}
       \strng{bibnamehash}{bb166c34cafe80e1b350c2a9bbd7ac7e}
       \strng{authorbibnamehash}{bb166c34cafe80e1b350c2a9bbd7ac7e}
       \strng{authornamehash}{c47a26e60eabaf94cab35095f5229f01}
       \strng{authorfullhash}{bb166c34cafe80e1b350c2a9bbd7ac7e}
-      \strng{authorfullhashraw}{bb166c34cafe80e1b350c2a9bbd7ac7e}
       \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -2489,7 +2393,7 @@
       \endverb
       \keyw{article}
     \endentry
-    \entry{ubilava2010tfsc}{article}{}{}
+    \entry{ubilava2010tfsc}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
            family={Ubilava},
@@ -2521,12 +2425,10 @@
       }
       \strng{namehash}{c47a26e60eabaf94cab35095f5229f01}
       \strng{fullhash}{bb166c34cafe80e1b350c2a9bbd7ac7e}
-      \strng{fullhashraw}{bb166c34cafe80e1b350c2a9bbd7ac7e}
       \strng{bibnamehash}{bb166c34cafe80e1b350c2a9bbd7ac7e}
       \strng{authorbibnamehash}{bb166c34cafe80e1b350c2a9bbd7ac7e}
       \strng{authornamehash}{c47a26e60eabaf94cab35095f5229f01}
       \strng{authorfullhash}{bb166c34cafe80e1b350c2a9bbd7ac7e}
-      \strng{authorfullhashraw}{bb166c34cafe80e1b350c2a9bbd7ac7e}
       \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -2550,7 +2452,7 @@
       \endverb
       \keyw{article}
     \endentry
-    \entry{ubilava2009fp}{article}{}{}
+    \entry{ubilava2009fp}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
            family={Ubilava},
@@ -2570,12 +2472,10 @@
       }
       \strng{namehash}{bab269e02a66a90e8f3aec98ab237afb}
       \strng{fullhash}{bab269e02a66a90e8f3aec98ab237afb}
-      \strng{fullhashraw}{bab269e02a66a90e8f3aec98ab237afb}
       \strng{bibnamehash}{bab269e02a66a90e8f3aec98ab237afb}
       \strng{authorbibnamehash}{bab269e02a66a90e8f3aec98ab237afb}
       \strng{authornamehash}{bab269e02a66a90e8f3aec98ab237afb}
       \strng{authorfullhash}{bab269e02a66a90e8f3aec98ab237afb}
-      \strng{authorfullhashraw}{bab269e02a66a90e8f3aec98ab237afb}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -2602,8 +2502,8 @@
 \endrefsection
 
 \refsection{2}
-  \datalist[entry]{none/global//global/global/global}
-    \entry{meat_resilience}{misc}{}{}
+  \datalist[entry]{none/global//global/global}
+    \entry{meat_resilience}{misc}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=a7cb1bf33529c15027c2aac7b391c182}{%
            family={Richards},
@@ -2626,12 +2526,10 @@
       }
       \strng{namehash}{77bcbd0ff98ad5aa0d5cfc208746db21}
       \strng{fullhash}{77bcbd0ff98ad5aa0d5cfc208746db21}
-      \strng{fullhashraw}{77bcbd0ff98ad5aa0d5cfc208746db21}
       \strng{bibnamehash}{77bcbd0ff98ad5aa0d5cfc208746db21}
       \strng{authorbibnamehash}{77bcbd0ff98ad5aa0d5cfc208746db21}
       \strng{authornamehash}{77bcbd0ff98ad5aa0d5cfc208746db21}
       \strng{authorfullhash}{77bcbd0ff98ad5aa0d5cfc208746db21}
-      \strng{authorfullhashraw}{77bcbd0ff98ad5aa0d5cfc208746db21}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{extradatescope}{labelyear}
@@ -2643,7 +2541,7 @@
       \true{nocite}
       \keyw{progress}
     \endentry
-    \entry{prices_protests}{misc}{}{}
+    \entry{prices_protests}{misc}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=ce44f670f0348fc6856f1e2d536c5330}{%
            family={Humphreys},
@@ -2660,12 +2558,10 @@
       }
       \strng{namehash}{162dadf3bba46aad78eecf856d366e2c}
       \strng{fullhash}{162dadf3bba46aad78eecf856d366e2c}
-      \strng{fullhashraw}{162dadf3bba46aad78eecf856d366e2c}
       \strng{bibnamehash}{162dadf3bba46aad78eecf856d366e2c}
       \strng{authorbibnamehash}{162dadf3bba46aad78eecf856d366e2c}
       \strng{authornamehash}{162dadf3bba46aad78eecf856d366e2c}
       \strng{authorfullhash}{162dadf3bba46aad78eecf856d366e2c}
-      \strng{authorfullhashraw}{162dadf3bba46aad78eecf856d366e2c}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -2677,7 +2573,7 @@
       \true{nocite}
       \keyw{progress}
     \endentry
-    \entry{missions_misaligned}{misc}{}{}
+    \entry{missions_misaligned}{misc}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=e5d4931432853be6ed7bed8f866e342e}{%
            family={Amarasinghe},
@@ -2700,12 +2596,10 @@
       }
       \strng{namehash}{39cf57b54d09ba6be22871860d114309}
       \strng{fullhash}{39cf57b54d09ba6be22871860d114309}
-      \strng{fullhashraw}{39cf57b54d09ba6be22871860d114309}
       \strng{bibnamehash}{39cf57b54d09ba6be22871860d114309}
       \strng{authorbibnamehash}{39cf57b54d09ba6be22871860d114309}
       \strng{authornamehash}{39cf57b54d09ba6be22871860d114309}
       \strng{authorfullhash}{39cf57b54d09ba6be22871860d114309}
-      \strng{authorfullhashraw}{39cf57b54d09ba6be22871860d114309}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{extradatescope}{labelyear}
