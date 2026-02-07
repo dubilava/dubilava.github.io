@@ -2,7 +2,7 @@
 title: "About Me"
 ---
 
-```{r include=FALSE}
+```{r echo=FALSE, message=FALSE, warning=FALSE}
 
 library(data.table)
 
@@ -10,10 +10,13 @@ library(scholar)
 
 google_id <- "VbNOr6wAAAAJ"
 
-google_citations <- get_citation_history(google_id)
+prof <- tryCatch(
+  get_profile(google_id),
+  error = function(e) NULL
+)
 
-google_cites <- get_profile(google_id)$total_cites
-google_index <- get_profile(google_id)$h_index
+google_cites <- if (!is.null(prof)) prof$total_cites else NA_integer_
+google_index <- if (!is.null(prof)) prof$h_index else NA_integer_
 
 # library(rscopus)
 # 
@@ -44,6 +47,13 @@ Associate Professor of [Economics](https://www.sydney.edu.au/arts/schools/school
 E-Mail: [david.ubilava&#64;sydney.edu.au](mailto:david.ubilava@sydney.edu.au)
 
 Twitter: [&#64;DavidUbilava](https://twitter.com/DavidUbilava)
+
+<a href="https://scholar.google.com/citations?user=VbNOr6wAAAAJ&hl=en"
+   target="_blank" rel="noopener"
+   title="Google Scholar">
+  <img src="icons/google-scholar.svg" alt="Google Scholar" width="24">
+</a>
+
 
 </div>
   
