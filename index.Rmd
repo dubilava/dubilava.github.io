@@ -48,13 +48,6 @@ E-Mail: [david.ubilava&#64;sydney.edu.au](mailto:david.ubilava@sydney.edu.au)
 
 Twitter: [&#64;DavidUbilava](https://twitter.com/DavidUbilava)
 
-<a href="https://scholar.google.com/citations?user=VbNOr6wAAAAJ&hl=en"
-   target="_blank" rel="noopener"
-   title="Google Scholar">
-  <img src="icons/google-scholar.svg" alt="Google Scholar" width="24">
-</a>
-
-
 </div>
   
 <div class = "col-md-7">
@@ -69,7 +62,7 @@ For my research, I have received the *Research Collaboration Award* from the Fac
 
 For my teaching, I have received the *Faculty of Arts and Social Sciences Teaching Excellence Award* in 2017.
 
-I currently serve as an associate editor of the *American Journal of Agricultural Economics* (from 2022), and as a co-editor of *Food Policy* (from 2018). Previously, I served as an associate editor of the *Australian Journal of Agricultural and Resource Economics* (from 2020 to 2021).
+I currently serve as a co-editor-in-chief of *Food Policy* (from 2026), where I served as a co-editor (from 2018 to 2025). Previously, I also served as an associate editor of the *American Journal of Agricultural Economics* (from 2022 to 2025), and an associate editor of the *Australian Journal of Agricultural and Resource Economics* (from 2020 to 2021).
 
 I co-organize [Social Conflict and Political Economy (SCoPE)](https://sydneyscope.org/) workshop series.
 
