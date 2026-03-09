@@ -10,10 +10,13 @@ library(scholar)
 
 google_id <- "VbNOr6wAAAAJ"
 
-google_citations <- get_citation_history(google_id)
+prof <- tryCatch(
+  get_profile(google_id),
+  error = function(e) NULL
+)
 
-google_cites <- get_profile(google_id)$total_cites
-google_index <- get_profile(google_id)$h_index
+google_cites <- if (!is.null(prof)) prof$total_cites else NA_integer_
+google_index <- if (!is.null(prof)) prof$h_index else NA_integer_
 
 # library(rscopus)
 # 
@@ -48,12 +51,11 @@ google_index <- get_profile(google_id)$h_index
 ## Current Appointments
 
 - Associate Professor -- [School of Economics, University of Sydney](https://www.sydney.edu.au/arts/schools/school-of-economics.html) (2023--)
-- Co-Editor -- [Food Policy](https://www.journals.elsevier.com/food-policy) (2018--)
-- Associate Editor -- [American Journal of Agricultural Economics](https://onlinelibrary.wiley.com/journal/14678276) (2022--)
-
+- Co-Editor-in-Chief -- [Food Policy](https://www.journals.elsevier.com/food-policy) (2026--); Co-Editor (2018--2025)
 
 ## Previous Appointments
 
+- Associate Editor -- [American Journal of Agricultural Economics](https://onlinelibrary.wiley.com/journal/14678276) (2022--2025)
 - Associate Editor -- [Australian Journal of Agricultural and Resource Economics](https://onlinelibrary.wiley.com/journal/14678489) (2020--2021)
 - Senior Lecturer -- School of Economics, University of Sydney (2017--2022)
 - Lecturer -- School of Economics, University of Sydney (2014--2016)

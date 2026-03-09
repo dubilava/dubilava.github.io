@@ -55,7 +55,7 @@ title: "Research"
 </div>
 </div>
 
-[18]\ Atalay, K., R. Edwards, S. Schurer, and D. Ubilava (2021). [Lives Saved During Economic Downturns: Evidence from Australia](https://doi.org/10.1002/hec.4394){target="_blank"}. *Heath Economics 30(10)*, 2452-2467. [Working Paper](https://www.iza.org/publications/dp/13742/lives-saved-during-economic-downturns-evidence-from-australia){target="_blank"}. Media coverage: [Vox EU](https://voxeu.org/article/lives-saved-during-economic-downturns){target="_blank"}, [The Conversation](https://theconversation.com/so-you-think-economic-downturns-cost-lives-our-findings-show-they-dont-149711){target="_blank"}
+[18]\ Atalay, K., R. Edwards, S. Schurer, and D. Ubilava (2021). [Lives Saved During Economic Downturns: Evidence from Australia](https://doi.org/10.1002/hec.4394){target="_blank"}. *Health Economics 30(10)*, 2452-2467. [Working Paper](https://www.iza.org/publications/dp/13742/lives-saved-during-economic-downturns-evidence-from-australia){target="_blank"}. Media coverage: [Vox EU](https://voxeu.org/article/lives-saved-during-economic-downturns){target="_blank"}, [The Conversation](https://theconversation.com/so-you-think-economic-downturns-cost-lives-our-findings-show-they-dont-149711){target="_blank"}
 
 [17]\ Ubilava, D., N.B. Villoria, and J.B. Tack (2019). [Smooth Transitions Across Latitudes and Longitudes: An Application of a Nonlinear Panel Regression to the Climate–Economics Nexus](https://doi.org/10.1016/j.econlet.2019.06.011){target="_blank"}. *Economics Letters 182*, 114-117.
 
@@ -73,7 +73,7 @@ title: "Research"
 
 [10]\ Ubilava, D. (2014). [El Nino Southern Oscillation and the Fishmeal--Soya Bean Meal Price Ratio: Regime-Dependent Dynamics Revisited](https://doi.org/10.1093/erae/jbt033){target="_blank"}. *European Review of Agricultural Economics 41(4)*, 583-604.
 
-[9]\ Tack, J.B. and D. Ubilava (2013). [The Effect of El Nin}o Southern Oscillation on U.S. Corn Production and Downside Risk](https://link.springer.com/article/10.1007/s10584-013-0918-x){target="_blank"}. *Climatic Change 121(4)*, 689-700.
+[9]\ Tack, J.B. and D. Ubilava (2013). [The Effect of El Niño Southern Oscillation on U.S. Corn Production and Downside Risk](https://link.springer.com/article/10.1007/s10584-013-0918-x){target="_blank"}. *Climatic Change 121(4)*, 689-700.
 
 [8]\ Ubilava, D. and C.G. Helmers (2013). [Forecasting ENSO with a Smooth Transition Autoregressive Model](https://doi.org/10.1016/j.envsoft.2012.09.008){target="_blank"}. *Environmental Modelling & Software 40(1)*, 181-190.
 
@@ -87,7 +87,7 @@ title: "Research"
 
 [3]\ Ubilava, D., K.A. Foster, J.L. Lusk, and T. Nilsson (2011). [Differences in Consumer Preferences when Facing Branded versus Non-branded Choices](https://doi.org/10.1002/cb.349){target="_blank"}. *Journal of Consumer Behaviour 10(2)*, 61-70.
 
-[2]\ Ubilava, D., K.A. Foster, J.L. Lusk, and T. Nilsson (2010). [Effects of Income and Social Awareness on Consumer WTP for Social Product Attributes](https://doi.org/10.1016/j.techfore.2009.02.002){target="_blank"}. *Technological Forecasting and Social Change 77(4)*, 587-593. .
+[2]\ Ubilava, D., K.A. Foster, J.L. Lusk, and T. Nilsson (2010). [Effects of Income and Social Awareness on Consumer WTP for Social Product Attributes](https://doi.org/10.1016/j.techfore.2009.02.002){target="_blank"}. *Technological Forecasting and Social Change 77(4)*, 587-593.
 
 [1]\ Ubilava, D. and K.A. Foster (2009). [Quality Certification vs. Product Traceability: Consumer Preferences for Informational Attributes of Pork in Georgia](https://doi.org/10.1016/j.foodpol.2009.02.002){target="_blank"}. *Food Policy 34(3)*, 305-310.
 

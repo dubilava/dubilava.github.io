@@ -17,11 +17,11 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 library(vitae)
 ```
 
-# Some stuff about me
+# Professional Summary
 
- * I poisoned myself doing research.
- * I was the first woman to win a Nobel prize
- * I was the first person and only woman to win a Nobel prize in two different sciences.
+ * Applied economist; research in food and agricultural markets, climate, and conflict.
+ * Associate Professor, School of Economics, University of Sydney.
+ * Co-Editor-in-Chief, *Food Policy*; past Associate Editor, *American Journal of Agricultural Economics*.
 
 # Education
 
@@ -36,16 +36,17 @@ tribble(
   detailed_entries(Degree, Year, Institution, Where)
 ```
 
-# Nobel Prizes
+# Awards and Service
 
 ```{r}
 tribble(
   ~Year, ~Type, ~Desc,
-  1903, "Physics", "Awarded for her work on radioactivity with Pierre Curie and Henri Becquerel",
-  1911, "Chemistry", "Awarded for the discovery of radium and polonium"
+  2025, "Award", "Quality of Research Discovery Award, Australasian Agricultural and Resource Economics Society",
+  2024, "Award", "Research Collaboration Award, Faculty of Arts and Social Sciences",
+  2017, "Award", "Faculty of Arts and Social Sciences Teaching Excellence Award"
 ) %>%
   brief_entries(
-    glue::glue("Nobel Prize in {Type}"),
+    Type,
     Year,
     Desc
   )
