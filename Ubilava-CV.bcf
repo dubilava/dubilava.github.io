@@ -2360,14 +2360,12 @@
   <!-- SECTION 0 -->
   <bcf:bibdata section="0">
     <bcf:datasource type="file" datatype="bibtex" glob="false">research.bib</bcf:datasource>
-    <bcf:datasource type="file" datatype="bibtex" glob="false">research.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
     <bcf:citekey order="1" intorder="1" nocite="1">*</bcf:citekey>
   </bcf:section>
   <!-- SECTION 1 -->
   <bcf:bibdata section="1">
-    <bcf:datasource type="file" datatype="bibtex" glob="false">research.bib</bcf:datasource>
     <bcf:datasource type="file" datatype="bibtex" glob="false">research.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="1">
@@ -2403,12 +2401,12 @@
   <!-- SECTION 2 -->
   <bcf:bibdata section="2">
     <bcf:datasource type="file" datatype="bibtex" glob="false">research.bib</bcf:datasource>
-    <bcf:datasource type="file" datatype="bibtex" glob="false">research.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="2">
     <bcf:citekey order="1" intorder="2" nocite="1">meat_resilience</bcf:citekey>
     <bcf:citekey order="2" intorder="3" nocite="1">prices_protests</bcf:citekey>
     <bcf:citekey order="3" intorder="4" nocite="1">missions_misaligned</bcf:citekey>
+    <bcf:citekey order="4" intorder="5" nocite="1">aid_interrupted</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">

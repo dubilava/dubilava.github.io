@@ -1363,6 +1363,44 @@
       \true{nocite}
       \keyw{progress}
     \endentry
+    \entry{aid_interrupted}{misc}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=a1e824e0ccc22c20e04c88d5042672fb}{%
+           family={Tan},
+           familyi={T\bibinitperiod},
+           given={Annabelle},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e5d4931432853be6ed7bed8f866e342e}{%
+           family={Amarasinghe},
+           familyi={A\bibinitperiod},
+           given={Ashani},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
+           family={Ubilava},
+           familyi={U\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ad712e59c2f8261e01f596a35634895e}
+      \strng{fullhash}{ad712e59c2f8261e01f596a35634895e}
+      \strng{bibnamehash}{ad712e59c2f8261e01f596a35634895e}
+      \strng{authorbibnamehash}{ad712e59c2f8261e01f596a35634895e}
+      \strng{authornamehash}{ad712e59c2f8261e01f596a35634895e}
+      \strng{authorfullhash}{ad712e59c2f8261e01f596a35634895e}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Aid, Interrupted: Conflict Dynamics Following the USAID Suspension in Africa}}
+      \field{year}{under review}
+      \true{nocite}
+      \keyw{progress}
+    \endentry
   \enddatalist
 \endrefsection
 
@@ -2608,6 +2646,44 @@
       \field{labeltitlesource}{title}
       \field{title}{{Missions Misaligned: Colonial Legacies of Climate--Induced Conflict in Africa}}
       \field{year}{in preparation}
+      \true{nocite}
+      \keyw{progress}
+    \endentry
+    \entry{aid_interrupted}{misc}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=a1e824e0ccc22c20e04c88d5042672fb}{%
+           family={Tan},
+           familyi={T\bibinitperiod},
+           given={Annabelle},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e5d4931432853be6ed7bed8f866e342e}{%
+           family={Amarasinghe},
+           familyi={A\bibinitperiod},
+           given={Ashani},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b19d1273e682e827d6f100294d4ab9c8}{%
+           family={Ubilava},
+           familyi={U\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ad712e59c2f8261e01f596a35634895e}
+      \strng{fullhash}{ad712e59c2f8261e01f596a35634895e}
+      \strng{bibnamehash}{ad712e59c2f8261e01f596a35634895e}
+      \strng{authorbibnamehash}{ad712e59c2f8261e01f596a35634895e}
+      \strng{authornamehash}{ad712e59c2f8261e01f596a35634895e}
+      \strng{authorfullhash}{ad712e59c2f8261e01f596a35634895e}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Aid, Interrupted: Conflict Dynamics Following the USAID Suspension in Africa}}
+      \field{year}{under review}
       \true{nocite}
       \keyw{progress}
     \endentry

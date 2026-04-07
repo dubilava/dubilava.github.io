@@ -49,13 +49,36 @@ pdfkeywords={climate econometrics,commodity price analysis,nonlinear econometric
 
 % HEADINGS
 \usepackage[compact]{titlesec}
+\usepackage[normalem]{ulem}
+
+% spacing
 \titlespacing*{\section}
 {-66pt}{14pt plus 6pt minus 2pt}{8pt plus 6pt minus 2pt}
+
 \titlespacing*{\subsection}
 {-28pt}{10pt plus 6pt minus 2pt}{8pt plus 6pt minus 2pt}
 
-\sectionfont{\sc\Large}
-\subsectionfont{\bfseries\large}
+\titlespacing*{\subsubsection}
+{0pt}{8pt plus 4pt minus 2pt}{4pt}
+
+% styles
+\titleformat{\section}
+{\scshape\Large}
+{\thesection}
+{1em}
+{}
+
+\titleformat{\subsection}
+{\bfseries\large}
+{\thesubsection}
+{1em}
+{}
+
+\titleformat{\subsubsection}
+{\bfseries\normalsize}
+{\thesubsubsection}
+{1em}
+{\uline}
 
 % MISC TWEAKS AND TWISTS
 \usepackage{ragged2e}
