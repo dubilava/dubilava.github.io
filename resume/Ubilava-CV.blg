@@ -1,0 +1,42 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'Ubilava-CV.blg'
+[116] biber-MSWIN64:340> INFO - === 
+[160] Biber.pm:419> INFO - Reading 'Ubilava-CV.bcf'
+[240] Biber.pm:976> INFO - Using all citekeys in bib section 0
+[241] Biber.pm:979> INFO - Found 25 citekeys in bib section 1
+[241] Biber.pm:976> INFO - Using all citekeys in bib section 0
+[241] Biber.pm:979> INFO - Found 4 citekeys in bib section 2
+[241] Biber.pm:976> INFO - Using all citekeys in bib section 0
+[255] Biber.pm:4419> INFO - Processing section 0
+[264] Biber.pm:4610> INFO - Looking for bibtex file 'research.bib' for section 0
+[326] bibtex.pm:1713> INFO - LaTeX decoding ...
+[352] bibtex.pm:1519> INFO - Found BibTeX data source 'research.bib'
+[454] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[454] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[454] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[454] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[471] Biber.pm:4419> INFO - Processing section 1
+[471] Biber.pm:4610> INFO - Looking for bibtex file 'research.bib' for section 1
+[571] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[572] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[572] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[572] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[581] Biber.pm:4419> INFO - Processing section 2
+[582] Biber.pm:4610> INFO - Looking for bibtex file 'research.bib' for section 2
+[628] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[628] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[628] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[628] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[630] bbl.pm:660> INFO - Writing 'Ubilava-CV.bbl' with encoding 'UTF-8'
+[656] bbl.pm:763> INFO - Output to Ubilava-CV.bbl
+[657] Biber.pm:131> WARN - legacy year field 'under review' in entry 'aid_interrupted' is not an integer - this will probably not sort properly.
+[657] Biber.pm:131> WARN - legacy year field 'in preparation' in entry 'roads_riots' is not an integer - this will probably not sort properly.
+[657] Biber.pm:131> WARN - legacy year field 'in preparation' in entry 'meat_resilience' is not an integer - this will probably not sort properly.
+[657] Biber.pm:131> WARN - legacy year field 'in preparation' in entry 'missions_misaligned' is not an integer - this will probably not sort properly.
+[657] Biber.pm:131> WARN - legacy year field 'in preparation' in entry 'hastings_korea' is not an integer - this will probably not sort properly.
+[657] Biber.pm:131> WARN - legacy year field 'in preparation' in entry 'prices_protests' is not an integer - this will probably not sort properly.
+[657] Biber.pm:131> WARN - legacy year field 'in preparation' in entry 'meat_resilience' is not an integer - this will probably not sort properly.
+[657] Biber.pm:131> WARN - legacy year field 'in preparation' in entry 'prices_protests' is not an integer - this will probably not sort properly.
+[657] Biber.pm:131> WARN - legacy year field 'in preparation' in entry 'missions_misaligned' is not an integer - this will probably not sort properly.
+[657] Biber.pm:131> WARN - legacy year field 'under review' in entry 'aid_interrupted' is not an integer - this will probably not sort properly.
+[657] Biber.pm:133> INFO - WARNINGS: 10

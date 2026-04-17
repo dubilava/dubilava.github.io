@@ -1,0 +1,144 @@
+% Resume style file
+% Parts of this style file are borrowed and modified from Rob J Hyndman's original file available at http://robjhyndman.com/research/cv.sty
+
+\usepackage[sorting=none,bibstyle=authoryear,maxbibnames=99,giveninits=true,defernumbers=true,uniquename=init,natbib=true,dashed=false,backend=biber]{biblatex}
+
+\usepackage{amsmath,graphicx,microtype,siunitx,booktabs}
+\usepackage{sectsty,setspace,ae,aecompl,endnotes}
+\usepackage{lmodern}
+\usepackage[T1,OT1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{dsfont}
+\usepackage{enumitem,color}
+\usepackage[english]{babel}% Recommended
+\usepackage{csquotes}% Recommended
+\usepackage{lastpage}
+\usepackage{geometry} 
+\geometry{letterpaper,margin=1.5in,right=0.75in,top=1.0in,bottom=1.0in}
+\setlength\parindent{0in}
+\usepackage{etoolbox}
+\usepackage{marginnote}
+
+\definecolor{indianred}{rgb}{0.8, 0.36, 0.36}
+\definecolor{alizarin}{rgb}{0.82, 0.1, 0.26}
+
+\usepackage[pdftitle={David Ubilava - Curriculum Vitae},pdfauthor={David Ubilava}, 
+pdfkeywords={climate econometrics,commodity price analysis,nonlinear econometric modeling and forecasting},pdfdisplaydoctitle=true,colorlinks=true,linkcolor=black,citecolor=black,filecolor=black,urlcolor=alizarin,pdfpagemode=UseNone,pdfstartview=FitH]{hyperref}
+
+\usepackage{cleveref}
+
+% HEADER AND FOOTER
+\usepackage{datetime}
+\newdateformat{monthyear}{\monthname~\THEYEAR}
+\usepackage{fancyhdr}
+\lhead{}
+\chead{}
+\rhead{}
+\lfoot{\small\texttt{David Ubilava}}
+\cfoot{\small\texttt{\monthyear\today}}
+\rfoot{\small\texttt{Page \thepage\ of \pageref{LastPage}}}
+\renewcommand{\headrulewidth}{0.0pt}
+\renewcommand{\footrulewidth}{0.0pt}
+
+% YEARS
+\newcommand{\years}[1]{\marginnote{\small{#1}}}
+\renewcommand*{\raggedleftmarginnote}{}
+\setlength{\marginparsep}{-2pt}
+\reversemarginpar
+
+% HEADINGS
+\usepackage[compact]{titlesec}
+\titlespacing*{\section}
+{-66pt}{14pt plus 6pt minus 2pt}{8pt plus 6pt minus 2pt}
+\titlespacing*{\subsection}
+{-28pt}{10pt plus 6pt minus 2pt}{8pt plus 6pt minus 2pt}
+
+\sectionfont{\sc\Large}
+\subsectionfont{\bfseries\large}
+
+% MISC TWEAKS AND TWISTS
+\usepackage{ragged2e}
+\RaggedRight
+
+\renewenvironment{itemize}{
+	\begin{list}{}{
+			\setlength{\leftmargin}{0pt}
+			\setlength{\itemsep}{0pt}
+			\setlength{\parskip}{0pt}
+			\setlength{\parsep}{6pt}
+		}
+	}{\end{list}}
+
+\DeclareFieldFormat[article]{pages}{{#1}}
+\DeclareFieldFormat[article]{volume}{{#1}}
+\DeclareFieldFormat[article]{number}{(#1)}
+\DeclareFieldFormat[article]{title}{\MakeCapital{#1}}
+\DeclareFieldFormat[misc]{month}{{#1}}
+\DeclareFieldFormat{url}{\url{#1}}
+\DeclareFieldFormat[inproceedings]{title}{#1}
+\DeclareFieldFormat[inproceedings]{pages}{\lowercase{pp.}#1}
+\DeclareFieldFormat[incollection]{pages}{\lowercase{pp.}#1}
+\DeclareFieldFormat{labelnumberwidth}{\mkbibparens{#1}}
+\DeclareFieldFormat{shorthandwidth}{\mkbibparens{#1}}
+
+\defbibenvironment{bibliography}
+{\list
+	{\printtext[labelnumberwidth]{%
+			\printfield{labelprefix}%
+			\printfield{labelnumber}}}
+	{\setlength{\labelwidth}{\labelnumberwidth}%
+		\setlength{\leftmargin}{-12pt}%
+		\setlength{\labelsep}{\biblabelsep}%
+		\addtolength{\leftmargin}{\labelsep}%
+		\setlength{\itemsep}{\bibitemsep}%
+		\setlength{\parsep}{\bibparsep}}%
+	\renewcommand*{\makelabel}[1]{\hss##1}}
+{\endlist}
+{\item}
+
+\usepackage{xpatch}
+% No dot before number of articles
+\xpatchbibmacro{volume+number+eid}{\setunit*{\adddot}}{}{}{}
+% Remove In: for an article.
+\renewbibmacro{in:}{%
+	\ifentrytype{article}{}{%
+		\printtext{\bibstring{in}\intitlepunct}}}
+
+% Defining bibliography categories
+\def\makebibcategory#1#2{\DeclareBibliographyCategory{#1}\defbibheading{#1}{\subsection*{#2}}}
+
+%\makebibcategory{articles}{}
+
+\setlength{\bibitemsep}{4pt}
+\setlength{\bibhang}{0pt}
+\renewcommand{\bibfont}{\small}
+
+% Numbering in reverse order
+\AtDataInput{%
+	\csnumgdef{entrycount:\therefsection}{%
+		\csuse{entrycount:\therefsection}+1}}
+
+\DeclareFieldFormat{labelnumber}{\mkbibdesc{#1}}    
+\newrobustcmd*{\mkbibdesc}[1]{%
+	\number\numexpr\csuse{entrycount:\therefsection}+1-#1\relax}
+
+% No numbers for work in progress (I think)
+\defbibenvironment{nodis}
+{\itemize
+	{}
+	{\setlength{\leftmargin}{\labelwidth}%
+		\setlength{\labelsep}{\biblabelsep}%
+		\setlength{\itemindent}{-\leftmargin}%
+		\setlength{\itemsep}{\bibitemsep}%
+		\setlength{\parsep}{\bibparsep}}}
+{\enditemize}
+{\clearfield{extrayear}\item}
+
+% Supress letters for works by the same authors in the same year
+\makeatletter
+\AtEveryBibitem{%
+	\global\undef\bbx@lasthash%
+	\clearfield{extradate}}
+\makeatother
+
+\nocite{*}

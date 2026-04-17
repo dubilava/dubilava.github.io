@@ -19,7 +19,7 @@ google_index <- if (!is.null(prof)) prof$h_index else NA_integer_
 
 ```
 
-[Resume (pdf)](https://dubilava.github.io/Ubilava-CV.pdf){target="_blank"}
+[Resume (pdf)](https://dubilava.github.io/resume/Ubilava-CV.pdf){target="_blank"}
 
 ## Research Areas
 
