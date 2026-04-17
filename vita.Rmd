@@ -14,8 +14,8 @@ prof <- tryCatch(
   error = function(e) NULL
 )
 
-google_cites <- if (!is.null(prof)) prof$total_cites else NA_integer_
-google_index <- if (!is.null(prof)) prof$h_index else NA_integer_
+google_cites <- if (!is.null(prof) && !is.na(prof$total_cites)) as.character(prof$total_cites) else "Unavailable"
+google_index <- if (!is.null(prof) && !is.na(prof$h_index)) as.character(prof$h_index) else "Unavailable"
 
 ```
 
