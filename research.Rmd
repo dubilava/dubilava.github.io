@@ -22,40 +22,13 @@ title: "Research"
 
 [23]\ Ubilava, D., Hastings, J.V., and K. Atalay (2023). [Agricultural Windfalls and the Seasonality of Political Violence in Africa](https://onlinelibrary.wiley.com/doi/full/10.1111/ajae.12364){target="_blank"}. *American Journal of Agricultural Economics 105(5)*, 1309-1332. [Working Paper](https://arxiv.org/abs/2202.07863){target="_blank"}. [Data and Replication Material](https://github.com/dubilava/conflict){target="_blank"}. [Slides](https://dubilava.github.io/conflict/presentation.html){target="_blank"}. Media coverage: [Vox EU](https://voxeu.org/article/rising-cereal-prices-and-political-violence-croplands-africa){target="_blank"}.
 
-<div class = "row">
-<div class = "col-md-4">
-![](papers/conflict.png)
-</div>
-<div class = "col-md-8">
-*When the prices of cereal grains rise, social unrest and conflict become likely. In rural areas, the predation motives of perpetrators can explain the positive relationship between prices and conflict. Predation happens at places and in periods where and when spoils to be appropriated are available. In predominantly agrarian societies, such opportune times align with the harvest season. Does the seasonality of agricultural income lead to the seasonality of conflict? We address this question by analyzing over 55 thousand incidents involving violence against civilians staged by paramilitary groups across Africa during the 1997–2020 period. We investigate the crop year pattern of violence in response to agricultural income shocks via changes in international cereal prices. We find that a year-on-year one standard deviation annual growth of the price of the major cereal grain results in a harvest-time spike in violence by militias in areas where this cereal grain is grown. This translates to a nearly ten percent increase in violence during the early postharvest season. We observe no such change in violence by state forces or rebel groups—the other two notable actors. By further investigating the mechanisms, we show that the violence by militias is amplified after plausibly rich harvest seasons when the value of spoils to be appropriated is higher. By focusing on harvest-related seasonality of conflict, as well as actors more likely to be involved in violence against civilians, we contribute to the growing literature on the economic causes of conflict in predominantly agrarian societies.*
-</div>
-</div>
-
 [22]\ Ferguson, S., and D. Ubilava (2022). [Global Commodity Market Disruption and the Fallout](https://doi.org/10.1111/1467-8489.12497){target="_blank"}. *Australian Journal of Agricultural and Resource Economics 66(4)*, 737-752.
 
 [21]\ Ubilava, D. (2022). [A Comparison of Multistep Commodity Price Forecasts Using Direct and Iterated Smooth Transition Autoregressive Methods](https://doi.org/10.1111/agec.12707){target="_blank"}. *Agricultural Economics 53(5)*, 687-701.
 
 [20]\ Hastings, J.V., S.G. Phillips, Ubilava, D., and A. Vasnev (2022). [Price Transmission in Conflict--Affected States: Evidence from Cereal Markets of Somalia](https://doi.org/10.1093/jae/ejab012){target="_blank"}. *Journal of African Economies 31(3)*, 272-291. [Working Paper](https://ideas.repec.org/p/syd/wpaper/2020-16.html){target="_blank"}. [Data and Replication Material](https://github.com/dubilava/somalia){target="_blank"}.
 
-<div class = "row">
-<div class = "col-md-4">
-![](papers/somalia.png)
-</div>
-<div class = "col-md-8">
-*How integrated are agricultural markets in conflict-affected states? We answer this question by examining the dynamics of monthly price series of rice, maize, and sorghum across eleven cities (markets) of Somalia. Using conflict as a source of transaction costs between spatially connected markets, we examine its role in price transmission between the markets in a panel smooth transition regression framework. We find that in the case of rice—an imported cereal grain—conflict tends to reduce the speed of price transmission between markets. By contrast, we find no evidence of conflict-related transaction costs in the case of maize and sorghum—commodities that are locally produced, particularly in the central and southern parts of Somalia. In all instances, we find that there is some degree of spatial integration among cereal markets around the country, perhaps partly due to informal institutions that can bridge the divides created by conflict, distance, and internal political fragmentation. These findings add crucial detail to the literature concerned with the role of commodity prices on poverty and food security in conflict-affected states.*
-</div>
-</div>
-
 [19]\ Angus, S.D., K. Atalay, J. Newton, and D. Ubilava (2021). [Geographic Diversity in Economic Publishing](https://doi.org/10.1016/j.jebo.2021.08.005){target="_blank"}. *Journal of Economic Behavior and Organization 190*, 255-262. [Working Paper](https://dx.doi.org/10.2139/ssrn.3697906){target="_blank"}. [Data and Replication Material](https://github.com/specialistgeneralist/geodiverse){target="_blank"}. [Dedicated Twitter Account](https://twitter.com/geo_diverse){target="_blank"}. Media coverage: [Vox EU](https://voxeu.org/article/geographic-diversity-economics-journals-editorial-boards){target="_blank"}
-
-<div class = "row">
-<div class = "col-md-4">
-![](papers/geodiversity.png)
-</div>
-<div class = "col-md-8">
-*Is the representation of editors at prestigious economics journals geographically diverse? Using data on the affiliations of academics working in an editorial capacity at such journals, we map the locations of editorial power within the economics profession. This allows us to rank institutions according to this measure of power. Further, by considering the average distance of a journal's editorial affiliations from a geographic mean, we rank journals by geographic diversity. We find that power is concentrated in five geographical hubs and that most editorial teams are less geographically diverse and more North American than the authors they publish.*
-</div>
-</div>
 
 [18]\ Atalay, K., R. Edwards, S. Schurer, and D. Ubilava (2021). [Lives Saved During Economic Downturns: Evidence from Australia](https://doi.org/10.1002/hec.4394){target="_blank"}. *Health Economics 30(10)*, 2452-2467. [Working Paper](https://www.iza.org/publications/dp/13742/lives-saved-during-economic-downturns-evidence-from-australia){target="_blank"}. Media coverage: [Vox EU](https://voxeu.org/article/lives-saved-during-economic-downturns){target="_blank"}, [The Conversation](https://theconversation.com/so-you-think-economic-downturns-cost-lives-our-findings-show-they-dont-149711){target="_blank"}
 

@@ -5,3 +5,13 @@
 *.bak
 *.tmp
 *.knit.html
+resume/*.aux
+resume/*.bbl
+resume/*.bcf
+resume/*.blg
+resume/*.fdb_latexmk
+resume/*.fls
+resume/*.log
+resume/*.out
+resume/*.run.xml
+resume/*.synctex.gz
