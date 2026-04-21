@@ -28,10 +28,7 @@ jobs:
         uses: r-lib/actions/setup-pandoc@v2
 
       - name: Install R packages
-        run: |
-          options(repos = c(CRAN = "https://cloud.r-project.org"))
-          install.packages(c("rmarkdown", "scholar", "data.table"), Ncpus = 2)
-        shell: Rscript {0}
+        run: Rscript -e "install.packages(c('rmarkdown','scholar','data.table'), repos='https://cloud.r-project.org', Ncpus=2)"
 
       - name: Render site
         run: Rscript -e "rmarkdown::render_site()"
