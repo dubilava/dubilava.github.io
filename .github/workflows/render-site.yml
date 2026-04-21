@@ -28,7 +28,16 @@ jobs:
         uses: r-lib/actions/setup-pandoc@v2
 
       - name: Install R packages
-        run: Rscript -e "install.packages(c('rmarkdown','scholar','data.table'), repos='https://cloud.r-project.org', Ncpus=2)"
+        uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          cache-version: 1
+          extra-packages: |
+            any::rmarkdown
+            any::scholar
+            any::data.table
+
+      - name: Verify R packages
+        run: Rscript -e "library(rmarkdown); library(scholar); library(data.table)"
 
       - name: Render site
         run: Rscript -e "rmarkdown::render_site()"
