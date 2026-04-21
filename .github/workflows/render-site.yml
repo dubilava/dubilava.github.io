@@ -11,6 +11,7 @@ permissions:
 jobs:
   render-site:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
 
     steps:
       - name: Check out repository
@@ -27,12 +28,10 @@ jobs:
         uses: r-lib/actions/setup-pandoc@v2
 
       - name: Install R packages
-        uses: r-lib/actions/setup-r-dependencies@v2
-        with:
-          packages: |
-            any::rmarkdown
-            any::scholar
-            any::data.table
+        run: |
+          options(repos = c(CRAN = "https://cloud.r-project.org"))
+          install.packages(c("rmarkdown", "scholar", "data.table"), Ncpus = 2)
+        shell: Rscript {0}
 
       - name: Render site
         run: Rscript -e "rmarkdown::render_site()"
