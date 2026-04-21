@@ -4,7 +4,6 @@ title: "About Me"
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 library(data.table)
-
 library(scholar)
 
 google_id <- "VbNOr6wAAAAJ"
