@@ -21,7 +21,7 @@ google_index <- if (is.list(prof) && !is.null(prof$h_index) && !is.na(prof$h_ind
 <div class = "row">
   
 <div class = "col-md-5">
-![](profile/davidubilava.jpg)
+![](profile/profile_office.png)
 
 Associate Professor of [Economics](https://www.sydney.edu.au/arts/schools/school-of-economics.html){target="_blank"}, [University of Sydney](https://www.sydney.edu.au/){target="_blank"}
 
