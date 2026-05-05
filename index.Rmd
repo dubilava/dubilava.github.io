@@ -3,9 +3,7 @@ title: "About Me"
 ---
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
-
 library(data.table)
-
 library(scholar)
 
 google_id <- "VbNOr6wAAAAJ"
@@ -15,32 +13,15 @@ prof <- tryCatch(
   error = function(e) NULL
 )
 
-google_cites <- if (!is.null(prof)) prof$total_cites else NA_integer_
-google_index <- if (!is.null(prof)) prof$h_index else NA_integer_
-
-# library(rscopus)
-# 
-# scopus_api_key <- "e80184e9663a40189661cca2eb2a74d3"
-# set_api_key(scopus_api_key)
-# 
-# scopus_id <- "26421832000"
-# 
-# scopus_papers <- author_df(au_id=scopus_id)
-# 
-# scopus_citations <- data.table(cites=as.numeric(scopus_papers[,"citedby-count"]))
-# scopus_citations <- scopus_citations[order(-cites)]
-# scopus_citations$sums <- 1:nrow(scopus_citations)
-# 
-# scopus_cites <- sum(scopus_citations$cites)
-# 
-# scopus_index <- length(which(scopus_citations$sums<=scopus_citations$cites))
+google_cites <- if (is.list(prof) && !is.null(prof$total_cites) && !is.na(prof$total_cites)) as.character(prof$total_cites) else "Unavailable"
+google_index <- if (is.list(prof) && !is.null(prof$h_index) && !is.na(prof$h_index)) as.character(prof$h_index) else "Unavailable"
 
 ```
 
 <div class = "row">
   
 <div class = "col-md-5">
-![](davidubilava.jpg)
+![](profile/davidubilava.jpg)
 
 Associate Professor of [Economics](https://www.sydney.edu.au/arts/schools/school-of-economics.html){target="_blank"}, [University of Sydney](https://www.sydney.edu.au/){target="_blank"}
 
@@ -68,6 +49,7 @@ I co-organize [Social Conflict and Political Economy (SCoPE)](https://sydneyscop
 
 **Popular writing:**
 
+- [Fertiliser costs are soaring amid war in the Middle East. Will your grocery bill follow?](https://theconversation.com/fertiliser-costs-are-soaring-amid-war-in-the-middle-east-will-your-grocery-bill-follow-277511)
 - [Harvest season is also peak time for conflict in rural societies](https://sbi.sydney.edu.au/harvest-season-is-also-peak-time-for-conflict-in-rural-societies){target="_blank"}
 - [What this year’s El Niño means for wheat and global food supply](https://theconversation.com/what-this-years-el-nino-means-for-wheat-and-global-food-supply-209386){target="_blank"}
 - [Russia’s war on Ukraine is driving up wheat prices and threatens global supplies of bread, meat and eggs](https://theconversation.com/russias-war-on-ukraine-is-driving-up-wheat-prices-and-threatens-global-supplies-of-bread-meat-and-eggs-178879){target="_blank"}
