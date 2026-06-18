@@ -2,6 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
+.positai
 *.bak
 *.tmp
 *.knit.html
@@ -15,4 +16,8 @@ resume/*.log
 resume/*.out
 resume/*.run.xml
 resume/*.synctex.gz
+<<<<<<< HEAD
 .positai
+=======
+
+>>>>>>> 60f202178d571e55b329a163db8dd51736ae0e58
