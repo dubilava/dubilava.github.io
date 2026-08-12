@@ -1,5 +1,24 @@
-# dubilava.github.io
-personal website
+# davidubilava.com
+
+Personal academic website built with [Quarto](https://quarto.org/) and hosted
+with GitHub Pages.
+
+## Website preview
+
+Render the site into the repository root for GitHub Pages:
+
+```powershell
+quarto render
+```
+
+For a live local preview while editing:
+
+```powershell
+quarto preview
+```
+
+The generated HTML and supporting assets are committed alongside the Quarto
+source so GitHub Pages can serve the site directly from the `master` branch.
 
 ## Resume build
 

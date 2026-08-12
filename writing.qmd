@@ -1,0 +1,33 @@
+---
+title: "Writing & Talks"
+pagetitle: "Writing and Talks"
+---
+
+## Popular writing
+
+<ul class="link-list">
+  <li><a href="https://theconversation.com/what-a-strong-el-nino-could-mean-for-australian-communities-jobs-and-food-prices-285486">What a strong El Niño could mean for Australian communities, jobs and food prices</a><br><small><em>The Conversation</em>, June 2026 · with David A. Fleming-Muñoz</small></li>
+  <li><a href="https://theconversation.com/fertiliser-costs-are-soaring-amid-war-in-the-middle-east-will-your-grocery-bill-follow-277511">Fertiliser costs are soaring amid war in the Middle East. Will your grocery bill follow?</a><br><small><em>The Conversation</em></small></li>
+  <li><a href="https://sbi.sydney.edu.au/harvest-season-is-also-peak-time-for-conflict-in-rural-societies">Harvest season is also peak time for conflict in rural societies</a><br><small>Sydney Business Insights</small></li>
+  <li><a href="https://theconversation.com/what-this-years-el-nino-means-for-wheat-and-global-food-supply-209386">What this year’s El Niño means for wheat and global food supply</a><br><small><em>The Conversation</em></small></li>
+  <li><a href="https://cepr.org/article/rising-cereal-prices-and-political-violence-croplands-africa">Higher cereal prices can fuel political violence linked with a harvest season in the croplands of Africa</a><br><small>VoxEU/CEPR</small></li>
+  <li><a href="https://theconversation.com/russias-war-on-ukraine-is-driving-up-wheat-prices-and-threatens-global-supplies-of-bread-meat-and-eggs-178879">Russia’s war on Ukraine is driving up wheat prices and threatens global supplies of bread, meat and eggs</a><br><small><em>The Conversation</em></small></li>
+  <li><a href="https://cepr.org/voxeu/columns/editorial-boards-leading-economics-journals-show-high-institutional-concentration-and">Editorial boards of leading economics journals show high institutional concentration and modest geographic diversity</a><br><small>VoxEU/CEPR</small></li>
+  <li><a href="https://theconversation.com/so-you-think-economic-downturns-cost-lives-our-findings-show-they-dont-149711">So you think economic downturns cost lives? Our findings show they don’t</a><br><small><em>The Conversation</em></small></li>
+  <li><a href="https://cepr.org/voxeu/columns/lives-saved-during-economic-downturns-evidence-australia">Lives saved during economic downturns: Evidence from Australia</a><br><small>VoxEU/CEPR</small></li>
+</ul>
+
+## Research presentations
+
+<ul class="link-list">
+  <li><a href="https://dubilava.github.io/misc/openclosed/openclosed.html">Closed-Book vs Open-Web</a></li>
+  <li><a href="https://dubilava.github.io/misc/protests/protests.html">Prices and Protests: Evidence from Maize Markets across Africa</a></li>
+  <li><a href="https://dubilava.github.io/misc/roads/roads.html">Roads and Riots</a></li>
+</ul>
+
+## Academic practice
+
+<ul class="link-list">
+  <li><a href="https://dubilava.github.io/misc/presenting/presentation.html">Academic Presenting: Getting it Right and Making it Work</a></li>
+  <li><a href="https://dubilava.github.io/misc/publishing/presentation.html">Academic Publishing: Getting it Right and Making it Work</a></li>
+</ul>

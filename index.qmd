@@ -1,0 +1,67 @@
+---
+title: "David Ubilava"
+pagetitle: "Applied Economist"
+description: "Applied economist researching food and agricultural markets, climate, conflict, and political violence."
+title-block-style: none
+---
+
+::: {.hero}
+::: {.hero-copy}
+# David Ubilava
+
+<p class="academic-title">Applied economist</p>
+
+<p class="profile-links"><a href="mailto:david.ubilava@sydney.edu.au">Email</a> · <a href="https://scholar.google.com/citations?user=VbNOr6wAAAAJ">Google Scholar</a> · <a href="resume/Ubilava-CV.pdf">Curriculum vitae</a></p>
+:::
+
+::: {.hero-media}
+<img src="profile/profile_office.png" class="hero-image" alt="David Ubilava in his office">
+:::
+:::
+
+::: {.role-strip}
+::: {.role}
+<span class="role-label">Appointment</span>
+<strong>Associate Professor<br>University of Sydney</strong>
+:::
+
+::: {.role}
+<span class="role-label">Editorial role</span>
+<strong>Co-Editor-in-Chief<br><em>Food Policy</em></strong>
+:::
+
+::: {.role}
+<span class="role-label">Research fields</span>
+<strong>Agricultural markets<br>Climate and conflict</strong>
+:::
+:::
+
+::: {.academic-summary}
+My research examines how agricultural markets and environmental forces interact with livelihoods, social conflict, and political violence. I use granular spatial and temporal data to study these relationships, with a particular focus on developing countries.
+
+My work sits at the intersection of agricultural economics, development, and political economy. It has appeared in journals including the *American Journal of Agricultural Economics*, *Journal of Economic Behavior & Organization*, *Journal of Peace Research*, *World Development*, and *Global Environmental Change*. My research program is supported by the Australian Research Council.
+
+I co-organise the [Social Conflict and Political Economy (SCoPE)](https://sydneyscope.org/) workshop series, which brings together researchers working across economics and political science.
+:::
+
+## Selected research
+
+::: {.selected-publications}
+::: {.selected-publication}
+**[Climate, Crops, and Postharvest Conflict](https://doi.org/10.1111/ajae.12504)**  
+*American Journal of Agricultural Economics* 108(1), 2026.  
+[Working paper](https://arxiv.org/abs/2311.16370) · [Data and replication](https://github.com/dubilava/elnino) · [Slides](https://dubilava.github.io/misc/ensoconflict/ensoconflict.html)
+:::
+
+::: {.selected-publication}
+**[Agricultural Roots of Social Conflict in Southeast Asia](https://doi.org/10.1177/00223433241305990)**  
+With Justin V. Hastings. *Journal of Peace Research* 62(6), 2025.  
+[Working paper](https://arxiv.org/abs/2304.10027) · [Data and replication](https://github.com/dubilava/seasia) · [Slides](https://dubilava.github.io/misc/seasia-presentation.html)
+:::
+
+::: {.selected-publication}
+**[Prices and Protests: Evidence from Maize Markets across Africa](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5665911)**  
+With Aaron Humphreys. Working paper.  
+[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5665911) · [Slides](https://dubilava.github.io/misc/protests/protests.html)
+:::
+:::

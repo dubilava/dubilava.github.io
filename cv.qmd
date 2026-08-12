@@ -1,0 +1,69 @@
+---
+title: "Curriculum Vitae"
+pagetitle: "Curriculum Vitae"
+---
+
+<p class="document-link"><a href="resume/Ubilava-CV.pdf">Full curriculum vitae (PDF)</a></p>
+
+::: {.cv-section}
+## Research areas
+
+::: {}
+- Food and agricultural markets
+- Climate and environmental economics
+- Conflict and political violence
+:::
+:::
+
+::: {.cv-section}
+## Profiles
+
+::: {}
+- [Google Scholar](https://scholar.google.com/citations?user=VbNOr6wAAAAJ)
+- [School of Economics, University of Sydney](https://www.sydney.edu.au/arts/schools/school-of-economics.html)
+- [Email](mailto:david.ubilava@sydney.edu.au)
+:::
+:::
+
+::: {.cv-section}
+## Current appointments
+
+::: {}
+- **Associate Professor**, School of Economics, University of Sydney, 2023–present
+- **Co-Editor-in-Chief**, *Food Policy*, 2026–present; Co-Editor, 2018–2025
+:::
+:::
+
+::: {.cv-section}
+## Previous appointments
+
+::: {}
+- **Associate Editor**, *American Journal of Agricultural Economics*, 2022–2025
+- **Associate Editor**, *Australian Journal of Agricultural and Resource Economics*, 2020–2021
+- **Senior Lecturer**, School of Economics, University of Sydney, 2017–2022
+- **Lecturer**, School of Economics, University of Sydney, 2014–2016
+- **Lecturer**, Department of Agricultural and Resource Economics, University of Sydney, 2012–2013
+- **Postdoctoral Researcher**, Department of Agricultural Economics, Mississippi State University, 2010–2012
+- **Graduate Research Assistant**, Department of Agricultural Economics, Purdue University, 2005–2010
+:::
+:::
+
+::: {.cv-section}
+## Education
+
+::: {}
+- **PhD, Agricultural Economics**, Purdue University, 2010
+- **MS, Agricultural Economics**, Purdue University, 2006
+- **BS, Economics**, Georgia State Agrarian University, 2003
+:::
+:::
+
+::: {.cv-section}
+## Selected recognition
+
+::: {}
+- Quality of Research Discovery Award, Australasian Agricultural and Resource Economics Society, 2025
+- Research Collaboration Award, Faculty of Arts and Social Sciences, University of Sydney, 2024
+- Teaching Excellence Award, Faculty of Arts and Social Sciences, University of Sydney, 2017
+:::
+:::

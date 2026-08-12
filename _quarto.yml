@@ -1,0 +1,59 @@
+project:
+  type: website
+  output-dir: .
+  render:
+    - index.qmd
+    - research.qmd
+    - writing.qmd
+    - cv.qmd
+
+website:
+  title: "David Ubilava"
+  site-url: https://davidubilava.com
+  description: "David Ubilava is an applied economist at the University of Sydney researching food and agricultural markets, climate, conflict, and political violence."
+  favicon: profile/profile_office.png
+  open-graph:
+    image: profile/profile_office.png
+    locale: en_AU
+  twitter-card:
+    image: profile/profile_office.png
+    creator: "@DavidUbilava"
+    card-style: summary
+  navbar:
+    pinned: true
+    title: "David Ubilava"
+    left:
+      - text: Research
+        href: research.qmd
+      - text: Writing & Talks
+        href: writing.qmd
+      - text: CV
+        href: cv.qmd
+    right:
+      - icon: envelope
+        href: mailto:david.ubilava@sydney.edu.au
+        aria-label: Email David Ubilava
+      - icon: twitter-x
+        href: https://twitter.com/DavidUbilava
+        aria-label: David Ubilava on X
+  page-footer:
+    left: "© 2026 David Ubilava"
+    right:
+      - text: University of Sydney
+        href: https://www.sydney.edu.au/arts/schools/school-of-economics.html
+      - text: Google Scholar
+        href: https://scholar.google.com/citations?user=VbNOr6wAAAAJ
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    anchor-sections: true
+    code-copy: true
+    lang: en
+
+execute:
+  freeze: auto
