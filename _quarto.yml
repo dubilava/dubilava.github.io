@@ -38,11 +38,6 @@ website:
         aria-label: David Ubilava on X
   page-footer:
     left: "© 2026 David Ubilava"
-    right:
-      - text: University of Sydney
-        href: https://www.sydney.edu.au/arts/schools/school-of-economics.html
-      - text: Google Scholar
-        href: https://scholar.google.com/citations?user=VbNOr6wAAAAJ
 
 format:
   html:

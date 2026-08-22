@@ -1,39 +1,31 @@
 ---
-title: "David Ubilava"
 pagetitle: "Applied Economist"
 description: "Applied economist researching food and agricultural markets, climate, conflict, and political violence."
 title-block-style: none
 ---
 
-::: {.hero}
-::: {.hero-copy}
-# David Ubilava
-
-<p class="academic-title">Applied economist</p>
-
-<p class="profile-links"><a href="mailto:david.ubilava@sydney.edu.au">Email</a> · <a href="https://scholar.google.com/citations?user=VbNOr6wAAAAJ">Google Scholar</a> · <a href="resume/Ubilava-CV.pdf">Curriculum vitae</a></p>
-:::
-
-::: {.hero-media}
+::: {.profile-intro}
+::: {.profile-card}
 <img src="profile/profile_office.png" class="hero-image" alt="David Ubilava in his office">
-:::
-:::
 
-::: {.role-strip}
-::: {.role}
+::: {.profile-details}
+::: {.profile-detail}
 <span class="role-label">Appointment</span>
 <strong>Associate Professor<br>University of Sydney</strong>
 :::
 
-::: {.role}
+::: {.profile-detail}
 <span class="role-label">Editorial role</span>
 <strong>Co-Editor-in-Chief<br><em>Food Policy</em></strong>
 :::
 
-::: {.role}
-<span class="role-label">Research fields</span>
+::: {.profile-detail}
+<span class="role-label">Research interests</span>
 <strong>Agricultural markets<br>Climate and conflict</strong>
 :::
+:::
+
+<p class="profile-links"><a href="mailto:david.ubilava@sydney.edu.au">Email</a> · <a href="https://scholar.google.com/citations?user=VbNOr6wAAAAJ">Google Scholar</a> · <a href="resume/Ubilava-CV.pdf">Curriculum vitae</a></p>
 :::
 
 ::: {.academic-summary}
@@ -41,7 +33,8 @@ My research examines how agricultural markets and environmental forces interact 
 
 My work sits at the intersection of agricultural economics, development, and political economy. It has appeared in journals including the *American Journal of Agricultural Economics*, *Journal of Economic Behavior & Organization*, *Journal of Peace Research*, *World Development*, and *Global Environmental Change*. My research program is supported by the Australian Research Council.
 
-I co-organise the [Social Conflict and Political Economy (SCoPE)](https://sydneyscope.org/) workshop series, which brings together researchers working across economics and political science.
+I am a director of the Sydney-based [CoPE Lab](https://www.sydneycopelab.org/), and co-organise the [Social Conflict and Political Economy (SCoPE)](https://sydneyscope.org/) workshop series, which brings together researchers working across economics and political science.
+:::
 :::
 
 ## Selected research
