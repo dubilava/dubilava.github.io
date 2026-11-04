@@ -8,32 +8,15 @@ title-block-style: none
 ::: {.profile-card}
 <img src="profile/profile_office.png" class="hero-image" alt="David Ubilava in his office">
 
-::: {.profile-details}
-::: {.profile-detail}
-<span class="role-label">Appointment</span>
-<strong>Associate Professor<br>University of Sydney</strong>
-:::
-
-::: {.profile-detail}
-<span class="role-label">Editorial role</span>
-<strong>Co-Editor-in-Chief<br><em>Food Policy</em></strong>
-:::
-
-::: {.profile-detail}
-<span class="role-label">Research interests</span>
-<strong>Agricultural markets<br>Climate and conflict</strong>
-:::
-:::
-
 <p class="profile-links"><a href="mailto:david.ubilava@sydney.edu.au">Email</a> · <a href="https://scholar.google.com/citations?user=VbNOr6wAAAAJ">Google Scholar</a> · <a href="resume/Ubilava-CV.pdf">Curriculum vitae</a></p>
 :::
 
 ::: {.academic-summary}
 My research examines how agricultural markets and environmental forces interact with livelihoods, social conflict, and political violence. I use granular spatial and temporal data to study these relationships, with a particular focus on developing countries.
 
-My work sits at the intersection of agricultural economics, development, and political economy. It has appeared in journals including the *American Journal of Agricultural Economics*, *Journal of Economic Behavior & Organization*, *Journal of Peace Research*, *World Development*, and *Global Environmental Change*. My research program is supported by the Australian Research Council.
+My program of research sits at the intersection of agricultural economics, economic development, and political economy. I use granular spatial and temporal data to study relationships between commodity markets and social conflict, with a particular focus on developing countries. My work has appeared in top-tier journals including the *American Journal of Agricultural Economics*, *Journal of Economic Behavior & Organization*, *Journal of Peace Research*, *World Development*, and *Global Environmental Change*. My research is supported by the Australian Research Council.
 
-I am the director of the [CoPE Lab](https://www.sydneycopelab.org/), and co-organise the [Social Conflict and Political Economy (SCoPE)](https://sydneyscope.org/) workshop series, which brings together researchers working across economics and political science.
+I am a co-editor-in-chief of Food Policy. I am the director of the [CoPE Lab](https://www.sydneycopelab.org/), and co-organise the [Social Conflict and Political Economy (SCoPE)](https://sydneyscope.org/) workshop series, which brings together researchers working across economics and political science.
 :::
 :::
 
