@@ -12,8 +12,6 @@ title-block-style: none
 :::
 
 ::: {.academic-summary}
-My research examines how agricultural markets and environmental forces interact with livelihoods, social conflict, and political violence. I use granular spatial and temporal data to study these relationships, with a particular focus on developing countries.
-
 My program of research sits at the intersection of agricultural economics, economic development, and political economy. I use granular spatial and temporal data to study relationships between commodity markets and social conflict, with a particular focus on developing countries. My work has appeared in top-tier journals including the *American Journal of Agricultural Economics*, *Journal of Economic Behavior & Organization*, *Journal of Peace Research*, *World Development*, and *Global Environmental Change*. My research is supported by the Australian Research Council.
 
 I am a co-editor-in-chief of Food Policy. I am the director of the [CoPE Lab](https://www.sydneycopelab.org/), and co-organise the [Social Conflict and Political Economy (SCoPE)](https://sydneyscope.org/) workshop series, which brings together researchers working across economics and political science.
