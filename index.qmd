@@ -37,7 +37,7 @@ I am the director of the [CoPE Lab](https://www.sydneycopelab.org/), and co-orga
 :::
 :::
 
-## Selected publications
+## Recent publications
 
 ::: {.selected-publications}
 ::: {.selected-publication}
@@ -53,8 +53,8 @@ With Justin V. Hastings. *Journal of Peace Research* 62(6), 2025.
 :::
 
 ::: {.selected-publication}
-**[Prices and Protests: Evidence from Maize Markets across Africa](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5665911)**  
-With Aaron Humphreys. Working paper.  
-[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5665911) · [Slides](https://dubilava.github.io/misc/protests/protests.html)
+**[Agricultural Windfalls and the Seasonality of Political Violence in Africa](https://doi.org/10.1111/ajae.12364)**  
+With Justin V. Hastings and Kadir Atalay. *American Journal of Agricultural Economics* 105(5), 2023.  
+[Working paper](https://arxiv.org/abs/2202.07863) · [Data and replication](https://github.com/dubilava/conflict) · [Slides](https://dubilava.github.io/conflict/presentation.html)
 :::
 :::
