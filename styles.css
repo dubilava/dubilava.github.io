@@ -12,6 +12,7 @@
   --shadow: 0 20px 60px rgba(32, 38, 40, 0.08);
   --serif: Georgia, "Times New Roman", serif;
   --sans: Inter, "Segoe UI", Helvetica, Arial, sans-serif;
+  --site-width: 75%;
 }
 
 html {
@@ -60,12 +61,25 @@ h3 {
   font-size: 1.38rem;
 }
 
+#quarto-header {
+  margin-inline: auto;
+  width: var(--site-width);
+}
+
 .navbar {
   backdrop-filter: blur(16px);
   background: rgba(255, 255, 255, 0.96) !important;
   border-bottom: 1px solid rgba(32, 38, 40, 0.10);
   box-shadow: none;
   min-height: 76px;
+}
+
+#quarto-header > nav {
+  padding-inline: 0;
+}
+
+.navbar > .navbar-container {
+  padding-inline: 0;
 }
 
 .navbar-brand {
@@ -93,15 +107,18 @@ h3 {
 }
 
 #quarto-content {
+  display: block;
+  margin-inline: auto;
   min-height: calc(100vh - 150px);
+  width: var(--site-width);
 }
 
 main.content {
   margin-bottom: 5rem;
   margin-top: 0;
-  max-width: 1180px;
-  padding-left: clamp(1.25rem, 4vw, 3rem);
-  padding-right: clamp(1.25rem, 4vw, 3rem);
+  max-width: none;
+  padding-inline: 0;
+  width: 100%;
 }
 
 #title-block-header.quarto-title-block.default .quarto-title .title {
@@ -486,9 +503,24 @@ main.content {
   color: white;
 }
 
+.footer {
+  margin-inline: auto;
+  width: var(--site-width);
+}
+
+footer.footer .nav-footer {
+  padding-inline: 0;
+}
+
 ::selection {
   background: #eadedb;
   color: var(--ink);
+}
+
+@media (max-width: 1100px) {
+  :root {
+    --site-width: 90%;
+  }
 }
 
 @media (max-width: 900px) {
@@ -512,6 +544,10 @@ main.content {
 }
 
 @media (max-width: 600px) {
+  :root {
+    --site-width: 100%;
+  }
+
   body {
     font-size: 1rem;
   }
