@@ -3,7 +3,7 @@ title: "Writing & Talks"
 pagetitle: "Writing and Talks"
 ---
 
-## Popular writing
+## Non-traditional research outputs
 
 <ul class="link-list">
   <li><a href="https://theconversation.com/what-a-strong-el-nino-could-mean-for-australian-communities-jobs-and-food-prices-285486">What a strong El Niño could mean for Australian communities, jobs and food prices</a><br><small><em>The Conversation</em>, June 2026 · with David A. Fleming-Muñoz</small></li>
@@ -17,15 +17,7 @@ pagetitle: "Writing and Talks"
   <li><a href="https://cepr.org/voxeu/columns/lives-saved-during-economic-downturns-evidence-australia">Lives saved during economic downturns: Evidence from Australia</a><br><small>VoxEU/CEPR</small></li>
 </ul>
 
-## Research presentations
-
-<ul class="link-list">
-  <li><a href="https://dubilava.github.io/misc/openclosed/openclosed.html">Closed-Book vs Open-Web</a></li>
-  <li><a href="https://dubilava.github.io/misc/protests/protests.html">Prices and Protests: Evidence from Maize Markets across Africa</a></li>
-  <li><a href="https://dubilava.github.io/misc/roads/roads.html">Roads and Riots</a></li>
-</ul>
-
-## Academic practice
+## Academic advice
 
 <ul class="link-list">
   <li><a href="https://dubilava.github.io/misc/presenting/presentation.html">Academic Presenting: Getting it Right and Making it Work</a></li>
