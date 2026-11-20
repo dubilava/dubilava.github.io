@@ -4,8 +4,8 @@
   --paper: #ffffff;
   --paper-deep: #f5f5f3;
   --surface: #ffffff;
-  --accent: #327572;
-  --accent-dark: #235b59;
+  --accent: #1e90ff;
+  --accent-dark: #0074d9;
   --sage: #202628;
   --sage-light: #eef0ef;
   --line: #e2e4e3;
@@ -29,15 +29,15 @@ body {
 
 a {
   color: var(--accent-dark);
-  text-decoration-color: color-mix(in srgb, var(--accent-dark) 28%, transparent);
+  text-decoration-color: var(--accent);
   text-decoration-thickness: 1px;
   text-underline-offset: 0.2em;
 }
 
 a:hover,
 a:focus {
-  color: var(--accent);
-  text-decoration-color: currentColor;
+  color: var(--accent-dark);
+  text-decoration-thickness: 2px;
 }
 
 h1,
@@ -513,7 +513,7 @@ footer.footer .nav-footer {
 }
 
 ::selection {
-  background: color-mix(in srgb, var(--accent-dark) 15%, var(--paper));
+  background: #87ceeb;
   color: var(--ink);
 }
 
