@@ -4,8 +4,8 @@
   --paper: #ffffff;
   --paper-deep: #f5f5f3;
   --surface: #ffffff;
-  --accent: #8e4a3b;
-  --accent-dark: #6f382e;
+  --accent: #327572;
+  --accent-dark: #235b59;
   --sage: #202628;
   --sage-light: #eef0ef;
   --line: #e2e4e3;
@@ -29,7 +29,7 @@ body {
 
 a {
   color: var(--accent-dark);
-  text-decoration-color: rgba(111, 56, 46, 0.28);
+  text-decoration-color: color-mix(in srgb, var(--accent-dark) 28%, transparent);
   text-decoration-thickness: 1px;
   text-underline-offset: 0.2em;
 }
@@ -306,7 +306,7 @@ main.content {
 }
 
 .research-card:hover {
-  border-color: rgba(180, 79, 54, 0.6);
+  border-color: color-mix(in srgb, var(--accent) 60%, transparent);
   box-shadow: 0 16px 40px rgba(23, 37, 36, 0.08);
   transform: translateY(-4px);
 }
@@ -513,7 +513,7 @@ footer.footer .nav-footer {
 }
 
 ::selection {
-  background: #eadedb;
+  background: color-mix(in srgb, var(--accent-dark) 15%, var(--paper));
   color: var(--ink);
 }
 
